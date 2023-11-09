@@ -2,49 +2,30 @@
 
 A Design System can be comprised of principles, guidance, and code that makes it easier to build accessible, mobile-friendly government websites. Human-centered design is utilized to support human-centered design teams.
 
-## Federal / Country
-- [Argentina](#argentina)
-- [Australia](#australia)
-- [Austria](#austria)
-- [Brazil](#brazil)
-- [Canada](#canada)
-- [Czech Republic](#czech-republic)
-- [Estonia](#estonia)
-- [France](#france)
-- [Germany](#germany)
-- [Greece](#greece)
-- [Ireland](#ireland-pdf)
-- [Italy](#italy)
-- [Netherlands](#netherlands)
-- [New Zealand](#new-zealand)
-- [Scotland](#scotland)
-- [Singapore](#singapore)
-- [Ukraine](#ukraine)
-- [United Kingdom](#united-kingdom)
-- [United Kingdom - National Health Services](#united-kingdom---national-health-services)
-- [United States of America](#united-states-of-america)
+Click on a table entry below to be taken to more information about it's Design System(s).
 
-## State / Regional
-
-- [Australia - New South Wales](#australia---new-south-wales)
-- [Australia - South Australia](#australia---south-australia)
-- [Canada - British Columbia](#canada---british-columbia)
-- [Canada - Ontario](#canada---ontario)
-- [United Kingdom - Essex](#united-kingdom---essex)
-- [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council)
-- [United States - California](#united-states---california)
-- [United States - Massachusetts](#united-states---massachusetts)
-
-## Local / Municipal
-- [United Kingdom - Bristol City Council](#bristol-city-council)
-- [United States - Austin, Texas](#austin-texas)
-- [United States - Bloomington, Indiana](#bloomington-indiana)
-- [United States - Boston, Massachusetts](#boston-massachusetts)
-- [United States - Chicago, Illinois](#chicago-illinois)
-- [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania)
-- [Córdoba, Argentina](#córdoba-argentina)
-- [Alberta, Canada](#alberta-canada-pdf)
-
+| Federal / Country | State / Regional | Local / Municipal |
+| ----------------- | ---------------- | ----------------- |
+| [Argentina](#argentina) | [Australia - New South Wales](#australia---new-south-wales) | [Alberta, Canada](#alberta-canada-pdf) |
+| [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [Córdoba, Argentina](#córdoba-argentina) |
+| [Austria](#austria) | [Canada - British Columbia](#canada---british-columbia) | [United Kingdom - Bristol City Council](#bristol-city-council) |
+| [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Austin, Texas](#austin-texas) |
+| [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Bloomington, Indiana](#bloomington-indiana) |
+| [Czech Republic](#czech-republic) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Boston, Massachusetts](#boston-massachusetts) |
+| [Estonia](#estonia) | [United States - California](#united-states---california) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [France](#france) | [United States - Massachusetts](#united-states---massachusetts) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Germany](#germany) |  |  |
+| [Greece](#greece) |  |  |
+| [Ireland](#ireland-pdf) |  |  |
+| [Italy](#italy) |  |  |
+| [Netherlands](#netherlands) |  |  |
+| [New Zealand](#new-zealand) |  |  |
+| [Scotland](#scotland) |  |  |
+| [Singapore](#singapore) |  |  |
+| [Ukraine](#ukraine) |  |  |
+| [United Kingdom](#united-kingdom) |  |  |
+| [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
+| [United States of America](#united-states-of-america) |  |  |
 ---
 
 ## Federal / Country
