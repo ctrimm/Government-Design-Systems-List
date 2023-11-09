@@ -193,14 +193,3 @@ Click on a table entry below to be taken to more information about it's Design S
 *Last updated in January 2018*
 
 #### [Alberta, Canada](https://corporateidentity.alberta.ca/downloads/Alberta_Corporate_Identity_Manual.pdf) [PDF]
-
-
-
-
-
----
-
-##### Sources Referenced
-- [Hacker News Comment on "The impact of removing jQuery on our web performance"](https://news.ycombinator.com/item?id=32480964)
-- [Local Government Design Systems Repository by Ron Bronson](https://github.com/quarterback/local-government-design-systems) - *Last Updated February 22, 2020*
-- [Platformland Government Design Systems Repository Table](https://platformland.github.io/government-design-systems/data/design-systems/) - *Last Updated May 19, 2022*
