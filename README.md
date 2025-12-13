@@ -14,18 +14,23 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Boston, Massachusetts](#boston-massachusetts) |
 | [Czech Republic](#czech-republic) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
 | [Denmark](#denmark) | [United States - California](#united-states---california) |  |
-| [Estonia](#estonia) | [United States - Massachusetts](#united-states---massachusetts) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Finland](#finland) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [France](#france) |  |  |
-| [Germany](#germany) |  |  |
+| [Estonia](#estonia) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Finland](#finland) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [France](#france) | [United States - New York](#united-states---new-york) |  |
+| [Germany](#germany) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
 | [Greece](#greece) |  |  |
+| [Iceland](#iceland) |  |  |
+| [India](#india) |  |  |
 | [Ireland](#ireland-pdf) |  |  |
 | [Italy](#italy) |  |  |
+| [Japan](#japan) |  |  |
 | [Netherlands](#netherlands) |  |  |
 | [New Zealand](#new-zealand) |  |  |
 | [Norway](#norway) |  |  |
+| [Poland](#poland) |  |  |
 | [Scotland](#scotland) |  |  |
 | [Singapore](#singapore) |  |  |
+| [Switzerland](#switzerland) |  |  |
 | [Ukraine](#ukraine) |  |  |
 | [United Kingdom](#united-kingdom) |  |  |
 | [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
@@ -140,6 +145,24 @@ Click on a table entry below to be taken to more information about it's Design S
 ### [Greece](https://guide.services.gov.gr/)
 *Documentation Coming Soon*
 
+### [Iceland](https://island.is/en/o/digital-iceland/design-system-1/design-system-island)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/island-is/island.is) | Active development - [Storybook](https://ui.devland.is/) | Ísland.is Design System for Digital Iceland - monorepo for Iceland's digital services. Developed in the open, ensures consistency across all governmental agencies |
+| Underpinning Technology | React/TypeScript | Mobile-first methodology, developed and showcased using Storybook |
+| Web Components | 🟢 | Components available and viewable at ui.devland.is |
+| 508 Compliant | 🟢 | Design always in sync across services to ensure consistent user experience |
+| Storybook / Figma | 🟢 | Storybook at ui.devland.is, Figma instructions in English. Logo and design introduced March 2020 |
+
+### [India](https://ux4g.gov.in/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code/Docs](https://doc.ux4g.gov.in/) | Active - UX4G (User Experience for Government) | Created by National e-Governance Division and IBD of Digital India Corporation under Ministry of Electronics and IT (MeitY). Standard Design System for digital services |
+| Underpinning Technology | HTML/CSS/JS | Mobile-first approach, downloadable compiled CSS and JavaScript, source code available for government departments |
+| Web Components | 🟢 | Design system library with reusable components |
+| 508 Compliant | 🟢 | Compliance with international WCAG standards, focuses on core UX principles including typography, color theory, and layout design |
+| Storybook / Figma | 🟡 | Support team conducts regular awareness workshops, [UX4G Handbook](https://www.ux4g.gov.in/assets/img/pdf/UX4G-Handbook.pdf) available |
+
 ### [Ireland](https://www.ops.gov.ie/app/uploads/2022/10/Design-iPrinciples-for-government-in-Ireland-web.pdf) [PDF]
 *Documentation Coming Soon*
 
@@ -152,8 +175,23 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Strong accessibility focus with 'accessibility by design' integrated into every process. Components undergo accessibility verification for consistency |
 | Storybook / Figma | 🟢 | Full Figma UI components available for prototyping |
 
-### [Netherlands](https://www.rijkshuisstijl.nl/)
-*Documentation Coming Soon*
+### [Japan](https://design.digital.go.jp/dads/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/digital-go-jp/) | Beta version - Active development since May 2024 | Digital Agency Design System (デジタル庁デザインシステム) - design assets for government agencies, local governments, and public organizations. [React components](https://github.com/digital-go-jp/design-system-example-components-react), [Design tokens](https://github.com/digital-go-jp/design-tokens) |
+| Underpinning Technology | React/Tailwind CSS | Tailwind CSS theme plugin based on design system, design tokens provide CSS files for colors, fonts, and elevation |
+| Web Components | 🟢 | Sample components in React, design tokens available |
+| 508 Compliant | 🟡 | Design language with guidelines for usability and accessibility |
+| Storybook / Figma | 🔴 | Dedicated design system beta site launched May 2024 |
+
+### [Netherlands](https://nldesignsystem.nl/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nl-design-system) | Active development - [Rijkshuisstijl community](https://github.com/nl-design-system/rijkshuisstijl-community) | NL Design System (NLDS) - collaborative project for government organizations to work on accessible, inclusive, user-friendly components. Multiple formats: CSS, React, Web Components, Twig |
+| Underpinning Technology | Multi-framework | Components available in CSS, React, Web Components, Twig. Theme Wizard for creating accessible house styles |
+| Web Components | 🟢 | Full web components library, multiple implementation options |
+| 508 Compliant | 🟢 | Strong accessibility focus. "Hall of Fame" components guaranteed to meet accessibility requirements and tested in production. Do's/don'ts, WCAG criteria explanations, tips beyond WCAG |
+| Storybook / Figma | 🟢 | Comprehensive documentation, shared insights on accessibility |
 
 ### [New Zealand](https://design-system-alpha.digital.govt.nz/)
 | **Feature** | **Status** | **Other Info** |
@@ -173,6 +211,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Designed for accessible, consistent, and user-friendly services. Meets accessibility standards |
 | Storybook / Figma | 🟢 | Components built in both Figma and React |
 
+### [Poland](https://www.gov.pl/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active development | Gov.pl Design System - portal specification with rules for designing websites including CSS definitions, typography, colors, element arrangement. Ready-made components with source code available |
+| Underpinning Technology | Web-based | Benchmarked against UK, Estonia, Ukraine, Denmark systems and consulted with Apple and Microsoft for standards alignment |
+| Web Components | 🟡 | Components available with source code for download |
+| 508 Compliant | 🟢 | Good practices in creating accessible websites and applications. Supports mObywatel (mobile government services) and e-dowód (digital ID) |
+| Storybook / Figma | 🔴 | Design System website with downloadable components |
+
 ### [Scotland](https://designsystem.gov.scot/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -190,6 +237,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Pre-built accessible components that can be reused or customized. All checked for accessibility standards |
 | 508 Compliant | 🟢 | Components are perceivable, operable, understandable, and robust. Comply with WCAG standards out-of-the-box |
 | Storybook / Figma | 🔴 | Developer portal and documentation available |
+
+### [Switzerland](https://swiss.github.io/styleguide/en/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/swiss/styleguide) | Active development | Confederation Web Guidelines (admin.ch styleguide) - design specifications for Swiss Federal Administration on the Internet. Binding for all websites within admin.ch domain |
+| Underpinning Technology | HTML/CSS/JavaScript | Standard HTML code (as of 2013) with CSS and JavaScript style sheets. Can be used for apps and other digital channels |
+| Web Components | 🟢 | Templates and elements available for direct use by developer teams |
+| 508 Compliant | 🟡 | Three element categories: Corporate Design (mandatory), Fixed Elements (position/design fixed if used), Recommended Elements (adaptable) |
+| Storybook / Figma | 🔴 | Comprehensive web guidelines documentation |
 
 ### [Ukraine](https://diia.fedoriv.com/)
 *Documentation Coming Soon*
@@ -254,6 +310,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🔴 | No mentions of accessibility |
 | Storybook / Figma | 🔴 | No usage of Storybook or Figma |
 
+### [United States - Colorado](https://dcs.colorado.gov/ids/digital-guidelines-and-design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code | Founded 2019 - Based on USWDS | **Built on USWDS foundation** - Colorado Digital Guidelines & Design System. Living guidelines for cohesive, accessible, user-centered digital ecosystem. [Colorado Digital Service](https://oit.colorado.gov/colorado-digital-service) in Governor's Office of IT |
+| Underpinning Technology | USWDS-based | Cross-functional team using community-centered and outcomes-based approach. Four principles: inclusive design, transparent communication, performance optimization, continuous improvement |
+| Web Components | 🟢 | Uses USWDS components as foundation |
+| 508 Compliant | 🟢 | Accessibility first - includes inclusive design, plain language, responsiveness, and functional accessibility. Data and people's real needs drive design |
+| Storybook / Figma | 🔴 | Digital guidelines documentation, emphasis on simple and clear design |
+
 ### [United States - Massachusetts](http://mayflower.digital.mass.gov/core)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -262,6 +327,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Uses Web Components, but unsure to what extent |
 | 508 Compliant | 🟢 | [Has Accessibility as a Core Principle](https://mayflower.digital.mass.gov/core/index.html?path=/docs/principles-accessibility--page) |
 | Storybook / Figma | 🟢 | [Uses Storybook](https://mayflower.digital.mass.gov/core/index.html) |
+
+### [United States - New York](https://designsystem.ny.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/ITS-HCD/nysds) | Active development | New York State Design System (NYSDS) - helps state agencies build fast, accessible, mobile-friendly applications and sites. Reusable components, patterns, and clear guidance |
+| Underpinning Technology | LitElement/Web Components | Components built with Lit for performance and flexibility. CSS framework with design tokens and utility classes. Customizable agency-specific themes |
+| Web Components | 🟢 | Modular web components built with Lit. [Intro to NYSDS Web Components](https://designsystem.ny.gov/videos/intro-to-nys-design-system-web-components/) video available |
+| 508 Compliant | 🟢 | Every component tested to meet WCAG 2.2 standards |
+| Storybook / Figma | 🟢 | Figma libraries organized into Components and Assets. Design and code libraries synchronized for 1:1 parity between design elements and code components |
 
 ### [United States - Pennsylvania](https://wcmauthorguide.pa.gov/en/keystone-design-system.html)
 | **Feature** | **Status** | **Other Info** |
