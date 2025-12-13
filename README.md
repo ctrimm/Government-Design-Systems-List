@@ -140,10 +140,22 @@ Click on a table entry below to be taken to more information about it's Design S
 | Storybook / Figma | 🟢 | Storybook available locally via build command. [Figma resources](https://www.figma.com/@gouvfr) available from Service d'Information du Gouvernement |
 
 ### [Germany](https://styleguide.bundesregierung.de/sg-de/)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code | Login-protected | Bundesregierung Styleguide contains all specifications for visual appearance of federal government: Office, print and digital media, and campaign media. Access restricted to authorized users |
+| Underpinning Technology | N/A | Specifications for digital media |
+| Web Components | 🔴 | No public web components found |
+| 508 Compliant | 🟡 | Accessibility information not publicly available |
+| Storybook / Figma | 🔴 | Login required for access to resources |
 
 ### [Greece](https://guide.services.gov.gr/)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Guide available | GOV.GR design guide to help designers and developers create friendly, easy-to-use digital public services. Reusable, accessible components for forms, navigation, panels, tables |
+| Underpinning Technology | Web-based | Guidelines covering: Perceivable, Operable, Understandable, Robust (POUR) |
+| Web Components | 🟡 | Components available, source code availability unclear |
+| 508 Compliant | 🟢 | Must meet WCAG 2.1 Level AA per L. 4727/2020 and EU Directive 2016/2102. [Digital Accessibility Guide](https://digital-skills-jobs.europa.eu/en/inspiration/resources/digital-accessibility-guide-websites-and-mobile-applications-greek-public) published by Secretariat-General for Digital Governance |
+| Storybook / Figma | 🔴 | [Accessibility checklist](https://guide.services.gov.gr/docs/accessibility) and guidelines available |
 
 ### [Iceland](https://island.is/en/o/digital-iceland/design-system-1/design-system-island)
 | **Feature** | **Status** | **Other Info** |
@@ -248,7 +260,13 @@ Click on a table entry below to be taken to more information about it's Design S
 | Storybook / Figma | 🔴 | Comprehensive web guidelines documentation |
 
 ### [Ukraine](https://diia.fedoriv.com/)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/diia-open-source) | Active - Open Source | Diia - app with access to citizen's digital documents and government services. [Official open source site](https://opensource.diia.gov.ua/en.html). iOS, Android, and Backend repos available. Design by Fedoriv received RedDot international award |
+| Underpinning Technology | Native mobile apps + Backend | Repositories for iOS (diia, documents, publicservices, authorization, uicomponents), Android, Backend services |
+| Web Components | 🟡 | UI components for mobile apps, standard interface elements and integrations |
+| 508 Compliant | 🟡 | Accessibility information not explicitly documented |
+| Storybook / Figma | 🔴 | Diia.Engine low-code platform for designing and launching digital services |
 
 ### [United Kingdom](https://design-system.service.gov.uk/)
 | **Feature** | **Status** | **Other Info** |
@@ -281,25 +299,59 @@ Click on a table entry below to be taken to more information about it's Design S
 
 ## State / Regional
 
-### [Australia - New South Wales](https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/design-system)
-*Documentation Coming Soon*
+### [Australia - New South Wales](https://designsystem.nsw.gov.au/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/digitalnsw/nsw-design-system) | Active development | NSW Design System - toolkit of styles, patterns, standards and guidance for creating distinctly NSW digital products and services. Helps create unified, trusted, inclusive, audience-centered digital experiences |
+| Underpinning Technology | HTML/CSS/React | Available via npm Package Manager or JSDelivr CDN. UI kits in Figma, HTML, and React |
+| Web Components | 🟢 | Reusable design, HTML and CSS UI components |
+| 508 Compliant | 🟢 | Consistent, user-focused customer experiences with accessibility built-in |
+| Storybook / Figma | 🟢 | [Figma UI kits](https://www.figma.com/community/file/1326994583954765832) available, documented components |
 
-### [Australia - South Australia](https://www.designsystem.sa.gov.au/)
-*Documentation Coming Soon*
+### [Australia - South Australia](https://www.accessibility.sa.gov.au/support-and-solutions/website-design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Website Design System (WDS) - provides agencies with base website from 50+ components built to internationally recognised standards. Increased accessibility as primary development reason. Contact: onlineaccessibility@sa.gov.au |
+| Underpinning Technology | N/A | Base website system with 50+ components |
+| Web Components | 🟢 | 50+ components available |
+| 508 Compliant | 🟢 | Built to internationally recognised accessibility standards |
+| Storybook / Figma | 🔴 | Contact SA government for access details |
 
-### [Canada - British Columbia](https://developer.gov.bc.ca/components)
-[Design System](https://github.com/bcgov/design-system/)
-[About the Design System](https://developer.gov.bc.ca/Design-System/About-the-Design-System)
-*Documentation Coming Soon*
+### [Canada - British Columbia](https://www2.gov.bc.ca/gov/content/digital/design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/bcgov/design-system) | v0.5.2 - **Development paused Feb 7, 2025** | B.C. Design System - open source project to help developers and designers deliver consistent digital UX. **Note: Development paused effective February 7, 2025 - libraries can still be used but no updates planned** |
+| Underpinning Technology | React/Figma | Design tokens (Figma, CSS, JavaScript variables), UI components in Figma and React. Licensed under Apache 2.0 |
+| Web Components | 🟢 | Components include Header, Footer, Buttons, Modals, Alerts, Callouts, Form elements, Dropdowns, Tags, Tooltips |
+| 508 Compliant | 🟡 | Accessibility information available, full compliance status unclear |
+| Storybook / Figma | 🟢 | [Figma components](https://www.figma.com/community/file/1326994583954765832/b-c-design-system) available. Contact: designsystem@gov.bc.ca |
 
-### [Canada - Ontario](https://www.ontario.ca/page/ontario-ca-web-editing-guide)
-*Documentation Coming Soon*
+### [Canada - Ontario](https://www.ontario.ca/page/ontario-ca-web-content-editing-guide)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Ontario.ca Web Content Editing Guide | Guide for creating accessible, user-focused digital products consistent with Ontario brand. Uses Drupal CMS with WYSIWYG editor. Modified Foundation 12-column nestable grid system |
+| Underpinning Technology | Drupal-based | Modified Foundation grid system, photography guidelines, spacing classes |
+| Web Components | 🟡 | Grid layouts, spacing utilities, design elements available |
+| 508 Compliant | 🟢 | **Must meet WCAG 2.1 AA** per AODA (Ontario Regulation 191/11). All public websites as of Jan 2021 must meet WCAG 2.1 AA. Includes alt text requirements, colour differentiation for accessibility |
+| Storybook / Figma | 🔴 | Web content editing guide with accessibility requirements and design guidelines |
 
 ### [United Kingdom - Essex](https://www.essex.gov.uk/essex-county-councils-design-and-patterns-library)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Essex County Council's Design and Patterns Library |
+| Underpinning Technology | N/A | Design patterns library |
+| Web Components | 🟡 | Patterns and components available |
+| 508 Compliant | 🟡 | Accessibility information not publicly detailed |
+| Storybook / Figma | 🔴 | Design and patterns library documentation |
 
 #### [United Kingdom - Oxfordshire County Council](https://occlss.oxfordshire.gov.uk/)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Oxfordshire County Council Living Style Sheet (OCCLSS) |
+| Underpinning Technology | N/A | Living style sheet for council services |
+| Web Components | 🟡 | Style sheet components available |
+| 508 Compliant | 🟡 | Accessibility information not publicly detailed |
+| Storybook / Figma | 🔴 | Living style sheet documentation |
 
 ### [United States - California](https://designsystem.webstandards.ca.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -352,23 +404,59 @@ Click on a table entry below to be taken to more information about it's Design S
 
 ### United States
 #### [Austin, Texas](https://github.com/cityofaustin/janis)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/cityofaustin/janis) | Archived - Last updated 2020 | Janis - Austin's service design platform. Repository archived and read-only |
+| Underpinning Technology | N/A | Service design platform |
+| Web Components | 🔴 | Project archived |
+| 508 Compliant | 🟡 | Accessibility information not detailed |
+| Storybook / Figma | 🔴 | Archived repository |
 
 #### [Bloomington, Indiana](https://bloomington.in.gov/utilities/review/design/manual)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Bloomington Utilities design manual |
+| Underpinning Technology | N/A | Design manual for utilities |
+| Web Components | 🔴 | Manual-based guidance |
+| 508 Compliant | 🟡 | Accessibility information not detailed |
+| Storybook / Figma | 🔴 | Design manual documentation |
 
 #### [Boston, Massachusetts](https://github.com/CityOfBoston/patterns)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/CityOfBoston/patterns) | Last updated 2019 | City of Boston patterns library repository |
+| Underpinning Technology | N/A | Patterns library |
+| Web Components | 🟡 | Pattern library components |
+| 508 Compliant | 🟡 | Accessibility information not detailed |
+| Storybook / Figma | 🔴 | GitHub-hosted patterns |
 
 #### [Chicago, Illinois](https://design.chicago.gov/)
-*Documentation Coming Soon*
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/Chicago/design.chicago.gov) | Active - **Built on USWDS foundation** | Chicago Design System (CDS) - public visual identity of City of Chicago. Inclusive, equitable system for City communication. **Code built upon US Web Design System** with Chicago visual identity and additional UI components. Open source, public domain (CC0 1.0) |
+| Underpinning Technology | USWDS-based | Visual brand identity guide, web UI pattern library, methods/plays for human-centered design |
+| Web Components | 🟢 | Built on USWDS with City of Chicago extensions |
+| 508 Compliant | 🟢 | Digital Services Team champions accessibility across City digital products in partnership with Mayor's Office for People with Disabilities |
+| Storybook / Figma | 🔴 | Pattern library and methods documentation at design.chicago.gov |
 
-#### [Philadelphia, Pennsylvania](http://standards.phila.gov/)
-*Documentation Coming Soon*
+#### [Philadelphia, Pennsylvania](https://standards.phila.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Digital Standards - design, code, and content guidelines for City websites. [Accessibility overview](https://standards.phila.gov/docs/accessibility/overview.html) available |
+| Underpinning Technology | Web-based | Sans serif typography for screen readability |
+| Web Components | 🟡 | Components and guidelines available |
+| 508 Compliant | 🟡 | Partially conformant with WCAG 2.1 Level AA. Color combinations pass WCAG AA contrast ratios. Accessibility is shared responsibility among City employees and contractors |
+| Storybook / Figma | 🔴 | Digital standards documentation with color palette, typography, menus, and layout guidelines |
 
 ### United Kingdom
-#### [Bristol City Council](http://style.bristol.gov.uk/)
-*Documentation Coming Soon*
+#### [Bristol City Council](https://design.bristol.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Design System and Pattern Library | Bristol City Council Design System with guides for layout, typography, colour. [Pattern Library](https://style.bristol.gov.uk/) represents standard set of web components/patterns through user testing and accessibility testing |
+| Underpinning Technology | Web-based | Meets Bristol City Council frontend coding guidelines |
+| Web Components | 🟢 | Pattern library with tested components |
+| 508 Compliant | 🟢 | Accessibility testing conducted on patterns. Components designed for consistent, accessible experiences |
+| Storybook / Figma | 🔴 | Design system at design.bristol.gov.uk, Pattern library at style.bristol.gov.uk |
 
 
 ### Other Local / Municipalities
