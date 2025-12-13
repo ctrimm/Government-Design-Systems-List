@@ -12,8 +12,8 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Belgium/Flanders](#belgiumflanders) | [Canada - British Columbia](#canada---british-columbia) | [United States - Austin, Texas](#austin-texas) |
 | [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Bloomington, Indiana](#bloomington-indiana) |
 | [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Boston, Massachusetts](#boston-massachusetts) |
-| [Czech Republic](#czech-republic) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Denmark](#denmark) | [United States - California](#united-states---california) |  |
+| [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [Czech Republic](#czech-republic) | [United States - California](#united-states---california) |  |
 | [Estonia](#estonia) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
 | [Finland](#finland) | [United States - Massachusetts](#united-states---massachusetts) |  |
 | [France](#france) | [United States - New York](#united-states---new-york) |  |
@@ -24,9 +24,11 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Ireland](#ireland-pdf) |  |  |
 | [Italy](#italy) |  |  |
 | [Japan](#japan) |  |  |
+| [Mexico](#mexico) |  |  |
 | [Netherlands](#netherlands) |  |  |
 | [New Zealand](#new-zealand) |  |  |
 | [Norway](#norway) |  |  |
+| [Peru](#peru) |  |  |
 | [Poland](#poland) |  |  |
 | [Scotland](#scotland) |  |  |
 | [Singapore](#singapore) |  |  |
@@ -35,6 +37,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [United Kingdom](#united-kingdom) |  |  |
 | [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
 | [United States of America](#united-states-of-america) |  |  |
+| [Uruguay](#uruguay) |  |  |
 ---
 
 ## Federal / Country
@@ -93,6 +96,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Web Components in newer [Alpha Version](https://design.alpha.canada.ca/en/installation/#supported-frameworks) - [Code Here](https://github.com/cds-snc/gcds-components) |
 | 508 Compliant | 🟡 | Unsure if components at A11Y friendly |
 | Storybook / Figma | 🔴 | Figma "Coming Soon" on [Individual Component Page](https://design.alpha.canada.ca/en/components/interface-elements/button/) |
+
+### [Chile](https://kitdigital.gob.cl/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/digital-gob-cl) | Active development | Kit Digital - series of digital communication, design, and development tools to facilitate creation and improvement of official Government products. Managed by Digital Government Division, Ministry General Secretariat of the Presidency |
+| Underpinning Technology | Web-based | Graphic standards, government logos, social media guidelines, web recommendations, typography, UI Kit and Framework kit for web templates |
+| Web Components | 🟡 | UI Kit and Framework kit available |
+| 508 Compliant | 🟢 | [Accessibility measures (Medidas de Accesibilidad)](https://kitdigital.gob.cl/accesibilidad/) dedicated section. Focus on accessibility for all citizens including those with disabilities |
+| Storybook / Figma | 🔴 | Design and development tools documentation |
 
 ### [Czech Republic](https://designsystem.gov.cz/)
 | **Feature** | **Status** | **Other Info** |
@@ -196,6 +208,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Design language with guidelines for usability and accessibility |
 | Storybook / Figma | 🔴 | Dedicated design system beta site launched May 2024 |
 
+### [Mexico](https://www.gob.mx/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - [Figma resource available](https://www.figma.com/community/file/1070417323010388812/gob-mx) | Sistema de diseño para desarrollos del gobierno de México. Digital service design principles, standards with reusable tools at gob.mx/serviciosdigitales. Platform coordinates services across ~300 government agencies, 32 states, and major cities with 87% services online |
+| Underpinning Technology | Web-based | Single window platform (Gob.mx) facilitates interoperability, data sharing, ensures design consistency. Standardizes 5,000+ government services |
+| Web Components | 🟡 | Figma design system available, reusable tools and guides |
+| 508 Compliant | 🟡 | Digital service standard with governance framework for quality control |
+| Storybook / Figma | 🟢 | [Figma community resource](https://www.figma.com/community/file/1070417323010388812/gob-mx) - Sistema de diseño GOB.MX |
+
 ### [Netherlands](https://nldesignsystem.nl/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -222,6 +243,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | React components, can be combined in various ways |
 | 508 Compliant | 🟢 | Designed for accessible, consistent, and user-friendly services. Meets accessibility standards |
 | Storybook / Figma | 🟢 | Components built in both Figma and React |
+
+### [Peru](https://www.gob.pe/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - GOB.PE platform | Peruvian State Digital Platform - single digital contact point based on simple, consistent, intuitive experience. Secretariat of Government and Digital Transformation provides guidelines for designing citizen-centric digital services |
+| Underpinning Technology | Web-based | Multidisciplinary team for content creation, digital service creation, institutional page migration. Emphasis on accessibility, usability, standardization, scalability |
+| Web Components | 🟡 | Guidelines for designing digital services, writing simple content |
+| 508 Compliant | 🟢 | Digital services designed with accessibility criteria. Recognized as trailblazer in Latin America for citizen-oriented government communication |
+| Storybook / Figma | 🔴 | Platform guides and documentation for service design |
 
 ### [Poland](https://www.gov.pl/)
 | **Feature** | **Status** | **Other Info** |
@@ -294,6 +324,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | [USWDS Elements](https://github.com/uswds/uswds-elements) - Web Component-based version available |
 | 508 Compliant | 🟢 | Meets WCAG 2.0 AA and Section 508 standards. Tries to meet WCAG 2.1 requirements. Accessibility issues prioritized. One of five core design principles is "Embrace accessibility" |
 | Storybook / Figma | 🔴 | Comprehensive documentation at designsystem.digital.gov |
+
+### [Uruguay](https://www.gub.uy/uruguay-digital/en)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Uruguay Digital Agenda 2025 | Digital Agenda 2025 aims for digital accessibility of state services and priority private sectors. Ranks 1st in Latin America, 35th globally (UNDESA Digital Government Development index). Only LAC representative in Digital Nations group |
+| Underpinning Technology | Web-based | Digital platforms include ID.Uruguay (three-tiered security), Firma.gub.uy (cross-border digital signatures used in Uruguay, Argentina, Brazil, Paraguay) |
+| Web Components | 🟡 | User-friendly, accessible design across platforms |
+| 508 Compliant | 🟢 | Digital Citizenship Strategy since 2020. Commitment to digital accessibility of services and information. Managed by AGESIC (Agency for Electronic Government and Information and Knowledge Society) |
+| Storybook / Figma | 🔴 | Digital government platforms documentation |
 
 ---
 
