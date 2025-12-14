@@ -10,6 +10,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [Córdoba, Argentina](#córdoba-argentina) |
 | [Austria](#austria) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Bristol City Council](#bristol-city-council) |
 | [Belgium/Flanders](#belgiumflanders) | [Canada - British Columbia](#canada---british-columbia) | [United States - Austin, Texas](#austin-texas) |
+| [Botswana](#botswana) |  |  |
 | [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Bloomington, Indiana](#bloomington-indiana) |
 | [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Boston, Massachusetts](#boston-massachusetts) |
 | [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
@@ -29,16 +30,19 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Mexico](#mexico) |  |  |
 | [Netherlands](#netherlands) |  |  |
 | [New Zealand](#new-zealand) |  |  |
+| [Nigeria](#nigeria) |  |  |
 | [Norway](#norway) |  |  |
 | [Peru](#peru) |  |  |
 | [Poland](#poland) |  |  |
 | [Portugal](#portugal) |  |  |
+| [Rwanda](#rwanda) |  |  |
 | [Scotland](#scotland) |  |  |
 | [Singapore](#singapore) |  |  |
 | [South Africa](#south-africa) |  |  |
 | [South Korea](#south-korea) |  |  |
 | [Switzerland](#switzerland) |  |  |
 | [Taiwan](#taiwan) |  |  |
+| [Tunisia](#tunisia) |  |  |
 | [Ukraine](#ukraine) |  |  |
 | [United Kingdom](#united-kingdom) |  |  |
 | [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
@@ -84,6 +88,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Webcomponents documentation available |
 | 508 Compliant | 🟢 | All applications and websites must be accessible according to WCAG 2.1 guidelines |
 | Storybook / Figma | 🟢 | Figma community resource available |
+
+### [Botswana](https://gov.bw/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Digital Services Bill 2025 passed August 14, 2025** | Digital Services Bill (No. 23 of 2025) establishes Digital Services Authority. Provides for national standards, architecture blueprint and interoperability protocols for infrastructure elements. Mandates accessible digital platforms for public and private bodies |
+| Underpinning Technology | User-centric design | Emphasis on innovative design and integrated business processes, streamlined, collaborative and public-focused for enhancing service delivery. 1Gov platform expanding online public services |
+| Web Components | 🟡 | Standards for infrastructure elements established by legislation, implementation in progress |
+| 508 Compliant | 🟢 | **Obligation to develop accessible digital platforms** per Digital Services Bill. Digital Identity Policy Framework focuses on interoperability, security, and user-centric design |
+| Storybook / Figma | 🔴 | Legislative framework established, technical implementation resources not publicly available |
 
 ### [Brazil](https://www.gov.br/ds/home)
 | **Feature** | **Status** | **Other Info** |
@@ -259,6 +272,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | All components meet Web Content Accessibility Guidelines (WCAG) 2.1 |
 | Storybook / Figma | 🔴 | GitHub issues and Slack for collaboration, no Storybook/Figma mentioned |
 
+### [Nigeria](https://nigeria.gov.ng/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **National Web Design System (NWDS) Project - Workshop July 18-19, 2025** | Ministry of Communications, Innovation & Digital Economy partnered with Aig-Imoukhuede Foundation to standardize design and functionality of public sector websites. Naija Design System (NDS) created by Druids Alpha team provides shared reusable visual design principles, styles, UI components, and patterns for federal government digital products |
+| Underpinning Technology | Web-based | Standardizing government websites for accessible, inclusive, and efficient digital government. National Digital Economy and e-Governance Bill 2025 mandates digital transformation across public institutions |
+| Web Components | 🟡 | Design system under development, creating consistent design language across inconsistent federal government websites and applications |
+| 508 Compliant | 🟡 | Accessibility and inclusivity are key aims of standardization initiative. Specific compliance standards being developed |
+| Storybook / Figma | 🔴 | Workshop-based development with digital experts, designers and key public service stakeholders shaping system |
+
 ### [Norway](https://designsystemet.no/en/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -294,6 +316,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Components available in Storybook |
 | 508 Compliant | 🟢 | Focus on common, simple, and accessible experience for all citizens and businesses |
 | Storybook / Figma | 🟢 | Storybook available for ReactJS. Figma repository with all designed components (restricted access - priority to Central Administration entities per Decree-Law No. 49/2024, followed by Municipalities and Parishes) |
+
+### [Rwanda](https://irembo.gov.rw/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **IremboGov Platform - Upgraded January 2025** | IremboGov provides access to 247 services from 38 government institutions including civil registration, passports, health, education, taxation, land management. Launched 2015, became backbone of Rwanda's digital transformation. Birth certificate applications grew 128% (335,730 in 2020 to 765,759 in 2024) |
+| Underpinning Technology | Web-based | Redesigned interface in January 2025 - simpler, more intuitive. Enhanced account security with direct identity verification. Business account support using TIN for direct access to business-specific government services |
+| Web Components | 🟡 | Platform provides unified digital services, technical component library not publicly documented |
+| 508 Compliant | 🟡 | Focus on accessibility and user experience. Platform used by millions. Specific WCAG compliance not publicly detailed |
+| Storybook / Figma | 🔴 | Rwanda's digital platform model exported to Chad, Eswatini, Guinea, Kenya since 2018. 18+ cooperation agreements, 7,600+ officials from 70 countries hosted |
 
 ### [Scotland](https://designsystem.gov.scot/)
 | **Feature** | **Status** | **Other Info** |
@@ -348,6 +379,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Digital government services platform, component library availability unclear |
 | 508 Compliant | 🟡 | Focus on inclusive digital services, specific accessibility standards not publicly detailed |
 | Storybook / Figma | 🔴 | MODA digital government platform and PDIS design thinking resources |
+
+### [Tunisia](https://www.tunisie.gov.tn/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **138 Digital Transformation Projects 2025-2026** | Citizen-centric GovTech approach providing digital-by-design services coordinated across government with two-way citizen engagement. 138 projects grouped into: digital transformation of public administration, digital economy development, cybersecurity and trust-building, digital infrastructure expansion |
+| Underpinning Technology | Digital-by-design | E-Houwiya digital identity system for financial inclusion and secure online transactions - simple, fast, secure online identity verification integrated across digital services. Future unified national vision 2026-2030 prioritizes user experience |
+| Web Components | 🟡 | Digital transformation requires re-engineering administrative procedures. Component library availability unclear |
+| 508 Compliant | 🟡 | Emphasis on citizen-centric services and user experience. Specific WCAG compliance standards not publicly detailed |
+| Storybook / Figma | 🔴 | E-Houwiya digital identity platform and national digital transformation roadmap |
 
 ### [Ukraine](https://diia.fedoriv.com/)
 | **Feature** | **Status** | **Other Info** |
