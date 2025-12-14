@@ -18,20 +18,21 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
 | [Costa Rica](#costa-rica) |  |  |
 | [Czech Republic](#czech-republic) | [United States - California](#united-states---california) |  |
-| [Estonia](#estonia) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Denmark](#denmark) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Estonia](#estonia) | [United States - Connecticut](#united-states---connecticut) |  |
 | [Finland](#finland) | [United States - Georgia](#united-states---georgia) |  |
-| [France](#france) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [Germany](#germany) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Greece](#greece) |  |  |
-| [Hong Kong](#hong-kong) |  |  |
-| [Iceland](#iceland) |  |  |
-| [India](#india) |  |  |
-| [Ireland](#ireland-pdf) |  |  |
-| [Israel](#israel) |  |  |
-| [Italy](#italy) |  |  |
-| [Japan](#japan) |  |  |
-| [Kenya](#kenya) |  |  |
-| [Malaysia](#malaysia) |  |  |
+| [France](#france) | [United States - Illinois](#united-states---illinois) |  |
+| [Germany](#germany) | [United States - Iowa](#united-states---iowa) |  |
+| [Greece](#greece) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Hong Kong](#hong-kong) | [United States - Maryland](#united-states---maryland) |  |
+| [Iceland](#iceland) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [India](#india) | [United States - Michigan](#united-states---michigan) |  |
+| [Ireland](#ireland-pdf) | [United States - Minnesota](#united-states---minnesota) |  |
+| [Israel](#israel) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Italy](#italy) | [United States - New York](#united-states---new-york) |  |
+| [Japan](#japan) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Kenya](#kenya) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Malaysia](#malaysia) | [United States - Virginia](#united-states---virginia) |  |
 | [Mexico](#mexico) |  |  |
 | [Netherlands](#netherlands) |  |  |
 | [New Zealand](#new-zealand) |  |  |
@@ -600,6 +601,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Accessibility first - includes inclusive design, plain language, responsiveness, and functional accessibility. Data and people's real needs drive design |
 | Storybook / Figma | 🔴 | Digital guidelines documentation, emphasis on simple and clear design |
 
+### [United States - Connecticut](https://portal.ct.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - CT.gov Design System | CT.gov branding and design system carefully designed to be flexible and supportive of broad range of uses and applications. State earned 'A-' rating in 2024 Digital State Survey, placing Connecticut among top performing digital states |
+| Underpinning Technology | Web-based | Template & Component Library provides building blocks for State of Connecticut websites. DoIT delivers common components and design elements. Three site templates fully responsive with security and accessibility compliance built-in |
+| Web Components | 🟢 | Common components and design elements available. Standard page layout and navigation throughout websites. Component library for consistent structure |
+| 508 Compliant | 🟢 | **WCAG 2.1 Level AA standards required**. Universal Website Accessibility Policy enforces Level AA compliance as primary guideline for all state websites |
+| Storybook / Figma | 🔴 | IT Strategic Plan 2025 for digital government services. Design system guidelines for headings, lists, and consistent structure |
+
 ### [United States - Georgia](https://dhs.georgia.gov/organization/about-gta/orchard)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -609,6 +619,42 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Focus on WCAG 2.1 Level AA compliance. Accessibility built into design system components. Georgia committed to inclusive digital services for all residents |
 | Storybook / Figma | 🔴 | Documentation and training provided to state agencies. Component library and guidelines available through GTA resources |
 
+### [United States - Illinois](https://wcmauthorguide.illinois.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Illinois Design Framework | Illinois Design Framework for State of Illinois websites delivers common components and design elements. Three site templates fully responsive and packed with features that passed security and accessibility compliance. DoIT (Department of Innovation & Technology) provides Template & Component Library |
+| Underpinning Technology | Web-based | Standard page layout and navigation method throughout websites. Accessible Rich Internet Applications (ARIA) guidelines provide advanced techniques for making custom web components accessible |
+| Web Components | 🟢 | Template & Component Library describes building blocks available to build out sites. Common components and design elements standardized across state agencies |
+| 508 Compliant | 🟢 | **WCAG 2.1 AA standards required**. Illinois Information Technology Accessibility Act (IITAA 2.1) updated June 24, 2024, requires all information technology comply with WCAG 2.1 AA for state and local governments |
+| Storybook / Figma | 🔴 | Web Content Management System documentation. IITAA Implementation Guidelines for web-based information and applications |
+
+### [United States - Iowa](https://dxtraining.iowa.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - DX Platform (Digital Experience) | State of Iowa's enterprise platform for Digital Transformation helps all state agencies create content for constituents in consistent way. Focus on accessibility, plain language, communication, standard design system, and content types. Creates unified experience for content creators and constituents |
+| Underpinning Technology | Drupal CMS | DX Platform built on Drupal. Marketing Platform also available for organizations needing unique content model and design system. Drupal 11 update completed June 2025 for DX sites |
+| Web Components | 🟢 | Standard design system and content types across platform. Regular enhancements and updates throughout 2025 to design, features, and content management capabilities |
+| 508 Compliant | 🟢 | Accessibility as core focus area of platform. Plain language and communication standards ensure consistent, accessible experience |
+| Storybook / Figma | 🔴 | DX Training site with comprehensive resources. Enterprise platform documentation and enhancement tracking |
+
+### [United States - Louisiana](https://www.doa.la.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Pelican Design System | Pelican Design System developed by Office of Technology Services (OTS). UX/UI designers work daily with state agencies to develop digital products to improve lives of Louisiana residents. Statewide digital design system mandated for all new applications and major redesigns |
+| Underpinning Technology | Web-based | OTS Strategic Plan 2026-2031 requires all new applications and major redesigns follow statewide digital design system. Standardized components, layouts, and patterns support usability, accessibility, and consistency across state services |
+| Web Components | 🟢 | Design system provides standardized components, layouts, and patterns. All interfaces tested for accessibility, mobile responsiveness, and conformance to standards |
+| 508 Compliant | 🟢 | **WCAG 2.1 AA standards required**. All new applications must meet Web Content Accessibility Guidelines 2.1 AA before Federal enforcement date April 24, 2026 |
+| Storybook / Figma | 🔴 | OTS Strategic Plan documentation. Louisiana Digital Government Summit 2025 co-hosted with Government Technology |
+
+### [United States - Maryland](https://digital.maryland.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Maryland Web Design System | Maryland Web Design System built as open source library of accessible and consistent components. Built using elements from federal U.S. Web Design System (USWDS). Makes it easier and faster for agencies and vendor partners to develop and maintain websites with consistent "Maryland brand" with accessibility built in |
+| Underpinning Technology | USWDS-based | Based on federal U.S. Web Design System. Ever-evolving system. Maryland Digital Playbook provides guidance, standards, and tools to help state agencies build consistent, intuitive, user-centered experiences |
+| Web Components | 🟢 | Open source component library. Maryland Digital Playbook for writing, designing, and building digital services. Reusable components for state agencies |
+| 508 Compliant | 🟢 | Accessibility built into component library. DoIT 2025 IT Master Plan (FY 2026-2028) reshapes how state builds, manages and delivers technology services. Focus on cohesive, secure, accessible online interactions |
+| Storybook / Figma | 🔴 | Maryland Digital Playbook documentation. Department of Information Technology oversees system development |
+
 ### [United States - Massachusetts](http://mayflower.digital.mass.gov/core)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -617,6 +663,33 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Uses Web Components, but unsure to what extent |
 | 508 Compliant | 🟢 | [Has Accessibility as a Core Principle](https://mayflower.digital.mass.gov/core/index.html?path=/docs/principles-accessibility--page) |
 | Storybook / Figma | 🟢 | [Uses Storybook](https://mayflower.digital.mass.gov/core/index.html) |
+
+### [United States - Michigan](https://www.michigan.gov/som/digitalstandards)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **SOM Digital Standards - Updated May 27, 2025** | SOM IT Technical Standard 1360.00.11 SOM Digital Standards for Websites and Applications effective May 27, 2025. Ensures visitors have similar experience throughout all state applications, portals, and agency sites. eMichigan Office led by Suzanne Pauley responsible for vision, development, and design of Michigan's digital imprint |
+| Underpinning Technology | Web-based | Dana Justice leads Digital Accessibility Testing Team reviewing systems against SOM Digital Standards. Web Content Management System (WCMS) Support Team maintains Michigan.gov. State recognized for strengthening digital services and expanding digital accessibility |
+| Web Components | 🟢 | Statewide digital design system provides standardized components. State placed in top five for digital experience in Government Experience Awards 2025 |
+| 508 Compliant | 🟢 | **WCAG 2.1 Level AA standards adopted**. All SOM Digital Content must conform to WCAG 2.1 AA minimum. Content must meet standards before Federal enforcement date April 24, 2026 |
+| Storybook / Figma | 🔴 | SOM Digital Standards documentation. Department of Technology, Management and Budget (DTMB) eMichigan Office manages standards |
+
+### [United States - Minnesota](https://www.dot.state.mn.us/designsystem/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - MnDOT Design System | Minnesota Department of Transportation (MnDOT) Design System incorporates latest design standards and best practices from across Minnesota government. Minnesota State Digital Accessibility Standard updated July 1, 2024 to incorporate WCAG 2.1 Level AA |
+| Underpinning Technology | Web-based | Inclusive Design principles integrated throughout design system. Minnesota state law and Digital Accessibility Standard require all government agencies meet WCAG 2.1 at AA level for digital content |
+| Web Components | 🟢 | Design system components available. Standard applies to executive branch state agencies. Legislative, judicial, and non-executive organizations encouraged to follow |
+| 508 Compliant | 🟢 | **WCAG 2.1 Level AA required**. Minnesota State Digital Accessibility Standard effective July 1, 2024. Federal ADA Title II requirements: entities 50,000+ comply by April 26, 2026; under 50,000 by April 26, 2027 |
+| Storybook / Figma | 🔴 | MnDOT design system documentation. Minnesota IT Services (MNIT) manages accessibility standards and policies |
+
+### [United States - New Jersey](https://innovation.nj.gov/app/njwds/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/newjersey/njwds) | v1.0.0 - Active development | NJ Web Design System (NJWDS) - extension of U.S. Web Design System with specific theme and components for State of New Jersey digital properties and services. Goal to produce standardized, recognizable web presence throughout Executive Branch complying with 21st Century Integrated Digital Experience Act |
+| Underpinning Technology | USWDS-based | Based on federal U.S. Web Design System. Modernization follows Office of Information Technology (OIT) Web Presence and Web Content Guidelines. Creates uniform presence so agencies present consistent visual identity for NJ residents |
+| Web Components | 🟢 | Extension of USWDS components with New Jersey-specific theme. Available on GitHub with documentation at innovation.nj.gov |
+| 508 Compliant | 🟢 | Built on USWDS accessibility foundation. Compliance with federal 21st Century IDEA requirements. Office of Innovation leads digital services design and development |
+| Storybook / Figma | 🔴 | Documentation available at NJWDS components detail page. Director of Communications and Digital Services sets standards for state web presence |
 
 ### [United States - New York](https://designsystem.ny.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -635,6 +708,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Components available including accordions, breadcrumbs, buttons, cards. Source code availability unclear |
 | 508 Compliant | 🟢 | Designed to help build accessible digital services |
 | Storybook / Figma | 🔴 | Full component documentation and foundations (typography, design tokens) available on site |
+
+### [United States - Rhode Island](https://www.ri.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Bespoke Design System | State of Rhode Island modernized its network of 100+ governmental agencies by developing bespoke design system providing tools to deliver timely and informative content. Creating exceptional, citizen-centered resource exceeding technical and design expectations of agencies and residents |
+| Underpinning Technology | Web-based | Division of Enterprise Technology Strategy and Services (ETSS) led by Chief Digital Officer includes Office of Digital Excellence. Redesigned platforms launched January 2025 for boating, agriculture, pesticide licensing, wetlands, water quality, and septic systems |
+| Web Components | 🟢 | Design system provides standardized components across 100+ agencies. Digital Government Summit 2025 unites public and private sector leadership on leveraging technology and data |
+| 508 Compliant | 🟢 | Focus on accessibility and user experience. AI Task Force and Center of Excellence for AI and Data established under Executive Order 24-06. Data Center of Excellence within ETSS |
+| Storybook / Figma | 🔴 | Office of Digital Excellence manages design system implementation. Work recognized for exceptional citizen-centered digital services |
+
+### [United States - Virginia](https://www.developer.virginia.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Commonwealth Design System | Commonwealth Design System houses Commonwealth Banner (mandatory for all agency websites) to denote official Commonwealth of Virginia sites. Website components, templates, and utilities available for agency web developers. Native Sketch, Figma, and Adobe XD design files for agency designers |
+| Underpinning Technology | Web-based | Components built to be accessible and responsive across wide variety of devices. Use cases, code, and accessibility guidance provided for components. VITA-designed principles and guidance for COV web systems development |
+| Web Components | 🟢 | Optional components and utilities with accessibility guidance. Commonwealth Banner with color variants and code generation. Components include buttons, forms, navigation, layout elements |
+| 508 Compliant | 🟢 | Components built with accessibility standards. WEB-06 requires agencies follow VITA-designed principles and guidance. Focus on accessible and responsive design |
+| Storybook / Figma | 🟢 | Native Figma, Sketch, and Adobe XD design files available at developer.virginia.gov. Web Standards Quick Start Reference Guide available |
 
 ---
 
