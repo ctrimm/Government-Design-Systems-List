@@ -24,15 +24,21 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Ireland](#ireland-pdf) |  |  |
 | [Italy](#italy) |  |  |
 | [Japan](#japan) |  |  |
+| [Kenya](#kenya) |  |  |
+| [Malaysia](#malaysia) |  |  |
 | [Mexico](#mexico) |  |  |
 | [Netherlands](#netherlands) |  |  |
 | [New Zealand](#new-zealand) |  |  |
 | [Norway](#norway) |  |  |
 | [Peru](#peru) |  |  |
 | [Poland](#poland) |  |  |
+| [Portugal](#portugal) |  |  |
 | [Scotland](#scotland) |  |  |
 | [Singapore](#singapore) |  |  |
+| [South Africa](#south-africa) |  |  |
+| [South Korea](#south-korea) |  |  |
 | [Switzerland](#switzerland) |  |  |
+| [Taiwan](#taiwan) |  |  |
 | [Ukraine](#ukraine) |  |  |
 | [United Kingdom](#united-kingdom) |  |  |
 | [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
@@ -208,6 +214,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Design language with guidelines for usability and accessibility |
 | Storybook / Figma | 🔴 | Dedicated design system beta site launched May 2024 |
 
+### [Kenya](https://www.Kenya.go.ke/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - First African ICT accessibility standard | Kenya launched the first-ever Kenya Standards (KS 2952-1:2022) on accessibility for ICT products and services for persons with disabilities in Africa. E-Citizen platform has 13.5+ million users accessing 22,000+ government services (up from 300 two years ago) |
+| Underpinning Technology | Web-based | Digital government services consolidated on e-Citizen platform. Kenya Digital Master Plan 2022-2032 guides digital transformation |
+| Web Components | 🟡 | E-government services platform, component availability unclear |
+| 508 Compliant | 🟢 | **KS 2952-1:2022 - First African ICT accessibility standard** for persons with disabilities. Aligned with international WCAG standards |
+| Storybook / Figma | 🔴 | E-Citizen platform documentation and service portal |
+
+### [Malaysia](https://design.digital.gov.my/en)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/govtechmy) | **Full Launch April 2025** - Component library for React released December 2024 | MYDS (Malaysia Government Design System) - standard tools and templates for building official Malaysian government websites. Pre-built components streamline development and promote consistency |
+| Underpinning Technology | React | Beautiful pre-built components like buttons, forms, and navigation bars. Production-ready design system as of April 2025 |
+| Web Components | 🟢 | Component library MYDS for React available |
+| 508 Compliant | 🟢 | Out-of-the-box adherence to WCAG and best accessibility practices |
+| Storybook / Figma | 🟡 | Final Stakeholder Consultation completed March 2025 with local tech community and public sector officers |
+
 ### [Mexico](https://www.gob.mx/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -262,6 +286,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Good practices in creating accessible websites and applications. Supports mObywatel (mobile government services) and e-dowód (digital ID) |
 | Storybook / Figma | 🔴 | Design System website with downloadable components |
 
+### [Portugal](https://mosaico.gov.pt/ferramentas/agora-design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code - Restricted Access | Updated May 27, 2025 | Ágora Design System - tool and accelerator for new generation of digital public services on gov.pt. Provides design and development standards and elements. For access to Figma repository, contact designsystem@ticapp.gov.pt with entity name and implementation scope |
+| Underpinning Technology | ReactJS | Ágora library with pre-developed components available in Ágora Design System storybook. Supports federated model of services centered on citizens and businesses |
+| Web Components | 🟢 | Components available in Storybook |
+| 508 Compliant | 🟢 | Focus on common, simple, and accessible experience for all citizens and businesses |
+| Storybook / Figma | 🟢 | Storybook available for ReactJS. Figma repository with all designed components (restricted access - priority to Central Administration entities per Decree-Law No. 49/2024, followed by Municipalities and Parishes) |
+
 ### [Scotland](https://designsystem.gov.scot/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -280,6 +313,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Components are perceivable, operable, understandable, and robust. Comply with WCAG standards out-of-the-box |
 | Storybook / Figma | 🔴 | Developer portal and documentation available |
 
+### [South Africa](https://www.gov.za/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Digital Transformation Roadmap 2025-2030 | MyMzansi platform consolidating all government services into single digital platform. Phase 1 (March 2025-Feb 2027) includes unified service portal, online authentication, digital payments. Zero-rated www.gov.za website ensures free access |
+| Underpinning Technology | Web-based | 120 e-services digitized on eservices.gov.za. Digital transformation creating world-class digital platform for citizen access to government information and services |
+| Web Components | 🟡 | Government services platform, component library availability unclear |
+| 508 Compliant | 🟡 | Digital transformation emphasis on accessibility, specific compliance standards not publicly detailed |
+| Storybook / Figma | 🔴 | MyMzansi platform documentation and gov.za service portal |
+
+### [South Korea](https://www.gov.kr/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - KRDS (Korea Republic Design System) | Korea Republic Design System for all government websites. Built-in accessibility meeting KWCAG 2.1 (Korean Web Content Accessibility Guidelines 2.1). Fines up to ₩30 million for non-compliance. Government24 platform provides 1,500+ services with 90.6% usage rate |
+| Underpinning Technology | Web-based | Standardized design system ensuring consistency across all government digital services. Government24 centralizes citizen services |
+| Web Components | 🟡 | KRDS components for government websites, public source code availability unclear |
+| 508 Compliant | 🟢 | **KWCAG 2.1 (Korean Web Content Accessibility Guidelines 2.1) required** for all government websites. Accessibility Improvement Act enforced with penalties for non-compliance |
+| Storybook / Figma | 🔴 | Government24 platform and KRDS guidelines for government agencies |
+
 ### [Switzerland](https://swiss.github.io/styleguide/en/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -288,6 +339,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Templates and elements available for direct use by developer teams |
 | 508 Compliant | 🟡 | Three element categories: Corporate Design (mandatory), Fixed Elements (position/design fixed if used), Recommended Elements (adaptable) |
 | Storybook / Figma | 🔴 | Comprehensive web guidelines documentation |
+
+### [Taiwan](https://moda.gov.tw/en/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - DIGI+ Program 2017-2025 | Ministry of Digital Affairs (MODA) established to create people-oriented digital services. Public Digital Innovation Space (PDIS) uses design thinking and co-creation to develop citizen-centric digital government services. Focus on digital infrastructure, talent development, and inclusive digital society |
+| Underpinning Technology | Web-based | Design thinking and co-creation methodologies for digital service development. Emphasis on user experience and accessibility |
+| Web Components | 🟡 | Digital government services platform, component library availability unclear |
+| 508 Compliant | 🟡 | Focus on inclusive digital services, specific accessibility standards not publicly detailed |
+| Storybook / Figma | 🔴 | MODA digital government platform and PDIS design thinking resources |
 
 ### [Ukraine](https://diia.fedoriv.com/)
 | **Feature** | **Status** | **Other Info** |
