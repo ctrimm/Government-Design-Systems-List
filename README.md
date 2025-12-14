@@ -10,15 +10,17 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [Córdoba, Argentina](#córdoba-argentina) |
 | [Austria](#austria) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Bristol City Council](#bristol-city-council) |
 | [Bahrain](#bahrain) |  |  |
+| [Bangladesh](#bangladesh) |  |  |
 | [Belgium/Flanders](#belgiumflanders) | [Canada - British Columbia](#canada---british-columbia) | [United States - Austin, Texas](#austin-texas) |
 | [Botswana](#botswana) |  |  |
 | [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Bloomington, Indiana](#bloomington-indiana) |
 | [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Boston, Massachusetts](#boston-massachusetts) |
 | [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [Costa Rica](#costa-rica) |  |  |
 | [Czech Republic](#czech-republic) | [United States - California](#united-states---california) |  |
 | [Estonia](#estonia) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Finland](#finland) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [France](#france) | [United States - New York](#united-states---new-york) |  |
+| [Finland](#finland) | [United States - Georgia](#united-states---georgia) |  |
+| [France](#france) | [United States - Massachusetts](#united-states---massachusetts) |  |
 | [Germany](#germany) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
 | [Greece](#greece) |  |  |
 | [Hong Kong](#hong-kong) |  |  |
@@ -96,6 +98,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Services designed around needs of all constituents including those with disabilities. Simplification of administrative procedures and service reengineering for efficiency |
 | Storybook / Figma | 🔴 | National Enterprise Architecture governance framework, digital transformation playbook with guidelines and best practices |
 
+### [Bangladesh](https://a2i.gov.bd/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **DSDL - Digital Strategy Design Lab** | a2i (Aspire to Innovate) program under Prime Minister's Office leads digital transformation. DSDL developed 38 analysis tools for public service design. "Seven months' work in seven days" rapid design methodology |
+| Underpinning Technology | Service Design Platform | 1,844 services designed, 255 digitized systems deployed. 33,000+ government websites integrated under gov.bd. 1,000+ e-services launched. Bangladesh National Digital Architecture (BNDA) provides interoperability framework |
+| Web Components | 🟡 | National Portal Templates available. [Design and Service Innovation Training](https://a2i.gov.bd/service/innovation-design-and-service-delivery/) provided to 25,000+ government officials. Component library specifics not publicly documented |
+| 508 Compliant | 🟢 | Inclusive design principles embedded in DSDL methodology. Services designed for rural and urban populations including persons with disabilities. Emphasis on simplified user journeys and accessibility |
+| Storybook / Figma | 🟡 | DSDL toolkit with 38 tools including user research, service blueprinting, and prototyping resources. Extensive training materials and case studies available |
+
 ### [Belgium/Flanders](https://overheid.vlaanderen.be/webuniversum/v3/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -140,6 +151,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | UI Kit and Framework kit available |
 | 508 Compliant | 🟢 | [Accessibility measures (Medidas de Accesibilidad)](https://kitdigital.gob.cl/accesibilidad/) dedicated section. Focus on accessibility for all citizens including those with disabilities |
 | Storybook / Figma | 🔴 | Design and development tools documentation |
+
+### [Costa Rica](https://www.micitt.go.cr/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **CNTD - National Code of Digital Technologies** | Digital Transformation Strategy 2023-2027 led by MICITT (Ministry of Science, Innovation, Technology and Telecommunications). CNTD recommends national design system for all public institutions to ensure consistency and accessibility |
+| Underpinning Technology | Design System Recommendation | Strategic initiative to establish unified design standards across all Costa Rican government entities. Focus on digital identity, service delivery platforms, and user-centric design |
+| Web Components | 🟡 | National design system recommended in CNTD but implementation status and component library availability not publicly documented |
+| 508 Compliant | 🟢 | CNTD emphasizes accessibility requirements for all public digital services. Commitment to inclusive design for all citizens including persons with disabilities |
+| Storybook / Figma | 🔴 | CNTD framework and digital transformation guidelines available. Technical implementation resources pending national design system development |
 
 ### [Czech Republic](https://designsystem.gov.cz/)
 | **Feature** | **Status** | **Other Info** |
@@ -579,6 +599,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Uses USWDS components as foundation |
 | 508 Compliant | 🟢 | Accessibility first - includes inclusive design, plain language, responsiveness, and functional accessibility. Data and people's real needs drive design |
 | Storybook / Figma | 🔴 | Digital guidelines documentation, emphasis on simple and clear design |
+
+### [United States - Georgia](https://dhs.georgia.gov/organization/about-gta/orchard)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Orchard Design System - Won StateScoop 50 Award** | Official design system for State of Georgia. Powers 80+ GovHub sites (Drupal-based multi-site platform). Provides ready-to-use code, reusable components, layout templates. Won StateScoop 50 Award for State IT Innovation 2023 |
+| Underpinning Technology | Drupal-based | GovHub platform built on Drupal CMS with Orchard design system. [Georgia Technology Authority (GTA)](https://gta.georgia.gov/) manages statewide technology infrastructure and digital services |
+| Web Components | 🟢 | Reusable components and layout templates available to all state agencies. Common header/footer, navigation patterns, form elements ensure consistency across 80+ state websites |
+| 508 Compliant | 🟢 | Focus on WCAG 2.1 Level AA compliance. Accessibility built into design system components. Georgia committed to inclusive digital services for all residents |
+| Storybook / Figma | 🔴 | Documentation and training provided to state agencies. Component library and guidelines available through GTA resources |
 
 ### [United States - Massachusetts](http://mayflower.digital.mass.gov/core)
 | **Feature** | **Status** | **Other Info** |
