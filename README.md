@@ -21,6 +21,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [France](#france) | [United States - New York](#united-states---new-york) |  |
 | [Germany](#germany) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
 | [Greece](#greece) |  |  |
+| [Hong Kong](#hong-kong) |  |  |
 | [Iceland](#iceland) |  |  |
 | [India](#india) |  |  |
 | [Ireland](#ireland-pdf) |  |  |
@@ -35,6 +36,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Nigeria](#nigeria) |  |  |
 | [Norway](#norway) |  |  |
 | [Peru](#peru) |  |  |
+| [Philippines](#philippines) |  |  |
 | [Poland](#poland) |  |  |
 | [Portugal](#portugal) |  |  |
 | [Rwanda](#rwanda) |  |  |
@@ -52,6 +54,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
 | [United States of America](#united-states-of-america) |  |  |
 | [Uruguay](#uruguay) |  |  |
+| [Vietnam](#vietnam) |  |  |
 ---
 
 ## Federal / Country
@@ -201,6 +204,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Must meet WCAG 2.1 Level AA per L. 4727/2020 and EU Directive 2016/2102. [Digital Accessibility Guide](https://digital-skills-jobs.europa.eu/en/inspiration/resources/digital-accessibility-guide-websites-and-mobile-applications-greek-public) published by Secretariat-General for Digital Governance |
 | Storybook / Figma | 🔴 | [Accessibility checklist](https://guide.services.gov.gr/docs/accessibility) and guidelines available |
 
+### [Hong Kong](https://www.digitalpolicy.gov.hk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **iAM Smart platform - 3.8M+ users, 500+ services** | iAM Smart provides single government digital services platform achieving full adoption across all departments by 2025. Connects about 500 services from government, public and private organizations. Provides nearly 600 electronic government forms. 180,000+ daily interactions |
+| Underpinning Technology | Interoperability Framework | "Interoperability Framework for E-Government" (IF) enables bureaux and departments to achieve interoperability in exchange of electronic data and development of integrated e-government services. Digital Policy Office spearheads digital government development |
+| Web Components | 🟡 | One-stop digital services platform, technical component library details not publicly available |
+| 508 Compliant | 🟡 | Focus on convenience and accessibility. Platform widely adopted by residents. Specific accessibility standards not publicly detailed |
+| Storybook / Figma | 🔴 | Interoperability Framework documentation, digital government policies and standards |
+
 ### [Iceland](https://island.is/en/o/digital-iceland/design-system-1/design-system-island)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -320,6 +332,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Guidelines for designing digital services, writing simple content |
 | 508 Compliant | 🟢 | Digital services designed with accessibility criteria. Recognized as trailblazer in Latin America for citizen-oriented government communication |
 | Storybook / Figma | 🔴 | Platform guides and documentation for service design |
+
+### [Philippines](https://dict.gov.ph/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **E-Governance Act 2025 (R.A. 12254) - eGov PH Super App** | E-Governance Act signed September 5, 2025, sets Philippines on path to fully digital government. eGov PH mobile app integrates 1,000+ government systems. Won E-Governance Project of the Year at GovMedia Awards 2025. DICT Circular HRA-001 s. 2025 mandates standards-based approach to Information Systems Strategic Planning (ISSP) |
+| Underpinning Technology | Standards-based framework | Citizen-centric design thinking and data-driven decision-making. Interoperability, security, and responsiveness to public needs. Standard ISSP template ensures ICT projects designed for simplicity, efficiency and citizen empowerment |
+| Web Components | 🟡 | eGov PH super app consolidates services. Component library details not publicly available. Focus on unified service delivery |
+| 508 Compliant | 🟢 | **Accessibility for persons with disabilities, senior citizens, and those in remote areas**. Alternate channels for people with limited internet access. Services more transparent and accessible |
+| Storybook / Figma | 🔴 | ICT Planning Standards framework, E-Governance Act regulatory structure, eGov PH platform |
 
 ### [Poland](https://www.gov.pl/)
 | **Feature** | **Status** | **Other Info** |
@@ -473,6 +494,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | User-friendly, accessible design across platforms |
 | 508 Compliant | 🟢 | Digital Citizenship Strategy since 2020. Commitment to digital accessibility of services and information. Managed by AGESIC (Agency for Electronic Government and Information and Knowledge Society) |
 | Storybook / Figma | 🔴 | Digital government platforms documentation |
+
+### [Vietnam](https://vgds.design/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Community Source (VGDS)](https://vgds.design/) | **VGDS - Unofficial collaborative system** | Vietnam Government Design System (VGDS) - unofficial design system collaboratively built by Vietnamese designers and developers to enhance digital services. Related initiative: Design for Vietnam (DFV). Official government issued "Vietnam Digital Government Architecture Framework, Version 4.0" on March 25, 2025 |
+| Underpinning Technology | Framework 4.0 | Digital Government Development Programme (Decision No. 2629/QD-TTg, Dec 1, 2025) - people and businesses at centre as key actors, beneficiaries and co-creators. Framework 4.0 lays out components and relationships of Vietnam's digital government system |
+| Web Components | 🟡 | VGDS community-driven components. Official framework emphasizes inclusive, widespread digital services. Target: 80% of online public services at level 4 by 2025 |
+| 508 Compliant | 🟡 | Focus on unified, accessible, user-friendly design. Digital services provided on multiple access means including mobile devices. Specific compliance standards not publicly detailed |
+| Storybook / Figma | 🔴 | VGDS community resources at vgds.design and vgds.systems. Digital Government Architecture Framework 4.0 documentation |
 
 ---
 
