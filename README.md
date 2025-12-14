@@ -9,6 +9,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Argentina](#argentina) | [Australia - New South Wales](#australia---new-south-wales) | [Alberta, Canada](#alberta-canada-pdf) |
 | [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [Córdoba, Argentina](#córdoba-argentina) |
 | [Austria](#austria) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Bristol City Council](#bristol-city-council) |
+| [Bahrain](#bahrain) |  |  |
 | [Belgium/Flanders](#belgiumflanders) | [Canada - British Columbia](#canada---british-columbia) | [United States - Austin, Texas](#austin-texas) |
 | [Botswana](#botswana) |  |  |
 | [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Bloomington, Indiana](#bloomington-indiana) |
@@ -23,6 +24,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Iceland](#iceland) |  |  |
 | [India](#india) |  |  |
 | [Ireland](#ireland-pdf) |  |  |
+| [Israel](#israel) |  |  |
 | [Italy](#italy) |  |  |
 | [Japan](#japan) |  |  |
 | [Kenya](#kenya) |  |  |
@@ -36,6 +38,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Poland](#poland) |  |  |
 | [Portugal](#portugal) |  |  |
 | [Rwanda](#rwanda) |  |  |
+| [Saudi Arabia](#saudi-arabia) |  |  |
 | [Scotland](#scotland) |  |  |
 | [Singapore](#singapore) |  |  |
 | [South Africa](#south-africa) |  |  |
@@ -44,6 +47,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Taiwan](#taiwan) |  |  |
 | [Tunisia](#tunisia) |  |  |
 | [Ukraine](#ukraine) |  |  |
+| [United Arab Emirates](#united-arab-emirates) |  |  |
 | [United Kingdom](#united-kingdom) |  |  |
 | [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
 | [United States of America](#united-states-of-america) |  |  |
@@ -79,6 +83,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🔴 | No web components found |
 | 508 Compliant | 🔴 | No mentions of accessibility |
 | Storybook / Figma | 🔴 | No usage of Storybook or Figma |
+
+### [Bahrain](https://www.bahrain.bh/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Digital-First Policy - 700+ digital services** | Digital Government Strategy 2022 mandates designing public services digitally first. Government entities integrate and design eServices around constituent needs. NEA (National Enterprise Architecture) provides governance, compliance mechanisms, technology standards, and guidelines for effective EA development |
+| Underpinning Technology | Digital-by-design | Rebuilding public services with digital delivery at core. Ministerial Committee for Information Technology and Communication (MCICT) coordinates strategic digital initiatives. National Data Sharing Framework launching 2026 |
+| Web Components | 🟡 | 700+ digital services available. Component library and design system specifics not publicly documented |
+| 508 Compliant | 🟢 | Services designed around needs of all constituents including those with disabilities. Simplification of administrative procedures and service reengineering for efficiency |
+| Storybook / Figma | 🔴 | National Enterprise Architecture governance framework, digital transformation playbook with guidelines and best practices |
 
 ### [Belgium/Flanders](https://overheid.vlaanderen.be/webuniversum/v3/)
 | **Feature** | **Status** | **Other Info** |
@@ -209,6 +222,15 @@ Click on a table entry below to be taken to more information about it's Design S
 ### [Ireland](https://www.ops.gov.ie/app/uploads/2022/10/Design-iPrinciples-for-government-in-Ireland-web.pdf) [PDF]
 *Documentation Coming Soon*
 
+### [Israel](https://www.gov.il/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Figma Community File](https://www.figma.com/community) | Active - Israeli Government Design System (IGDS) | Israeli Government Design System empowers teams to swiftly and efficiently design government services while ensuring consistency. National Digital Agency reports to Ministry of Economy and Industry, serves as technological headquarters for government ministries and public bodies |
+| Underpinning Technology | Figma-based | Atomic design principles create modular design system that can be easily customized and scaled. Auto layout and responsive components for consistent designs. Available for download as Figma file in Figma community |
+| Web Components | 🟡 | Design system available in Figma with standardized elements and styles ensuring cohesive user interface. Technical implementation details not publicly available |
+| 508 Compliant | 🟡 | Focus on improving consistency and user experience across diverse government products and services. Specific accessibility standards not publicly detailed |
+| Storybook / Figma | 🟢 | Available as Figma file in Figma community. Greatly improved design consistency with unified and polished look across projects |
+
 ### [Italy](https://designers.italia.it/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -326,6 +348,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Focus on accessibility and user experience. Platform used by millions. Specific WCAG compliance not publicly detailed |
 | Storybook / Figma | 🔴 | Rwanda's digital platform model exported to Chad, Eswatini, Guinea, Kenya since 2018. 18+ cooperation agreements, 7,600+ officials from 70 countries hosted |
 
+### [Saudi Arabia](https://my.gov.sa/en)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Digital Government Strategy 2025-2030 - Vision 2030** | Unified Design System at heart of digital transformation aligned with Vision 2030. Digital Government Authority (DGA) integrates accessibility into Unified Design System. 98% of public services digitized by end of 2022, remaining 2% targeted for 2025. Goal: Position Saudi Arabia among top 3 globally in digital government maturity |
+| Underpinning Technology | Unified Design System | Accessibility features include font size, color contrast for dyslexia and color blindness, standards for users with disabilities. National framework and DXMI score provide foundation for consistency and accessibility |
+| Web Components | 🟡 | Unified Design System provides consistent components across government services. Nafath and Absher platforms unify services across ministries. Technical implementation details not publicly available |
+| 508 Compliant | 🟢 | **Accessibility integrated into Unified Design System**. Addressing color contrast, font size, and disability standards. Services designed for seamless, citizen-centric, efficient digital experiences |
+| Storybook / Figma | 🔴 | Unified Design System saves 20% in UX effort. Digital transformation framework with standards for government digital services |
+
 ### [Scotland](https://designsystem.gov.scot/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -397,6 +428,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | UI components for mobile apps, standard interface elements and integrations |
 | 508 Compliant | 🟡 | Accessibility information not explicitly documented |
 | Storybook / Figma | 🔴 | Diia.Engine low-code platform for designing and launching digital services |
+
+### [United Arab Emirates](https://designsystem.gov.ae/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/TDRA-ae/aegov-dls) | **v2.3.0 - Active development** | UAE Design System presents manual for federal government entities to plan and arrange content on websites with simplicity and creativity. Available as [@aegov/design-system on NPM](https://www.npmjs.com/package/@aegov/design-system). Ever-evolving system with UAsk AI conversation capability. Maintained by Telecommunications and Digital Government Regulatory Authority |
+| Underpinning Technology | TailwindCSS | Built with TailwindCSS standards and components. Pre-tested components, blocks and patterns for consistent, optimized, accessible websites. Design language system continuously improves with web needs |
+| Web Components | 🟢 | Set of pre-tested components, blocks and patterns. Helps build websites faster with consistent UI adhering to accessibility principles |
+| 508 Compliant | 🟢 | **Adheres to WCAG 2.2 guidelines**. Creates digital experiences accessible to everyone including those with visual, auditory, cognitive, and motor impairments |
+| Storybook / Figma | 🟢 | Available on GitHub with full documentation at designsystem.gov.ae. Recent update: September 27, 2025 |
 
 ### [United Kingdom](https://design-system.service.gov.uk/)
 | **Feature** | **Status** | **Other Info** |
