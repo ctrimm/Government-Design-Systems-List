@@ -20,24 +20,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Czech Republic](#czech-republic) | [United States - California](#united-states---california) |  |
 | [Denmark](#denmark) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
 | [Estonia](#estonia) | [United States - Connecticut](#united-states---connecticut) |  |
-| [Finland](#finland) | [United States - Georgia](#united-states---georgia) |  |
-| [France](#france) | [United States - Illinois](#united-states---illinois) |  |
-| [Germany](#germany) | [United States - Iowa](#united-states---iowa) |  |
-| [Greece](#greece) | [United States - Louisiana](#united-states---louisiana) |  |
-| [Hong Kong](#hong-kong) | [United States - Maryland](#united-states---maryland) |  |
-| [Iceland](#iceland) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [India](#india) | [United States - Michigan](#united-states---michigan) |  |
-| [Ireland](#ireland-pdf) | [United States - Minnesota](#united-states---minnesota) |  |
-| [Israel](#israel) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Italy](#italy) | [United States - New York](#united-states---new-york) |  |
-| [Japan](#japan) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Kenya](#kenya) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Malaysia](#malaysia) | [United States - Virginia](#united-states---virginia) |  |
-| [Mexico](#mexico) |  |  |
-| [Netherlands](#netherlands) |  |  |
-| [New Zealand](#new-zealand) |  |  |
-| [Nigeria](#nigeria) |  |  |
-| [Norway](#norway) |  |  |
+| [Finland](#finland) | [United States - Delaware](#united-states---delaware) |  |
+| [France](#france) | [United States - Georgia](#united-states---georgia) |  |
+| [Germany](#germany) | [United States - Hawaii](#united-states---hawaii) |  |
+| [Greece](#greece) | [United States - Illinois](#united-states---illinois) |  |
+| [Hong Kong](#hong-kong) | [United States - Iowa](#united-states---iowa) |  |
+| [Iceland](#iceland) | [United States - Kentucky](#united-states---kentucky) |  |
+| [India](#india) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Ireland](#ireland-pdf) | [United States - Maryland](#united-states---maryland) |  |
+| [Israel](#israel) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [Italy](#italy) | [United States - Michigan](#united-states---michigan) |  |
+| [Japan](#japan) | [United States - Minnesota](#united-states---minnesota) |  |
+| [Kenya](#kenya) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Malaysia](#malaysia) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Mexico](#mexico) | [United States - New York](#united-states---new-york) |  |
+| [Netherlands](#netherlands) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [New Zealand](#new-zealand) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Nigeria](#nigeria) | [United States - Vermont](#united-states---vermont) |  |
+| [Norway](#norway) | [United States - Virginia](#united-states---virginia) |  |
 | [Peru](#peru) |  |  |
 | [Philippines](#philippines) |  |  |
 | [Poland](#poland) |  |  |
@@ -610,6 +610,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | **WCAG 2.1 Level AA standards required**. Universal Website Accessibility Policy enforces Level AA compliance as primary guideline for all state websites |
 | Storybook / Figma | 🔴 | IT Strategic Plan 2025 for digital government services. Design system guidelines for headings, lists, and consistent structure |
 
+### [United States - Delaware](https://gic.delaware.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Lighthouse Design System - Launched January 2025** | Lighthouse is Delaware's state government website design system offering accessibility compliance, research-driven UI improvements, and easier editing process for state agency WordPress websites. Government Information Center (GIC) creates websites and digital branding assets specifically tailored for State of Delaware entities |
+| Underpinning Technology | WordPress-based | New branding debuted with first Lighthouse website January 2025. As agencies adopt Lighthouse for websites, they acquire new standardized branding. GIC delivers clear, accessible solutions making online services easy and seamless for First State citizens |
+| Web Components | 🟢 | Lighthouse design system provides standardized components for WordPress. Go DE platform features 100+ digital services with integrated payment processing (Pay with Go DE) and resident portal secured by myDelaware identity system |
+| 508 Compliant | 🟢 | Accessibility compliance built into Lighthouse design system. State aims to make 80% of government services available online with all websites inclusive and accessible. GEAR report 2025 outlines scaling digital government services |
+| Storybook / Figma | 🔴 | GIC provides comprehensive website and digital branding services. Go DE portal preparing to deploy chatbots and AI tools, with digital signature workflows and document upload capabilities |
+
 ### [United States - Georgia](https://dhs.georgia.gov/organization/about-gta/orchard)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -618,6 +627,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Reusable components and layout templates available to all state agencies. Common header/footer, navigation patterns, form elements ensure consistency across 80+ state websites |
 | 508 Compliant | 🟢 | Focus on WCAG 2.1 Level AA compliance. Accessibility built into design system components. Georgia committed to inclusive digital services for all residents |
 | Storybook / Figma | 🔴 | Documentation and training provided to state agencies. Component library and guidelines available through GTA resources |
+
+### [United States - Hawaii](https://styleguide.ehawaii.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Hawaii Web Style Guide | Comprehensive template and style guide providing consistent look and feel across all State of Hawaii government websites. Design philosophy: COPE (Create Once, Publish Everywhere). Mobile-first responsive web design with content-first approach encouraging clean layouts, concise writing, intuitive web interfaces |
+| Underpinning Technology | Drupal-based | State Template via Drupal developed with accessibility in mind, making state-offered platforms compliant with digital accessibility regulations and guidelines. myHawaii secure citizen identity platform enables single login for growing number of online government services |
+| Web Components | 🟢 | Web style guide components ensure consistent user experience across state websites. State honored by Center for Digital Government as overall winner in 2025 Government Experience Awards. Office of Enterprise Technology Services manages digital infrastructure |
+| 508 Compliant | 🟢 | State Template built for accessibility compliance. WCAG 2.1 Level AA standards followed. Emphasis on responsive design, high contrast colors, accessible PDFs, and inclusive user experience for all residents |
+| Storybook / Figma | 🔴 | Comprehensive web style guide documentation at styleguide.ehawaii.gov. Transform Hawaii Government initiative modernizing digital services statewide |
 
 ### [United States - Illinois](https://wcmauthorguide.illinois.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -636,6 +654,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Standard design system and content types across platform. Regular enhancements and updates throughout 2025 to design, features, and content management capabilities |
 | 508 Compliant | 🟢 | Accessibility as core focus area of platform. Plain language and communication standards ensure consistent, accessible experience |
 | Storybook / Figma | 🔴 | DX Training site with comprehensive resources. Enterprise platform documentation and enhancement tracking |
+
+### [United States - Kentucky](http://webtoolkit.ky.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Enterprise Web Design Template (EWDT) | Kentucky's Enterprise Web Design Template uses two CSS templates: "standards" CSS enforcing compliance with 7020 Design Standards and scheme CSS with default Blue scheme. Template made up of components with specific functions, styles and requirements, with varying allowances for creativity |
+| Underpinning Technology | CSS-based templates | Traditional CSS template-based system rather than modern web components. Kentucky Information Technology Standards (KITS) document updated December 2, 2025, covering technology standards for state agencies |
+| Web Components | 🟡 | Component-based templates available through EWDT. Each component has specific function, style and requirements. Not modern web component architecture but provides consistent building blocks |
+| 508 Compliant | 🟢 | Design standards compliance enforced through standards CSS. Kentucky follows accessibility requirements for state government websites |
+| Storybook / Figma | 🔴 | Web toolkit documentation at webtoolkit.ky.gov. KITS (Kentucky Information Technology Standards) provides comprehensive technology standards |
 
 ### [United States - Louisiana](https://www.doa.la.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -691,6 +718,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Built on USWDS accessibility foundation. Compliance with federal 21st Century IDEA requirements. Office of Innovation leads digital services design and development |
 | Storybook / Figma | 🔴 | Documentation available at NJWDS components detail page. Director of Communications and Digital Services sets standards for state web presence |
 
+### [United States - Nebraska](https://www.nebraska.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Tyler Forge Design System** | Nebraska.gov managed by Tyler Technologies uses Tyler Forge design system. Forge is framework-agnostic Web Component library implementing Tyler Forge design language. Before launch, agencies trained to edit content through Tyler's custom CMS (Meadowlark). Nebraska citizens saved 86 million hours in 2024 through digital services |
+| Underpinning Technology | Tyler Forge/Web Components | Tyler Forge open-source design system provides unified design principles, components, patterns, and guidelines ensuring consistency, accessibility, and usability. Built using Web Components - reusable, encapsulated HTML tags. Latest version 3.8.1 actively maintained in 2025 |
+| Web Components | 🟢 | Full web components library available on GitHub (tyler-technologies-oss/forge) and NPM (@tylertech/forge). Components work across frameworks. Comprehensive documentation at tylerforge.design |
+| 508 Compliant | 🟢 | Tyler Forge emphasizes accessibility throughout design system. Components built to be inclusive and meet WCAG standards. 279 projects completed in 2024 with $14.2M cost avoidance |
+| Storybook / Figma | 🟢 | Complete documentation at tylerforge.design. Open source on GitHub. NPM package available for integration. Tyler Technologies provides comprehensive support and training |
+
 ### [United States - New York](https://designsystem.ny.gov/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -726,6 +762,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Optional components and utilities with accessibility guidance. Commonwealth Banner with color variants and code generation. Components include buttons, forms, navigation, layout elements |
 | 508 Compliant | 🟢 | Components built with accessibility standards. WEB-06 requires agencies follow VITA-designed principles and guidance. Focus on accessible and responsive design |
 | Storybook / Figma | 🟢 | Native Figma, Sketch, and Adobe XD design files available at developer.virginia.gov. Web Standards Quick Start Reference Guide available |
+
+### [United States - Vermont](https://cmo.vermont.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Vermont Web Design System - Drupal-based** | Director of Web Services Maggie Wilson leads digital strategy, accessibility, and user experience across state websites. Oversees statewide web template and design system. State Template via Drupal developed with accessibility in mind, making platforms compliant with digital accessibility regulations |
+| Underpinning Technology | Drupal CMS | State of Vermont Web Template ensures consistency and accessibility compliance. Chief Marketing Office manages design system. Universal Digital Accessibility project established with Digital Accessibility Steering Committee leading compliance efforts for April 2026 deadline |
+| Web Components | 🟢 | Drupal-based template provides reusable components. Sans-serif fonts (Open Sans, Lato) for body text. Responsive design automatically re-stacks and resizes content for all devices. High contrast color combinations required |
+| 508 Compliant | 🟢 | **WCAG 2.1 AA Compliance required by April 24, 2026**. All digital content must meet updated ADA Title II requirements. State Template built for accessibility. All PDFs must pass Adobe Acrobat Pro Accessibility Checker |
+| Storybook / Figma | 🔴 | Comprehensive web design system documentation at cmo.vermont.gov/web-design-system. Universal Digital Accessibility resources and training materials available |
 
 ---
 
