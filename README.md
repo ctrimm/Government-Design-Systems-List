@@ -16,10 +16,10 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Bloomington, Indiana](#bloomington-indiana) |
 | [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Boston, Massachusetts](#boston-massachusetts) |
 | [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Costa Rica](#costa-rica) |  |  |
+| [Costa Rica](#costa-rica) |  | [United States - Los Angeles, California](#los-angeles-california) |
 | [Czech Republic](#czech-republic) | [United States - California](#united-states---california) |  |
 | [Denmark](#denmark) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Estonia](#estonia) | [United States - Connecticut](#united-states---connecticut) |  |
+| [Estonia](#estonia) | [United States - Connecticut](#united-states---connecticut) | [United States - San Francisco, California](#san-francisco-california) |
 | [Finland](#finland) | [United States - Delaware](#united-states---delaware) |  |
 | [France](#france) | [United States - Georgia](#united-states---georgia) |  |
 | [Germany](#germany) | [United States - Hawaii](#united-states---hawaii) |  |
@@ -56,6 +56,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [United Kingdom](#united-kingdom) |  |  |
 | [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
 | [United States of America](#united-states-of-america) |  |  |
+| [United States - Indian Affairs](#united-states---indian-affairs) |  |  |
 | [Uruguay](#uruguay) |  |  |
 | [Vietnam](#vietnam) |  |  |
 ---
@@ -525,6 +526,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Focus on unified, accessible, user-friendly design. Digital services provided on multiple access means including mobile devices. Specific compliance standards not publicly detailed |
 | Storybook / Figma | 🔴 | VGDS community resources at vgds.design and vgds.systems. Digital Government Architecture Framework 4.0 documentation |
 
+### [United States - Indian Affairs](https://www.bia.gov/webstandards)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Active - Indian Affairs Design System** | Bureau of Indian Affairs design system uses U.S. Web Design System (USWDS) providing consistent usability, accessibility, editorial style across websites and digital services. 40+ accessible, mobile-friendly components. Three main guiding principles driven by USWDS and enacted U.S. policies |
+| Underpinning Technology | USWDS-based | Built on federal U.S. Web Design System foundation. Indian Affairs follows USWDS principles when creating content for public-facing website. Serves BIA and tribal nations with standardized, accessible digital infrastructure |
+| Web Components | 🟢 | 40+ accessible, mobile-friendly USWDS components available. Consistent component library ensures usability across Indian Affairs digital services and tribal government resources |
+| 508 Compliant | 🟢 | **Section 508 compliance and accessibility built-in**. Indian Affairs strives to ensure people with disabilities have access to same services and content available to people without disabilities, including through information technology |
+| Storybook / Figma | 🔴 | Web standards documentation at bia.gov/webstandards. Design system guidance aligned with federal USWDS standards and tribal sovereignty principles |
+
 ---
 
 ## State / Regional
@@ -813,6 +823,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Digital Services Team champions accessibility across City digital products in partnership with Mayor's Office for People with Disabilities |
 | Storybook / Figma | 🔴 | Pattern library and methods documentation at design.chicago.gov |
 
+#### [Los Angeles, California](https://styleguide.lacity.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - City of Los Angeles Style Guide | Style Guide documents frameworks, typography, web components, and best practices used by City of Los Angeles Information Technology Agency to build websites. Standards provide visitors consistent branding and good user experience for effective information exchange |
+| Underpinning Technology | Web-based | Living document expected to change over time. Browse individual web components, seals, and logos used on City websites. ITA leads development of citywide applications like RAMPLA and MyLA311 |
+| Web Components | 🟢 | Web components documented in style guide. Frameworks, typography, and component patterns standardized across City of Los Angeles websites |
+| 508 Compliant | 🟢 | **WCAG 2.0 Level A & AA compliance required**. All City of Los Angeles websites required to follow WCAG 2.0 standards with no errors in either Level A or AA |
+| Storybook / Figma | 🔴 | Comprehensive style guide at styleguide.lacity.gov. Information Technology Agency provides documentation and best practices |
+
 #### [Philadelphia, Pennsylvania](https://standards.phila.gov/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -821,6 +840,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Components and guidelines available |
 | 508 Compliant | 🟡 | Partially conformant with WCAG 2.1 Level AA. Color combinations pass WCAG AA contrast ratios. Accessibility is shared responsibility among City employees and contractors |
 | Storybook / Figma | 🔴 | Digital standards documentation with color palette, typography, menus, and layout guidelines |
+
+#### [San Francisco, California](https://design-system.sf.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/SFDigitalServices/design-system) | **Active - Maya Design System (Launched 2025)** | Maya design system created to advance accessibility and responsiveness across SF.gov. Available as Gitbook-based library for all city agencies to use for websites and apps. Karl CMS built on Wagtail open-source platform powers new SF.gov backend |
+| Underpinning Technology | Wagtail CMS / Web-based | Digital and Data Services (DDS) team developed Karl CMS and Maya design system simultaneously. Font is clear, legible, ADA and Section 508 compliant. All vital information written at or below 5th grade reading level |
+| Web Components | 🟢 | Maya design system provides components for visually compelling, responsive interfaces. Making it easier for agencies to develop accessible websites and applications with consistent City & County of San Francisco visual identity |
+| 508 Compliant | 🟢 | **Federal accessibility and readability standards met**. ADA and Section 508 compliance for people with disabilities. Equitable design requirements enforced since November 2021. All vital information translated by humans |
+| Storybook / Figma | 🔴 | Design system documentation at design-system.sf.gov. Digital Services resources at digitalservices.sfgov.org. Government Technology recognized SF.gov redesign for accessibility and flexibility |
 
 ### United Kingdom
 #### [Bristol City Council](https://design.bristol.gov.uk/)
