@@ -17,34 +17,34 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Los Angeles, California](#los-angeles-california) |
 | [Canada](#canada) | [Canada - Québec](#canada---québec) | [United States - New York City](#new-york-city) |
 | [Chile](#chile) | [Canada - Yukon](#canada---yukon) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Colombia](#colombia) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - San Francisco, California](#san-francisco-california) |
-| [Costa Rica](#costa-rica) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) |  |
-| [Cyprus](#cyprus) | [United States - California](#united-states---california) |  |
-| [Czech Republic](#czech-republic) | [United States - Colorado](#united-states---colorado) |  |
-| [Denmark](#denmark) | [United States - Connecticut](#united-states---connecticut) |  |
-| [Dominican Republic](#dominican-republic) | [United States - Delaware](#united-states---delaware) |  |
-| [Estonia](#estonia) | [United States - Georgia](#united-states---georgia) |  |
-| [European Commission (ECL)](#european-commission-ecl) | [United States - Hawaii](#united-states---hawaii) |  |
-| [Finland](#finland) | [United States - Illinois](#united-states---illinois) |  |
-| [France](#france) | [United States - Iowa](#united-states---iowa) |  |
-| [Germany](#germany) | [United States - Kentucky](#united-states---kentucky) |  |
-| [Greece](#greece) | [United States - Louisiana](#united-states---louisiana) |  |
-| [Hong Kong](#hong-kong) | [United States - Maryland](#united-states---maryland) |  |
-| [Iceland](#iceland) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [India](#india) | [United States - Michigan](#united-states---michigan) |  |
-| [Indonesia](#indonesia) | [United States - Minnesota](#united-states---minnesota) |  |
-| [Ireland](#ireland-pdf) | [United States - Nebraska](#united-states---nebraska) |  |
-| [Israel](#israel) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Italy](#italy) | [United States - New York](#united-states---new-york) |  |
-| [Japan](#japan) | [United States - North Carolina](#united-states---north-carolina) |  |
-| [Kenya](#kenya) | [United States - Ohio](#united-states---ohio) |  |
-| [Malaysia](#malaysia) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Mexico](#mexico) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Mongolia](#mongolia) | [United States - Texas](#united-states---texas) |  |
-| [Netherlands](#netherlands) | [United States - Utah](#united-states---utah) |  |
-| [New Zealand](#new-zealand) | [United States - Vermont](#united-states---vermont) |  |
-| [Nigeria](#nigeria) | [United States - Virginia](#united-states---virginia) |  |
-| [Norway](#norway) |  |  |
+| [Colombia](#colombia) | [Germany - KERN](#germany---kern) | [United States - San Francisco, California](#san-francisco-california) |
+| [Costa Rica](#costa-rica) | [United Kingdom - Essex](#united-kingdom---essex) |  |
+| [Cyprus](#cyprus) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) |  |
+| [Czech Republic](#czech-republic) | [United States - California](#united-states---california) |  |
+| [Denmark](#denmark) | [United States - Colorado](#united-states---colorado) |  |
+| [Dominican Republic](#dominican-republic) | [United States - Connecticut](#united-states---connecticut) |  |
+| [Estonia](#estonia) | [United States - Delaware](#united-states---delaware) |  |
+| [European Commission (ECL)](#european-commission-ecl) | [United States - Georgia](#united-states---georgia) |  |
+| [Finland](#finland) | [United States - Hawaii](#united-states---hawaii) |  |
+| [France](#france) | [United States - Illinois](#united-states---illinois) |  |
+| [Germany](#germany) | [United States - Iowa](#united-states---iowa) |  |
+| [Greece](#greece) | [United States - Kentucky](#united-states---kentucky) |  |
+| [Hong Kong](#hong-kong) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Iceland](#iceland) | [United States - Maryland](#united-states---maryland) |  |
+| [India](#india) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [Indonesia](#indonesia) | [United States - Michigan](#united-states---michigan) |  |
+| [Ireland](#ireland-pdf) | [United States - Minnesota](#united-states---minnesota) |  |
+| [Israel](#israel) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Italy](#italy) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Japan](#japan) | [United States - New York](#united-states---new-york) |  |
+| [Kenya](#kenya) | [United States - North Carolina](#united-states---north-carolina) |  |
+| [Malaysia](#malaysia) | [United States - Ohio](#united-states---ohio) |  |
+| [Mexico](#mexico) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Mongolia](#mongolia) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Netherlands](#netherlands) | [United States - Texas](#united-states---texas) |  |
+| [New Zealand](#new-zealand) | [United States - Utah](#united-states---utah) |  |
+| [Nigeria](#nigeria) | [United States - Vermont](#united-states---vermont) |  |
+| [Norway](#norway) | [United States - Virginia](#united-states---virginia) |  |
 | [Peru](#peru) |  |  |
 | [Philippines](#philippines) |  |  |
 | [Poland](#poland) |  |  |
@@ -255,7 +255,7 @@ Click on a table entry below to be taken to more information about it's Design S
 ### [European Commission (ECL)](https://ec.europa.eu/component-library/ec/getting-started/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| [Source Code](https://github.com/ec-europa/europa-component-library) | Active development | Europa Component Library (ECL) - official design system for the European Commission's digital presence. Provides standardized, reusable components for EU digital services and websites |
+| [Source Code](https://github.com/ec-europa/europa-component-library) | Active development | Europa Component Library (ECL) - official design system for the European Commission's digital presence. Ships an EU variant (`preset-eu`) applicable to European Union institutions and agencies, plus an EC variant for Commission sites. Provides standardized, reusable components for EU digital services and websites |
 | Underpinning Technology | React / Vanilla JS | Components available as npm packages for React and vanilla JS implementations. Design tokens and Twig templates also available |
 | Web Components | 🟢 | Full component library with React and vanilla JS implementations |
 | 508 Compliant | 🟢 | Meets EU Web Accessibility Directive (2016/2102) and WCAG 2.1 AA requirements across all components |
@@ -888,6 +888,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Styles, components and design patterns available via the base template |
 | 508 Compliant | 🟢 | Consistent user experience is part of the digital service standards |
 | Storybook / Figma | 🔴 | Documentation at guide.yukon.ca |
+
+### [Germany - KERN](https://www.kern-ux.de/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://gitlab.opencode.de/kern-ux/pattern-library) | Active - Open Source | KERN UX Standard - technology-independent, open-source design system for German public administration, from municipal to federal level. Initiated by Hamburg and Schleswig-Holstein in the spirit of "Einer für Alle" (One for All). [GitHub mirrors](https://github.com/KERN-UX) and [Web Components PoC](https://github.com/Dataport/kern-ux-web-components) |
+| Underpinning Technology | HTML/CSS + framework adapters | Adapters for React, Angular, Vue, TYPO3, Blazor and Web Components |
+| Web Components | 🟢 | Reusable components with multiple framework adapters including web components |
+| 508 Compliant | 🟢 | Accessibility "by design" following WCAG, EN 301 549 and BITV 2.0 |
+| Storybook / Figma | 🟢 | Pattern library and Figma resources; nationwide community platform |
 
 ### [United Kingdom - Essex](https://www.essex.gov.uk/essex-county-councils-design-and-patterns-library)
 | **Feature** | **Status** | **Other Info** |
