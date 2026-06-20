@@ -8,37 +8,38 @@ Click on a table entry below to be taken to more information about it's Design S
 | ----------------- | ---------------- | ----------------- |
 | [Argentina](#argentina) | [Australia - New South Wales](#australia---new-south-wales) | [Alberta, Canada](#alberta-canada-pdf) |
 | [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [Córdoba, Argentina](#córdoba-argentina) |
-| [Austria](#austria) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Bristol City Council](#bristol-city-council) |
-| [Bahrain](#bahrain) |  |  |
-| [Bangladesh](#bangladesh) |  |  |
-| [Belgium/Flanders](#belgiumflanders) | [Canada - British Columbia](#canada---british-columbia) | [United States - Austin, Texas](#austin-texas) |
-| [Botswana](#botswana) |  |  |
-| [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Bloomington, Indiana](#bloomington-indiana) |
-| [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Boston, Massachusetts](#boston-massachusetts) |
-| [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Costa Rica](#costa-rica) |  | [United States - Los Angeles, California](#los-angeles-california) |
-| [Czech Republic](#czech-republic) | [United States - California](#united-states---california) |  |
-| [Denmark](#denmark) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Estonia](#estonia) | [United States - Connecticut](#united-states---connecticut) | [United States - San Francisco, California](#san-francisco-california) |
-| [European Commission (ECL)](#european-commission-ecl) |  |  |
-| [Finland](#finland) | [United States - Delaware](#united-states---delaware) |  |
-| [France](#france) | [United States - Georgia](#united-states---georgia) |  |
-| [Germany](#germany) | [United States - Hawaii](#united-states---hawaii) |  |
-| [Greece](#greece) | [United States - Illinois](#united-states---illinois) |  |
-| [Hong Kong](#hong-kong) | [United States - Iowa](#united-states---iowa) |  |
-| [Iceland](#iceland) | [United States - Kentucky](#united-states---kentucky) |  |
-| [India](#india) | [United States - Louisiana](#united-states---louisiana) |  |
-| [Ireland](#ireland-pdf) | [United States - Maryland](#united-states---maryland) |  |
-| [Israel](#israel) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [Italy](#italy) | [United States - Michigan](#united-states---michigan) |  |
-| [Japan](#japan) | [United States - Minnesota](#united-states---minnesota) |  |
-| [Kenya](#kenya) | [United States - Nebraska](#united-states---nebraska) |  |
-| [Malaysia](#malaysia) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Mexico](#mexico) | [United States - New York](#united-states---new-york) |  |
-| [Netherlands](#netherlands) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [New Zealand](#new-zealand) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Nigeria](#nigeria) | [United States - Vermont](#united-states---vermont) |  |
-| [Norway](#norway) | [United States - Virginia](#united-states---virginia) |  |
+| [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Bristol City Council](#bristol-city-council) |
+| [Austria](#austria) | [Canada - British Columbia](#canada---british-columbia) | [United Kingdom - Hackney](#hackney) |
+| [Bahrain](#bahrain) | [Canada - Ontario](#canada---ontario) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
+| [Bangladesh](#bangladesh) | [Canada - Québec](#canada---québec) | [United States - Austin, Texas](#austin-texas) |
+| [Belgium/Flanders](#belgiumflanders) | [Canada - Yukon](#canada---yukon) | [United States - Bloomington, Indiana](#bloomington-indiana) |
+| [Botswana](#botswana) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Boston, Massachusetts](#boston-massachusetts) |
+| [Brazil](#brazil) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [Canada](#canada) | [United States - California](#united-states---california) | [United States - Los Angeles, California](#los-angeles-california) |
+| [Chile](#chile) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Costa Rica](#costa-rica) | [United States - Connecticut](#united-states---connecticut) | [United States - San Francisco, California](#san-francisco-california) |
+| [Czech Republic](#czech-republic) | [United States - Delaware](#united-states---delaware) |  |
+| [Denmark](#denmark) | [United States - Georgia](#united-states---georgia) |  |
+| [Estonia](#estonia) | [United States - Hawaii](#united-states---hawaii) |  |
+| [European Commission (ECL)](#european-commission-ecl) | [United States - Illinois](#united-states---illinois) |  |
+| [Finland](#finland) | [United States - Iowa](#united-states---iowa) |  |
+| [France](#france) | [United States - Kentucky](#united-states---kentucky) |  |
+| [Germany](#germany) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Greece](#greece) | [United States - Maryland](#united-states---maryland) |  |
+| [Hong Kong](#hong-kong) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [Iceland](#iceland) | [United States - Michigan](#united-states---michigan) |  |
+| [India](#india) | [United States - Minnesota](#united-states---minnesota) |  |
+| [Ireland](#ireland-pdf) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Israel](#israel) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Italy](#italy) | [United States - New York](#united-states---new-york) |  |
+| [Japan](#japan) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Kenya](#kenya) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Malaysia](#malaysia) | [United States - Vermont](#united-states---vermont) |  |
+| [Mexico](#mexico) | [United States - Virginia](#united-states---virginia) |  |
+| [Netherlands](#netherlands) |  |  |
+| [New Zealand](#new-zealand) |  |  |
+| [Nigeria](#nigeria) |  |  |
+| [Norway](#norway) |  |  |
 | [Peru](#peru) |  |  |
 | [Philippines](#philippines) |  |  |
 | [Poland](#poland) |  |  |
@@ -55,7 +56,18 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Ukraine](#ukraine) |  |  |
 | [United Arab Emirates](#united-arab-emirates) |  |  |
 | [United Kingdom](#united-kingdom) |  |  |
+| [United Kingdom - Department for Education](#united-kingdom---department-for-education) |  |  |
+| [United Kingdom - Department for Work and Pensions](#united-kingdom---department-for-work-and-pensions) |  |  |
+| [United Kingdom - HM Revenue and Customs](#united-kingdom---hm-revenue-and-customs) |  |  |
+| [United Kingdom - Home Office](#united-kingdom---home-office) |  |  |
+| [United Kingdom - Intelligence Community](#united-kingdom---intelligence-community) |  |  |
+| [United Kingdom - Ministry of Defence](#united-kingdom---ministry-of-defence) |  |  |
+| [United Kingdom - Ministry of Justice](#united-kingdom---ministry-of-justice) |  |  |
 | [United Kingdom - National Health Services](#united-kingdom---national-health-services) |  |  |
+| [United Kingdom - NICE](#united-kingdom---nice) |  |  |
+| [United Kingdom - Office for National Statistics](#united-kingdom---office-for-national-statistics) |  |  |
+| [United Kingdom - Royal Navy](#united-kingdom---royal-navy) |  |  |
+| [United Kingdom - The National Archives](#united-kingdom---the-national-archives) |  |  |
 | [United States of America](#united-states-of-america) |  |  |
 | [United States - Indian Affairs](#united-states---indian-affairs) |  |  |
 | [Uruguay](#uruguay) |  |  |
@@ -82,6 +94,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🔴 | No web components found |
 | 508 Compliant | 🟢 | Meet WCAG 2.1 AA standard accessibility |
 | Storybook / Figma | 🔴 | No usage of Storybook or Figma |
+
+### [Australia - Department of Agriculture](https://design-system.agriculture.gov.au/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/agriculturegovau/agds-next) | Active development | Agriculture Design System (AgDS) - builds on the visual language and design principles of the original Australian Government Design System (GOLD). Available as the `agds-next` React component library |
+| Underpinning Technology | React | Theming, responsive components, and design tokens to support adoption across multiple teams |
+| Web Components | 🟢 | React component library available on npm |
+| 508 Compliant | 🟢 | Accessibility-focused, built on GOLD design principles and WCAG-aligned guidance |
+| Storybook / Figma | 🟢 | Storybook for tests, Playroom for collaborative design, and a community Figma resource |
 
 ### [Austria](https://design.austria.info/en/design-system/)
 | **Feature** | **Status** | **Other Info** |
@@ -500,6 +521,69 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Fully compliant with WCAG 2.2 AA standard. Last audited July 2024 by Digital Accessibility Centre. Using Frontend helps services meet WCAG 2.2 Level AA |
 | Storybook / Figma | 🟡 | Automated tests with @axe-core/puppeteer and html-validate. Template for accessibility test findings available |
 
+### [United Kingdom - Department for Education](https://design.education.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/DFE-Digital/dfe-frontend) | Active development | DfE Design Manual - `dfe-frontend` contains the code to design DfE-branded services on top of the GOV.UK Design System. Owned by the DfE DesignOps team |
+| Underpinning Technology | GOV.UK Frontend (HTML/CSS/JS) | Extends the GOV.UK Design System with DfE-specific components and patterns |
+| Web Components | 🟢 | `dfe-frontend` npm package with components built on GOV.UK Frontend |
+| 508 Compliant | 🟢 | Built on GOV.UK Frontend (WCAG 2.2 AA); focus on accessible, user-centred services |
+| Storybook / Figma | 🟡 | Design manual documentation, Figma kits for DfE designers |
+
+### [United Kingdom - Department for Work and Pensions](https://design-system.dwp.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/dwp/design-system) | Active development | DWP Design System - one place for service teams to find and share the styles, components and patterns for designing DWP services. Extends the GOV.UK Design System |
+| Underpinning Technology | GOV.UK Frontend (HTML/CSS/JS) | DWP-specific extensions on top of GOV.UK Frontend |
+| Web Components | 🟢 | Components and patterns available, built on GOV.UK Frontend |
+| 508 Compliant | 🟢 | Built on the GOV.UK Frontend WCAG 2.2 AA foundation |
+| Storybook / Figma | 🟡 | Documentation at design-system.dwp.gov.uk |
+
+### [United Kingdom - HM Revenue and Customs](https://design.tax.service.gov.uk/hmrc-design-patterns/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/hmrc/hmrc-frontend) | Active development | HMRC Design Patterns - `hmrc-frontend` contains code and documentation for HMRC-specific patterns used together with GOV.UK Frontend. Available as `hmrc-frontend` on npm |
+| Underpinning Technology | GOV.UK Frontend (HTML/CSS/JS, Nunjucks) | HMRC patterns not yet in the GOV.UK Design System |
+| Web Components | 🟢 | HMRC Frontend components (account header, banner, etc.) on top of GOV.UK Frontend |
+| 508 Compliant | 🟢 | Built on GOV.UK Frontend (WCAG 2.2 AA) |
+| Storybook / Figma | 🔴 | Pattern documentation at design.tax.service.gov.uk |
+
+### [United Kingdom - Home Office](https://design.homeoffice.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/UKHomeOffice/design-system) | Active development | Home Office Design System - extends the GOV.UK Design System with Home Office-specific patterns, components and styles. Part of the Home Office User-Centred Design Manual |
+| Underpinning Technology | GOV.UK Frontend (HTML/CSS/JS) | Extends the GOV.UK Design System |
+| Web Components | 🟢 | Patterns, components and styles built on GOV.UK Frontend |
+| 508 Compliant | 🟢 | Accessibility standard closely aligns with WCAG 2.2 Level AA |
+| Storybook / Figma | 🟡 | Accessibility resources and design manual; open contribution via GitHub working group |
+
+### [United Kingdom - Intelligence Community](https://design.sis.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/mi6/ic-design-system) | Active development | Intelligence Community Design System (ICDS) - joint project led by MI6 with GCHQ, MI5 and HMGCC. Enables building usable, consistent and accessible apps and services across the UK Intelligence Community |
+| Underpinning Technology | Stencil.js / Web Components | UI Kit built with Stencil.js for seamless integration across React, Vue, Angular and other frameworks |
+| Web Components | 🟢 | Framework-agnostic web components built with Stencil.js |
+| 508 Compliant | 🟢 | Focus on accessible apps and services with dedicated accessibility guidance |
+| Storybook / Figma | 🟡 | Component documentation at design.sis.gov.uk |
+
+### [United Kingdom - Ministry of Defence](https://design-system.service.mod.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/defencedigital/mod-uk-design-system) | Active development | MOD.UK Design System - guidance and tools for building high-quality services within the UK Ministry of Defence that meet the Defence Digital service standards. Open source |
+| Underpinning Technology | React / Web Components | Open source, built to Defence Digital service standards |
+| Web Components | 🟢 | Component library available on GitHub |
+| 508 Compliant | 🟢 | Built to meet accessibility service standards |
+| Storybook / Figma | 🟢 | Storybook for interactive component documentation |
+
+### [United Kingdom - Ministry of Justice](https://design-patterns.service.justice.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/ministryofjustice/moj-frontend) | Active development | MOJ Design System - styles, components and patterns to design, build and deliver accessible and consistent MoJ services. Available as `@ministryofjustice/frontend` on npm and used together with GOV.UK Frontend |
+| Underpinning Technology | GOV.UK Frontend (HTML/CSS/JS, Nunjucks) | MOJ Frontend extends GOV.UK Frontend with Nunjucks macros |
+| Web Components | 🟢 | MOJ Frontend components (Nunjucks macros) on top of GOV.UK Frontend |
+| 508 Compliant | 🟢 | Built on GOV.UK Frontend (WCAG 2.2 AA); accessibility-focused |
+| Storybook / Figma | 🔴 | Pattern Library documentation at design-patterns.service.justice.gov.uk |
+
 ### [United Kingdom - National Health Services](https://service-manual.nhs.uk/design-system)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -508,6 +592,42 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Components documented in Storybook |
 | 508 Compliant | 🟢 | Strong accessibility emphasis throughout. All examples aligned with NHS design system standards |
 | Storybook / Figma | 🟢 | Uses Storybook for documentation, development and testing. Deployed with each version |
+
+### [United Kingdom - NICE](https://nice-digital.github.io/nice-design-system/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nice-digital/nice-design-system) | Active development | NICE Design System (NDS) - pattern library, front-end toolkit and guidelines for rapidly building modern, accessible digital services consistent with the National Institute for Health and Care Excellence brand |
+| Underpinning Technology | SCSS / JS front-end toolkit | Reusable patterns, documentation and guidelines for rapid product development |
+| Web Components | 🟢 | Front-end toolkit with reusable components |
+| 508 Compliant | 🟢 | Focus on consistent, accessible digital services across NICE |
+| Storybook / Figma | 🟡 | Documentation site with foundations, components and patterns |
+
+### [United Kingdom - Office for National Statistics](https://service-manual.ons.gov.uk/design-system/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/ONSdigital/design-system) | Active development | ONS Design System - components and patterns for ONS digital services. Nunjucks macros and templates available from npm, with built CSS and JS available from the ONS CDN |
+| Underpinning Technology | Nunjucks / HTML/CSS/JS | Macros tested in Node; interaction tests run in-browser with Puppeteer. A Svelte port of components also exists |
+| Web Components | 🟢 | Component library with Nunjucks macros |
+| 508 Compliant | 🟢 | Accessibility-focused components for ONS services |
+| Storybook / Figma | 🔴 | Design system documentation at service-manual.ons.gov.uk |
+
+### [United Kingdom - Royal Navy](https://design-system.navy.digital.mod.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/Royal-Navy/design-system) | Active development | Royal Navy Design System - guidance and tools for building services that meet the Royal Navy service standards. Open source |
+| Underpinning Technology | React / Web Components | Open source component library with installable packages |
+| Web Components | 🟢 | Component packages available |
+| 508 Compliant | 🟢 | Dedicated accessibility guidance |
+| Storybook / Figma | 🟢 | Storybook at storybook.design-system.navy.digital.mod.uk |
+
+### [United Kingdom - The National Archives](https://design-system.nationalarchives.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nationalarchives/design-system) | Active development | The National Archives Design System - styles, components and patterns to design TNA platforms and services. Code is public and freely available under an MIT license |
+| Underpinning Technology | HTML/CSS/JS | Reusable, accessible components for forms, navigation, panels, tables and more |
+| Web Components | 🟢 | Reusable component library, MIT licensed |
+| 508 Compliant | 🟢 | Accessible components to keep services consistent with The National Archives |
+| Storybook / Figma | 🔴 | Documentation at design-system.nationalarchives.gov.uk |
 
 ### [United States of America](https://designsystem.digital.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -584,6 +704,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Grid layouts, spacing utilities, design elements available |
 | 508 Compliant | 🟢 | **Must meet WCAG 2.1 AA** per AODA (Ontario Regulation 191/11). All public websites as of Jan 2021 must meet WCAG 2.1 AA. Includes alt text requirements, colour differentiation for accessibility |
 | Storybook / Figma | 🔴 | Web content editing guide with accessibility requirements and design guidelines |
+
+### [Canada - Québec](https://design.quebec.ca/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/Quebecca/qc_trousse_sdg) | Active development | Système de design gouvernemental (SDG) - mandatory foundations for designing accessible, performant and harmonized interfaces across Québec public digital services. Development toolkit (trousse) generates stylesheets, images and JavaScript |
+| Underpinning Technology | Node.js / JavaScript toolkit | Complies with the government visual identification program (PIV) and aligned with Québec.ca |
+| Web Components | 🟢 | Reusable components delivered via the development toolkit (trousse SDG) |
+| 508 Compliant | 🟢 | Accessibility is mandatory; coherent, user-friendly and adaptive (mobile) services |
+| Storybook / Figma | 🔴 | Documentation at design.quebec.ca |
+
+### [Canada - Yukon](https://guide.yukon.ca/en/yukon-design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Yukon.ca Design System - makes websites and online services look like Yukon.ca. Maintained by the eServices for Citizens team. Anyone in government can propose a new style, component or design pattern |
+| Underpinning Technology | Drupal / AEM-based | Template with base styles; common platform components include Adobe Experience Manager (AEM) and Drupal Web Forms |
+| Web Components | 🟢 | Styles, components and design patterns available via the base template |
+| 508 Compliant | 🟢 | Consistent user experience is part of the digital service standards |
+| Storybook / Figma | 🔴 | Documentation at guide.yukon.ca |
 
 ### [United Kingdom - Essex](https://www.essex.gov.uk/essex-county-councils-design-and-patterns-library)
 | **Feature** | **Status** | **Other Info** |
@@ -870,6 +1008,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Accessibility testing conducted on patterns. Components designed for consistent, accessible experiences |
 | Storybook / Figma | 🔴 | Design system at design.bristol.gov.uk, Pattern library at style.bristol.gov.uk |
 
+
+#### [Hackney](https://design-system.hackney.gov.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/LBHackney-IT/lbh-frontend) | Active development | Hackney Design System - everything needed to build user interfaces for Hackney platforms and services. Includes `lbh-frontend`, framework starter kits, a prototype kit, and a WordPress theme |
+| Underpinning Technology | HTML/CSS/JS | `lbh-frontend` component library with a prototype kit for rapid HTML prototyping |
+| Web Components | 🟢 | Component library (`lbh-frontend`) with starter kits for different frameworks |
+| 508 Compliant | 🟢 | Accessibility-focused components |
+| Storybook / Figma | 🔴 | Documentation at design-system.hackney.gov.uk |
+
+#### [Transport for West Midlands](https://designsystem.tfwm.org.uk/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code (wmn-design-system on npm)](https://www.npmjs.com/package/wmn-design-system) | v2.4.0 - Active development | Transport for West Midlands Design System - a collection of reusable HTML components to build services that adhere to TfWM design standards. Maintained by the Digital and Data team at West Midlands Combined Authority |
+| Underpinning Technology | HTML/CSS/JS | Sketch used for design and prototyping; available on npm as `wmn-design-system` |
+| Web Components | 🟢 | Reusable HTML components and a prototype kit |
+| 508 Compliant | 🟢 | Built to TfWM design standards with accessibility in mind |
+| Storybook / Figma | 🔴 | Sketch-based design; documentation at designsystem.tfwm.org.uk |
 
 ### Other Local / Municipalities
 #### [Córdoba, Argentina](https://github.com/ModernizacionMuniCBA/guia-estilos-y-web)
