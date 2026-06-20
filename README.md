@@ -7,43 +7,43 @@ Click on a table entry below to be taken to more information about it's Design S
 | Federal / Country | State / Regional | Local / Municipal |
 | ----------------- | ---------------- | ----------------- |
 | [Argentina](#argentina) | [Australia - New South Wales](#australia---new-south-wales) | [Córdoba, Argentina](#córdoba-argentina) |
-| [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [United Kingdom - Bristol City Council](#bristol-city-council) |
-| [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Hackney](#hackney) |
-| [Austria](#austria) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
-| [Bahrain](#bahrain) | [Canada - Alberta](#canada---alberta) | [United States - Austin, Texas](#austin-texas) |
-| [Bangladesh](#bangladesh) | [Canada - British Columbia](#canada---british-columbia) | [United States - Bloomington, Indiana](#bloomington-indiana) |
-| [Belgium/Flanders](#belgiumflanders) | [Canada - Ontario](#canada---ontario) | [United States - Boston, Massachusetts](#boston-massachusetts) |
-| [Botswana](#botswana) | [Canada - Québec](#canada---québec) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Brazil](#brazil) | [Canada - Yukon](#canada---yukon) | [United States - Los Angeles, California](#los-angeles-california) |
-| [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - New York City](#new-york-city) |
-| [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Colombia](#colombia) | [United States - California](#united-states---california) | [United States - San Francisco, California](#san-francisco-california) |
-| [Costa Rica](#costa-rica) | [United States - Colorado](#united-states---colorado) |  |
-| [Cyprus](#cyprus) | [United States - Connecticut](#united-states---connecticut) |  |
-| [Czech Republic](#czech-republic) | [United States - Delaware](#united-states---delaware) |  |
-| [Denmark](#denmark) | [United States - Georgia](#united-states---georgia) |  |
-| [Dominican Republic](#dominican-republic) | [United States - Hawaii](#united-states---hawaii) |  |
-| [Estonia](#estonia) | [United States - Illinois](#united-states---illinois) |  |
-| [European Commission (ECL)](#european-commission-ecl) | [United States - Iowa](#united-states---iowa) |  |
-| [Finland](#finland) | [United States - Kentucky](#united-states---kentucky) |  |
-| [France](#france) | [United States - Louisiana](#united-states---louisiana) |  |
-| [Germany](#germany) | [United States - Maryland](#united-states---maryland) |  |
-| [Greece](#greece) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [Hong Kong](#hong-kong) | [United States - Michigan](#united-states---michigan) |  |
-| [Iceland](#iceland) | [United States - Minnesota](#united-states---minnesota) |  |
-| [India](#india) | [United States - Nebraska](#united-states---nebraska) |  |
-| [Indonesia](#indonesia) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Ireland](#ireland-pdf) | [United States - New York](#united-states---new-york) |  |
-| [Israel](#israel) | [United States - North Carolina](#united-states---north-carolina) |  |
-| [Italy](#italy) | [United States - Ohio](#united-states---ohio) |  |
-| [Japan](#japan) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Kenya](#kenya) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Malaysia](#malaysia) | [United States - Texas](#united-states---texas) |  |
-| [Mexico](#mexico) | [United States - Utah](#united-states---utah) |  |
-| [Mongolia](#mongolia) | [United States - Vermont](#united-states---vermont) |  |
-| [Netherlands](#netherlands) | [United States - Virginia](#united-states---virginia) |  |
-| [New Zealand](#new-zealand) |  |  |
-| [Nigeria](#nigeria) |  |  |
+| [Australia](#australia) | [Australia - Queensland](#australia---queensland) | [United Kingdom - Bristol City Council](#bristol-city-council) |
+| [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Australia - South Australia](#australia---south-australia) | [United Kingdom - Hackney](#hackney) |
+| [Austria](#austria) | [Australia - Victoria](#australia---victoria) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
+| [Bahrain](#bahrain) | [Belgium/Flanders](#belgiumflanders) | [United States - Austin, Texas](#austin-texas) |
+| [Bangladesh](#bangladesh) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [United States - Bloomington, Indiana](#bloomington-indiana) |
+| [Belgium/Flanders](#belgiumflanders) | [Canada - Alberta](#canada---alberta) | [United States - Boston, Massachusetts](#boston-massachusetts) |
+| [Botswana](#botswana) | [Canada - British Columbia](#canada---british-columbia) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Los Angeles, California](#los-angeles-california) |
+| [Canada](#canada) | [Canada - Québec](#canada---québec) | [United States - New York City](#new-york-city) |
+| [Chile](#chile) | [Canada - Yukon](#canada---yukon) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Colombia](#colombia) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - San Francisco, California](#san-francisco-california) |
+| [Costa Rica](#costa-rica) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) |  |
+| [Cyprus](#cyprus) | [United States - California](#united-states---california) |  |
+| [Czech Republic](#czech-republic) | [United States - Colorado](#united-states---colorado) |  |
+| [Denmark](#denmark) | [United States - Connecticut](#united-states---connecticut) |  |
+| [Dominican Republic](#dominican-republic) | [United States - Delaware](#united-states---delaware) |  |
+| [Estonia](#estonia) | [United States - Georgia](#united-states---georgia) |  |
+| [European Commission (ECL)](#european-commission-ecl) | [United States - Hawaii](#united-states---hawaii) |  |
+| [Finland](#finland) | [United States - Illinois](#united-states---illinois) |  |
+| [France](#france) | [United States - Iowa](#united-states---iowa) |  |
+| [Germany](#germany) | [United States - Kentucky](#united-states---kentucky) |  |
+| [Greece](#greece) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Hong Kong](#hong-kong) | [United States - Maryland](#united-states---maryland) |  |
+| [Iceland](#iceland) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [India](#india) | [United States - Michigan](#united-states---michigan) |  |
+| [Indonesia](#indonesia) | [United States - Minnesota](#united-states---minnesota) |  |
+| [Ireland](#ireland-pdf) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Israel](#israel) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Italy](#italy) | [United States - New York](#united-states---new-york) |  |
+| [Japan](#japan) | [United States - North Carolina](#united-states---north-carolina) |  |
+| [Kenya](#kenya) | [United States - Ohio](#united-states---ohio) |  |
+| [Malaysia](#malaysia) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Mexico](#mexico) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Mongolia](#mongolia) | [United States - Texas](#united-states---texas) |  |
+| [Netherlands](#netherlands) | [United States - Utah](#united-states---utah) |  |
+| [New Zealand](#new-zealand) | [United States - Vermont](#united-states---vermont) |  |
+| [Nigeria](#nigeria) | [United States - Virginia](#united-states---virginia) |  |
 | [Norway](#norway) |  |  |
 | [Peru](#peru) |  |  |
 | [Philippines](#philippines) |  |  |
@@ -808,6 +808,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Consistent, user-focused customer experiences with accessibility built-in |
 | Storybook / Figma | 🟢 | [Figma UI kits](https://www.figma.com/community/file/1326994583954765832) available, documented components |
 
+### [Australia - Queensland](https://www.designsystem.qld.gov.au/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/qld-gov-au) | Active development | Queensland Government Design System (QGDS) - resilient, pre-tested code implementations to build consistent, user-centric digital services. Three implementation pathways: [QGDS Vanilla](https://github.com/qld-gov-au/qgds-vanilla), [QGDS Bootstrap 5](https://github.com/qld-gov-au/qgds-bootstrap5), and web components |
+| Underpinning Technology | Multi-framework (Vanilla / Bootstrap 5 / Web Components) | No mandated framework; teams choose the pathway that fits. Queensland Government brand compliance out-of-the-box |
+| Web Components | 🟢 | Multiple implementation frameworks including web components |
+| 508 Compliant | 🟢 | Built-in accessibility (WCAG 2.2) and responsive behaviour out-of-the-box |
+| Storybook / Figma | 🟢 | Figma UI Kit with ready-made components, patterns and templates |
+
 ### [Australia - South Australia](https://www.accessibility.sa.gov.au/support-and-solutions/website-design-system)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -825,6 +834,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Native web components plus React and Angular component libraries |
 | 508 Compliant | 🟢 | Accessible, brand-compliant components and templates |
 | Storybook / Figma | 🟡 | Component documentation, examples and design tokens at design.alberta.ca |
+
+### [Australia - Victoria](https://www.vic.gov.au/ripple-design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/dpc-sdp/ripple-framework) | Ripple 2.0 - Active development (Apache 2.0) | Ripple Design System - digital design system of the Victorian Government, created 2018 for vic.gov.au and used on 50+ Victorian Government websites on the Single Digital Presence (SDP) platform. Maintained by the SDP team, Department of Government Services |
+| Underpinning Technology | Nuxt / Vue.js | Frontend framework for the SDP platform; meets Brand Victoria guidelines |
+| Web Components | 🟢 | Component library built with Nuxt and Vue.js |
+| 508 Compliant | 🟢 | Built to high standards for accessibility, SEO, security and performance |
+| Storybook / Figma | 🟢 | Design system documentation at ripple.sdp.vic.gov.au |
 
 ### [Brazil - Mato Grosso do Sul](https://www.designsystem.ms.gov.br/)
 | **Feature** | **Status** | **Other Info** |
