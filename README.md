@@ -9,33 +9,35 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Argentina](#argentina) | [Australia - New South Wales](#australia---new-south-wales) | [Alberta, Canada](#alberta-canada-pdf) |
 | [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [Córdoba, Argentina](#córdoba-argentina) |
 | [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Bristol City Council](#bristol-city-council) |
-| [Austria](#austria) | [Canada - British Columbia](#canada---british-columbia) | [United Kingdom - Hackney](#hackney) |
-| [Bahrain](#bahrain) | [Canada - Ontario](#canada---ontario) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
-| [Bangladesh](#bangladesh) | [Canada - Québec](#canada---québec) | [United States - Austin, Texas](#austin-texas) |
-| [Belgium/Flanders](#belgiumflanders) | [Canada - Yukon](#canada---yukon) | [United States - Bloomington, Indiana](#bloomington-indiana) |
-| [Botswana](#botswana) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Boston, Massachusetts](#boston-massachusetts) |
-| [Brazil](#brazil) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Canada](#canada) | [United States - California](#united-states---california) | [United States - Los Angeles, California](#los-angeles-california) |
-| [Chile](#chile) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Costa Rica](#costa-rica) | [United States - Connecticut](#united-states---connecticut) | [United States - San Francisco, California](#san-francisco-california) |
+| [Austria](#austria) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [United Kingdom - Hackney](#hackney) |
+| [Bahrain](#bahrain) | [Canada - British Columbia](#canada---british-columbia) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
+| [Bangladesh](#bangladesh) | [Canada - Ontario](#canada---ontario) | [United States - Austin, Texas](#austin-texas) |
+| [Belgium/Flanders](#belgiumflanders) | [Canada - Québec](#canada---québec) | [United States - Bloomington, Indiana](#bloomington-indiana) |
+| [Botswana](#botswana) | [Canada - Yukon](#canada---yukon) | [United States - Boston, Massachusetts](#boston-massachusetts) |
+| [Brazil](#brazil) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [Canada](#canada) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Los Angeles, California](#los-angeles-california) |
+| [Chile](#chile) | [United States - California](#united-states---california) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Colombia](#colombia) | [United States - Colorado](#united-states---colorado) | [United States - San Francisco, California](#san-francisco-california) |
+| [Costa Rica](#costa-rica) | [United States - Connecticut](#united-states---connecticut) |  |
 | [Czech Republic](#czech-republic) | [United States - Delaware](#united-states---delaware) |  |
 | [Denmark](#denmark) | [United States - Georgia](#united-states---georgia) |  |
-| [Estonia](#estonia) | [United States - Hawaii](#united-states---hawaii) |  |
-| [European Commission (ECL)](#european-commission-ecl) | [United States - Illinois](#united-states---illinois) |  |
-| [Finland](#finland) | [United States - Iowa](#united-states---iowa) |  |
-| [France](#france) | [United States - Kentucky](#united-states---kentucky) |  |
-| [Germany](#germany) | [United States - Louisiana](#united-states---louisiana) |  |
-| [Greece](#greece) | [United States - Maryland](#united-states---maryland) |  |
-| [Hong Kong](#hong-kong) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [Iceland](#iceland) | [United States - Michigan](#united-states---michigan) |  |
-| [India](#india) | [United States - Minnesota](#united-states---minnesota) |  |
-| [Indonesia](#indonesia) | [United States - Nebraska](#united-states---nebraska) |  |
-| [Ireland](#ireland-pdf) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Israel](#israel) | [United States - New York](#united-states---new-york) |  |
-| [Italy](#italy) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Japan](#japan) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Kenya](#kenya) | [United States - Vermont](#united-states---vermont) |  |
-| [Malaysia](#malaysia) | [United States - Virginia](#united-states---virginia) |  |
+| [Dominican Republic](#dominican-republic) | [United States - Hawaii](#united-states---hawaii) |  |
+| [Estonia](#estonia) | [United States - Illinois](#united-states---illinois) |  |
+| [European Commission (ECL)](#european-commission-ecl) | [United States - Iowa](#united-states---iowa) |  |
+| [Finland](#finland) | [United States - Kentucky](#united-states---kentucky) |  |
+| [France](#france) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Germany](#germany) | [United States - Maryland](#united-states---maryland) |  |
+| [Greece](#greece) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [Hong Kong](#hong-kong) | [United States - Michigan](#united-states---michigan) |  |
+| [Iceland](#iceland) | [United States - Minnesota](#united-states---minnesota) |  |
+| [India](#india) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Indonesia](#indonesia) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Ireland](#ireland-pdf) | [United States - New York](#united-states---new-york) |  |
+| [Israel](#israel) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Italy](#italy) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Japan](#japan) | [United States - Vermont](#united-states---vermont) |  |
+| [Kenya](#kenya) | [United States - Virginia](#united-states---virginia) |  |
+| [Malaysia](#malaysia) |  |  |
 | [Mexico](#mexico) |  |  |
 | [Mongolia](#mongolia) |  |  |
 | [Netherlands](#netherlands) |  |  |
@@ -156,7 +158,7 @@ Click on a table entry below to be taken to more information about it's Design S
 ### [Brazil](https://www.gov.br/ds/home)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| [Source Code](https://gitlab.com/govbr-ds) | Active development on GitLab - [GitHub mirror](https://github.com/serpro-brasil/GOVBR-DS) | Design System of the Federal Government (GOVBR-DS) with interface standards for designers and developers. Available as [@govbr-ds/core on NPM](https://www.npmjs.com/package/@govbr-ds/core) |
+| [Source Code](https://gitlab.com/govbr-ds) | Active development on GitLab - [GitHub mirror](https://github.com/serpro-brasil/GOVBR-DS) | Design System of the Federal Government (GOVBR-DS), part of the Padrão Digital de Governo (DS Gov **4.0**, released October 2024). Interface standards for designers and developers across federal, state and municipal spheres. Available as [@govbr-ds/core on NPM](https://www.npmjs.com/package/@govbr-ds/core) |
 | Underpinning Technology | Web Components | Compatible with main frontend frameworks, work on all web standards ensuring performance, quality, usability and accessibility |
 | Web Components | 🟢 | Full web components library available |
 | 508 Compliant | 🟢 | Ensures aspects of accessibility, all components tested for accessibility standards |
@@ -179,6 +181,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | UI Kit and Framework kit available |
 | 508 Compliant | 🟢 | [Accessibility measures (Medidas de Accesibilidad)](https://kitdigital.gob.cl/accesibilidad/) dedicated section. Focus on accessibility for all citizens including those with disabilities |
 | Storybook / Figma | 🔴 | Design and development tools documentation |
+
+### [Colombia](https://www.gov.co/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **GOV.CO - Portal Único del Estado + Kit UI 9.2** | GOV.CO is the single digital access point consolidating 8,000+ government pages and 74,000+ procedures. Managed by MinTIC / Agencia Nacional Digital. Public entities download Kit UI 9.2 (color palette, typography, buttons, icons, forms) and must integrate with the Portal Único following common technical and graphic parameters |
+| Underpinning Technology | Web-based / Kit UI | Common technical and graphic design parameters required for all public entities |
+| Web Components | 🟡 | Kit UI 9.2 with pre-designed buttons, icons, forms and other components for prototyping |
+| 508 Compliant | 🟢 | Resolución MinTIC 1519 de 2020 and NTC 5854 web accessibility directives (WCAG conformance levels A, AA, AAA) |
+| Storybook / Figma | 🔴 | Downloadable Kit UI; usability and accessibility implementation guides |
 
 ### [Costa Rica](https://www.micitt.go.cr/)
 | **Feature** | **Status** | **Other Info** |
@@ -206,6 +217,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Components available, source code availability unclear |
 | 508 Compliant | 🟢 | Emphasis on web accessibility across public sector |
 | Storybook / Figma | 🔴 | No usage of Storybook or Figma found |
+
+### [Dominican Republic](https://uxkit.digital.gob.do/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/ogticrd) | Active development | Sistema de Diseño Dominicano (SDD) - central design guide for the Dominican Government's digital interfaces. Hierarchical, reusable components for the UI/UX and development teams of government institutions. Maintained by OGTIC (Div. Arquitectura Digital Gubernamental) |
+| Underpinning Technology | React / CSS | `sdd-kit` React component library and `ssd-lib` CSS library |
+| Web Components | 🟢 | `sdd-kit` React components and `ssd-lib` CSS library available on GitHub |
+| 508 Compliant | 🟢 | Recognizable, easy-to-use, accessible components with guiding principles and coding standards |
+| Storybook / Figma | 🟡 | Documentation portal at uxkit.digital.gob.do with a full component catalog |
 
 ### [Estonia](https://brand.estonia.ee/)
 | **Feature** | **Status** | **Other Info** |
@@ -726,6 +746,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | 50+ components available |
 | 508 Compliant | 🟢 | Built to internationally recognised accessibility standards |
 | Storybook / Figma | 🔴 | Contact SA government for access details |
+
+### [Brazil - Mato Grosso do Sul](https://www.designsystem.ms.gov.br/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - DS MS | Design System of the Government of Mato Grosso do Sul (DS MS) - foundation for the State's digital transformation, unifying the appearance and functionality of digital public services. Aligned with the federal Padrão Digital de Governo |
+| Underpinning Technology | Web-based | Reusable components for consistent state digital services |
+| Web Components | 🟢 | Unified component library for state digital public services |
+| 508 Compliant | 🟢 | Simple, consistent and accessible experience for citizens |
+| Storybook / Figma | 🔴 | Documentation at designsystem.ms.gov.br |
 
 ### [Canada - British Columbia](https://www2.gov.bc.ca/gov/content/digital/design-system)
 | **Feature** | **Status** | **Other Info** |
