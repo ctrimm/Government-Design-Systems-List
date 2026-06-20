@@ -20,6 +20,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Czech Republic](#czech-republic) | [United States - California](#united-states---california) |  |
 | [Denmark](#denmark) | [United States - Colorado](#united-states---colorado) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
 | [Estonia](#estonia) | [United States - Connecticut](#united-states---connecticut) | [United States - San Francisco, California](#san-francisco-california) |
+| [European Commission (ECL)](#european-commission-ecl) |  |  |
 | [Finland](#finland) | [United States - Delaware](#united-states---delaware) |  |
 | [France](#france) | [United States - Georgia](#united-states---georgia) |  |
 | [Germany](#germany) | [United States - Hawaii](#united-states---hawaii) |  |
@@ -189,6 +190,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🔴 | No web components found |
 | 508 Compliant | 🔴 | No explicit mentions of accessibility |
 | Storybook / Figma | 🔴 | No usage of Storybook or Figma |
+
+### [European Commission (ECL)](https://ec.europa.eu/component-library/ec/getting-started/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/ec-europa/europa-component-library) | Active development | Europa Component Library (ECL) - official design system for the European Commission's digital presence. Provides standardized, reusable components for EU digital services and websites |
+| Underpinning Technology | React / Vanilla JS | Components available as npm packages for React and vanilla JS implementations. Design tokens and Twig templates also available |
+| Web Components | 🟢 | Full component library with React and vanilla JS implementations |
+| 508 Compliant | 🟢 | Meets EU Web Accessibility Directive (2016/2102) and WCAG 2.1 AA requirements across all components |
+| Storybook / Figma | 🟢 | Storybook available for component documentation and development. Figma design kits provided for designers |
 
 ### [Finland](https://vrk-kpa.github.io/suomifi-design-system/)
 | **Feature** | **Status** | **Other Info** |
