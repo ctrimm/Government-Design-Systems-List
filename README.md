@@ -76,7 +76,13 @@ Click on a table entry below to be taken to more information about it's Design S
 | [United Kingdom - Royal Navy](#united-kingdom---royal-navy) |  |  |
 | [United Kingdom - The National Archives](#united-kingdom---the-national-archives) |  |  |
 | [United States of America](#united-states-of-america) |  |  |
+| [United States - Centers for Medicare & Medicaid Services](#united-states---centers-for-medicare--medicaid-services) |  |  |
+| [United States - Consumer Financial Protection Bureau](#united-states---consumer-financial-protection-bureau) |  |  |
+| [United States - Department of Homeland Security](#united-states---department-of-homeland-security) |  |  |
+| [United States - Department of Veterans Affairs](#united-states---department-of-veterans-affairs) |  |  |
 | [United States - Indian Affairs](#united-states---indian-affairs) |  |  |
+| [United States - Internal Revenue Service](#united-states---internal-revenue-service) |  |  |
+| [United States - NASA](#united-states---nasa) |  |  |
 | [Uruguay](#uruguay) |  |  |
 | [Vietnam](#vietnam) |  |  |
 ---
@@ -726,6 +732,42 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Focus on unified, accessible, user-friendly design. Digital services provided on multiple access means including mobile devices. Specific compliance standards not publicly detailed |
 | Storybook / Figma | 🔴 | VGDS community resources at vgds.design and vgds.systems. Digital Government Architecture Framework 4.0 documentation |
 
+### [United States - Centers for Medicare & Medicaid Services](https://design.cms.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/CMSgov/design-system) | Active development | CMS Design System - open source design and front-end resources for Section 508 compliant, responsive, consistent websites. Extends USWDS with additional CSS and React components, utility classes and a grid framework. Powers HealthCare.gov and Medicare.gov (which has its own [mgov-design-system](https://github.com/CMSgov/mgov-design-system)). Available as `@cmsgov/design-system` on npm |
+| Underpinning Technology | USWDS-based (CSS + React) | Extends USWDS; React components, utility classes, grid framework |
+| Web Components | 🟢 | CSS and React component libraries |
+| 508 Compliant | 🟢 | Built for Section 508 compliance, responsive and accessible |
+| Storybook / Figma | 🟡 | Documentation at design.cms.gov; child systems for Medicare.gov and HealthCare.gov |
+
+### [United States - Consumer Financial Protection Bureau](https://cfpb.github.io/design-system/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/cfpb/design-system) | Active development | CFPB Design System - open source resource to help CFPB teams produce consistent, effective, accessible products for the American public. Modular HTML, CSS and JavaScript patterns; a React/Storybook implementation is also available (earlier `cfpb/design-manual` is deprecated) |
+| Underpinning Technology | HTML/CSS/JS | Modular patterns; React/Storybook implementation available |
+| Web Components | 🟢 | Modular HTML/CSS/JS patterns plus React components |
+| 508 Compliant | 🟢 | Accessibility a core goal for products serving the American public |
+| Storybook / Figma | 🟢 | React/Storybook implementation available |
+
+### [United States - Department of Homeland Security](https://www.dhs.gov/digital-experience/design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found (USWDS-based) | Active | DHS Design System - DHS.gov was one of the first cabinet-level agency sites to fully adopt USWDS and serves as the template for other DHS USWDS websites. Maintains a Digital Style Guide of USWDS components |
+| Underpinning Technology | USWDS-based | DHS USWDS theme accounts for USG and DHS requirements for public websites |
+| Web Components | 🟢 | USWDS components via the DHS Digital Style Guide |
+| 508 Compliant | 🟢 | Section 508 commitment; all DHS sites tested for accessibility before launch |
+| Storybook / Figma | 🔴 | Digital Style Guide and design system guidance at dhs.gov |
+
+### [United States - Department of Veterans Affairs](https://design.va.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/department-of-veterans-affairs/component-library) | Active development | VA Design System (VADS) - design guidelines and code for trustworthy, accessible, consistent digital services on VA.gov. `component-library` (web components + React bindings, published to npm) and [documentation repo](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) |
+| Underpinning Technology | Web Components + React | Web components with React bindings, usable with any technology stack |
+| Web Components | 🟢 | Web component library with React bindings, published to npm |
+| 508 Compliant | 🟢 | All components tested before admission; automated axe DevTools testing, keyboard and screen reader testing, zoom/reflow |
+| Storybook / Figma | 🟢 | Complete Figma library of core components plus community shared libraries |
+
 ### [United States - Indian Affairs](https://www.bia.gov/webstandards)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -734,6 +776,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | 40+ accessible, mobile-friendly USWDS components available. Consistent component library ensures usability across Indian Affairs digital services and tribal government resources |
 | 508 Compliant | 🟢 | **Section 508 compliance and accessibility built-in**. Indian Affairs strives to ensure people with disabilities have access to same services and content available to people without disabilities, including through information technology |
 | Storybook / Figma | 🔴 | Web standards documentation at bia.gov/webstandards. Design system guidance aligned with federal USWDS standards and tribal sovereignty principles |
+
+### [United States - Internal Revenue Service](https://github.com/irs-user-experience/irs-web-design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/irs-user-experience/irs-web-design-system) | Active development | IRS Web Design System - a library of USWDS-compliant web design components used to design IRS public-facing digital products |
+| Underpinning Technology | USWDS-based | USWDS-compliant components |
+| Web Components | 🟢 | USWDS-compliant component library |
+| 508 Compliant | 🟢 | USWDS accessibility foundation (Section 508) |
+| Storybook / Figma | 🔴 | Component library on GitHub |
+
+### [United States - NASA](https://nasa.github.io/nasawds-site/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nasa/nasawds-site) | Active - replaces deprecated `nasawds-old` | NASA Web Design System (NASAWDS) - design system for fast, accessible, mobile-friendly NASA websites backed by user research. Theme files apply NASA-specific changes to USWDS |
+| Underpinning Technology | USWDS-based | NASA theme on top of USWDS |
+| Web Components | 🟢 | UI components based on USWDS with NASA theming |
+| 508 Compliant | 🟢 | Section 508 compliant via the USWDS foundation |
+| Storybook / Figma | 🔴 | Documentation at nasa.github.io/nasawds-site |
 
 ---
 
