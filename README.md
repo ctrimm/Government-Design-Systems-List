@@ -6,16 +6,16 @@ Click on a table entry below to be taken to more information about it's Design S
 
 | Federal / Country | State / Regional | Local / Municipal |
 | ----------------- | ---------------- | ----------------- |
-| [Argentina](#argentina) | [Australia - New South Wales](#australia---new-south-wales) | [Alberta, Canada](#alberta-canada-pdf) |
-| [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [Córdoba, Argentina](#córdoba-argentina) |
-| [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Bristol City Council](#bristol-city-council) |
-| [Austria](#austria) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [United Kingdom - Hackney](#hackney) |
-| [Bahrain](#bahrain) | [Canada - Alberta](#canada---alberta) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
-| [Bangladesh](#bangladesh) | [Canada - British Columbia](#canada---british-columbia) | [United States - Austin, Texas](#austin-texas) |
-| [Belgium/Flanders](#belgiumflanders) | [Canada - Ontario](#canada---ontario) | [United States - Bloomington, Indiana](#bloomington-indiana) |
-| [Botswana](#botswana) | [Canada - Québec](#canada---québec) | [United States - Boston, Massachusetts](#boston-massachusetts) |
-| [Brazil](#brazil) | [Canada - Yukon](#canada---yukon) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Los Angeles, California](#los-angeles-california) |
+| [Argentina](#argentina) | [Australia - New South Wales](#australia---new-south-wales) | [Córdoba, Argentina](#córdoba-argentina) |
+| [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [United Kingdom - Bristol City Council](#bristol-city-council) |
+| [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Hackney](#hackney) |
+| [Austria](#austria) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
+| [Bahrain](#bahrain) | [Canada - Alberta](#canada---alberta) | [United States - Austin, Texas](#austin-texas) |
+| [Bangladesh](#bangladesh) | [Canada - British Columbia](#canada---british-columbia) | [United States - Bloomington, Indiana](#bloomington-indiana) |
+| [Belgium/Flanders](#belgiumflanders) | [Canada - Ontario](#canada---ontario) | [United States - Boston, Massachusetts](#boston-massachusetts) |
+| [Botswana](#botswana) | [Canada - Québec](#canada---québec) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [Brazil](#brazil) | [Canada - Yukon](#canada---yukon) | [United States - Los Angeles, California](#los-angeles-california) |
+| [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - New York City](#new-york-city) |
 | [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
 | [Colombia](#colombia) | [United States - California](#united-states---california) | [United States - San Francisco, California](#san-francisco-california) |
 | [Costa Rica](#costa-rica) | [United States - Colorado](#united-states---colorado) |  |
@@ -34,14 +34,14 @@ Click on a table entry below to be taken to more information about it's Design S
 | [India](#india) | [United States - Nebraska](#united-states---nebraska) |  |
 | [Indonesia](#indonesia) | [United States - New Jersey](#united-states---new-jersey) |  |
 | [Ireland](#ireland-pdf) | [United States - New York](#united-states---new-york) |  |
-| [Israel](#israel) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Italy](#italy) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Japan](#japan) | [United States - Vermont](#united-states---vermont) |  |
-| [Kenya](#kenya) | [United States - Virginia](#united-states---virginia) |  |
-| [Malaysia](#malaysia) |  |  |
-| [Mexico](#mexico) |  |  |
-| [Mongolia](#mongolia) |  |  |
-| [Netherlands](#netherlands) |  |  |
+| [Israel](#israel) | [United States - North Carolina](#united-states---north-carolina) |  |
+| [Italy](#italy) | [United States - Ohio](#united-states---ohio) |  |
+| [Japan](#japan) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Kenya](#kenya) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Malaysia](#malaysia) | [United States - Texas](#united-states---texas) |  |
+| [Mexico](#mexico) | [United States - Utah](#united-states---utah) |  |
+| [Mongolia](#mongolia) | [United States - Vermont](#united-states---vermont) |  |
+| [Netherlands](#netherlands) | [United States - Virginia](#united-states---virginia) |  |
 | [New Zealand](#new-zealand) |  |  |
 | [Nigeria](#nigeria) |  |  |
 | [Norway](#norway) |  |  |
@@ -760,7 +760,7 @@ Click on a table entry below to be taken to more information about it's Design S
 ### [Canada - Alberta](https://design.alberta.ca/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| [Source Code](https://github.com/GovAlta/ui-components) | Active development | Government of Alberta (GoA) Design System - shared components, examples, tokens and templates for building Government of Alberta services. Brings consistency across GoA websites and web applications |
+| [Source Code](https://github.com/GovAlta/ui-components) | Active development | Government of Alberta (GoA) Design System - shared components, examples, tokens and templates for building Government of Alberta services. Brings consistency across GoA websites and web applications. Legacy print branding: [Corporate Identity Manual (PDF)](https://corporateidentity.alberta.ca/downloads/Alberta_Corporate_Identity_Manual.pdf) |
 | Underpinning Technology | Web Components (multi-framework) | Native web components supporting React and Angular. Published to npm as `@abgov/web-components`, `@abgov/react-components`, and `@abgov/angular-components` |
 | Web Components | 🟢 | Native web components plus React and Angular component libraries |
 | 508 Compliant | 🟢 | Accessible, brand-compliant components and templates |
@@ -982,6 +982,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Every component tested to meet WCAG 2.2 standards |
 | Storybook / Figma | 🟢 | Figma libraries organized into Components and Assets. Design and code libraries synchronized for 1:1 parity between design elements and code components |
 
+### [United States - North Carolina](https://it.nc.gov/programs/digital-commons)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Digital Commons (since 2016) | NCDIT has developed and supported the Drupal-based Digital Commons platform in-house since 2016. Provides a consistent look and user experience across state agency, board and commission websites. Won a State Government Experience Award (2023) |
+| Underpinning Technology | Drupal CMS | Secure, accessible and mobile-friendly platform shared across NC state organizations |
+| Web Components | 🟢 | Standardized components and templates via the Digital Commons platform |
+| 508 Compliant | 🟢 | State of North Carolina Digital Accessibility and Usability Standard; accessible and mobile-friendly by default |
+| Storybook / Figma | 🔴 | Digital Commons documentation and State IT Standards at it.nc.gov |
+
+### [United States - Ohio](https://innovateohio.gov/platform/user-experience)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - InnovateOhio Platform (IOP) | The InnovateOhio Platform provides integrated, scalable capabilities so state agencies can be more customer-centric and data-driven. A user experience digital toolkit offers a universal framework for a seamless experience across Ohio agency websites |
+| Underpinning Technology | Ohio.gov style / Bootstrap 3.4.1 | UX digital toolkit based on the overarching Ohio.gov style and Bootstrap |
+| Web Components | 🟢 | Universal UX framework and components for Ohio agency websites |
+| 508 Compliant | 🟢 | Focus on consistent, accessible user experiences across Ohio agency sites |
+| Storybook / Figma | 🔴 | InnovateOhio Platform documentation |
+
 ### [United States - Pennsylvania](https://wcmauthorguide.pa.gov/en/keystone-design-system.html)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1008,6 +1026,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Optional components and utilities with accessibility guidance. Commonwealth Banner with color variants and code generation. Components include buttons, forms, navigation, layout elements |
 | 508 Compliant | 🟢 | Components built with accessibility standards. WEB-06 requires agencies follow VITA-designed principles and guidance. Focus on accessible and responsive design |
 | Storybook / Figma | 🟢 | Native Figma, Sketch, and Adobe XD design files available at developer.virginia.gov. Web Standards Quick Start Reference Guide available |
+
+### [United States - Texas](https://dir.texas.gov/news/dir-launches-texas-design-system-modernize-state-websites)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Texas Design System - Launched 2025** | Texas Department of Information Resources (DIR) launched the Texas Design System, a content library of website components to help state agencies build accessible, user-friendly, consistent websites. Mandated by House Bill 5195 (89R). Provides 37 ready-to-use components plus templates and implementation guidance |
+| Underpinning Technology | Web-based | Standardized templates, navigation menus, online forms, search, alerts, responsive layouts and service-focused content pages |
+| Web Components | 🟢 | 37 ready-to-use website components with standardized templates |
+| 508 Compliant | 🟢 | **Accessibility-first**, targets WCAG 2.2 AA. Components support screen readers and assistive technologies across desktop, tablet and mobile |
+| Storybook / Figma | 🔴 | Implementation guidance via Texas DIR |
+
+### [United States - Utah](https://designsystem.utah.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/utahdts/utah-design-system) | Active development | Utah Design System - reusable UI components, resources and guiding principles to craft consistent, accessible, secure and scalable experiences for State of Utah websites and applications. Maintained by the Utah Design System Team (UtahDTS) |
+| Underpinning Technology | React / CSS | CSS and code examples for components, patterns and templates; React developer assets |
+| Web Components | 🟢 | Reusable components, patterns and templates with React developer assets |
+| 508 Compliant | 🟢 | Strong accessibility commitment with components following WCAG guidance |
+| Storybook / Figma | 🟡 | Component library and developer/designer resources at designsystem.utah.gov |
 
 ### [United States - Vermont](https://cmo.vermont.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -1068,6 +1104,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | **WCAG 2.0 Level A & AA compliance required**. All City of Los Angeles websites required to follow WCAG 2.0 standards with no errors in either Level A or AA |
 | Storybook / Figma | 🔴 | Comprehensive style guide at styleguide.lacity.gov. Information Technology Agency provides documentation and best practices |
 
+#### [New York City](https://designsystem.nyc.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - NYC Digital Design System | Official design system of NYC government - a set of rules and reusable parts for public-facing digital experiences on city-owned domains (nyc.gov, cityofnewyork.us). Based on user needs and accessible by design. [ACCESS NYC](https://github.com/NYCOpportunity) is a related open-source pattern library |
+| Underpinning Technology | Web-based | Reusable components, patterns and brand guidance for NYC government digital products |
+| Web Components | 🟢 | Component library documented at designsystem.nyc.gov |
+| 508 Compliant | 🟢 | Every component tested to meet WCAG 2.2 Level AA and reviewed with the city's Digital Accessibility Coordinator |
+| Storybook / Figma | 🔴 | Documentation at designsystem.nyc.gov |
+
 #### [Philadelphia, Pennsylvania](https://standards.phila.gov/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1119,4 +1164,4 @@ Click on a table entry below to be taken to more information about it's Design S
 #### [Córdoba, Argentina](https://github.com/ModernizacionMuniCBA/guia-estilos-y-web)
 *Last updated in January 2018*
 
-#### [Alberta, Canada](https://corporateidentity.alberta.ca/downloads/Alberta_Corporate_Identity_Manual.pdf) [PDF]
+*Note: Alberta, Canada (Corporate Identity Manual) has moved to [Canada - Alberta](#canada---alberta) under State / Regional, which now documents the Government of Alberta Design System.*
