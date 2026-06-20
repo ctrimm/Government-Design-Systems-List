@@ -10,15 +10,16 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Australia](#australia) | [Australia - South Australia](#australia---south-australia) | [Córdoba, Argentina](#córdoba-argentina) |
 | [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Bristol City Council](#bristol-city-council) |
 | [Austria](#austria) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [United Kingdom - Hackney](#hackney) |
-| [Bahrain](#bahrain) | [Canada - British Columbia](#canada---british-columbia) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
-| [Bangladesh](#bangladesh) | [Canada - Ontario](#canada---ontario) | [United States - Austin, Texas](#austin-texas) |
-| [Belgium/Flanders](#belgiumflanders) | [Canada - Québec](#canada---québec) | [United States - Bloomington, Indiana](#bloomington-indiana) |
-| [Botswana](#botswana) | [Canada - Yukon](#canada---yukon) | [United States - Boston, Massachusetts](#boston-massachusetts) |
-| [Brazil](#brazil) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Canada](#canada) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Los Angeles, California](#los-angeles-california) |
-| [Chile](#chile) | [United States - California](#united-states---california) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Colombia](#colombia) | [United States - Colorado](#united-states---colorado) | [United States - San Francisco, California](#san-francisco-california) |
-| [Costa Rica](#costa-rica) | [United States - Connecticut](#united-states---connecticut) |  |
+| [Bahrain](#bahrain) | [Canada - Alberta](#canada---alberta) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
+| [Bangladesh](#bangladesh) | [Canada - British Columbia](#canada---british-columbia) | [United States - Austin, Texas](#austin-texas) |
+| [Belgium/Flanders](#belgiumflanders) | [Canada - Ontario](#canada---ontario) | [United States - Bloomington, Indiana](#bloomington-indiana) |
+| [Botswana](#botswana) | [Canada - Québec](#canada---québec) | [United States - Boston, Massachusetts](#boston-massachusetts) |
+| [Brazil](#brazil) | [Canada - Yukon](#canada---yukon) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [Canada](#canada) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Los Angeles, California](#los-angeles-california) |
+| [Chile](#chile) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Colombia](#colombia) | [United States - California](#united-states---california) | [United States - San Francisco, California](#san-francisco-california) |
+| [Costa Rica](#costa-rica) | [United States - Colorado](#united-states---colorado) |  |
+| [Cyprus](#cyprus) | [United States - Connecticut](#united-states---connecticut) |  |
 | [Czech Republic](#czech-republic) | [United States - Delaware](#united-states---delaware) |  |
 | [Denmark](#denmark) | [United States - Georgia](#united-states---georgia) |  |
 | [Dominican Republic](#dominican-republic) | [United States - Hawaii](#united-states---hawaii) |  |
@@ -199,6 +200,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | National design system recommended in CNTD but implementation status and component library availability not publicly documented |
 | 508 Compliant | 🟢 | CNTD emphasizes accessibility requirements for all public digital services. Commitment to inclusive design for all citizens including persons with disabilities |
 | Storybook / Figma | 🔴 | CNTD framework and digital transformation guidelines available. Technical implementation resources pending national design system development |
+
+### [Cyprus](https://gov-cy.github.io/govcy-design-system-docs/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/gov-cy/govcy-design-system) | v3.2.0 - Released April 17, 2025 | gov.cy Unified Design System (UDS) - universal assets, elements, components, patterns and code guidance for building gov.cy services and websites. Developed by the Digital Services Factory (DSF). Includes a [no-code prototype kit](https://github.com/gov-cy/govcy-frontend-prototype) |
+| Underpinning Technology | HTML/CSS/JS (Nunjucks/JSON, Eleventy) | `govcy-frontend-renderer` renders gov.cy elements; prototype kit built with Eleventy |
+| Web Components | 🟢 | Developer assets and component library with a no-code prototype kit |
+| 508 Compliant | 🟢 | Automated accessibility tests via pa11y in CI; `govcy-frontend-tester` npm package (Puppeteer) enforces DSF accessibility and design guidelines |
+| Storybook / Figma | 🟡 | Documentation site and no-code prototype kit |
 
 ### [Czech Republic](https://designsystem.gov.cz/)
 | **Feature** | **Status** | **Other Info** |
@@ -746,6 +756,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | 50+ components available |
 | 508 Compliant | 🟢 | Built to internationally recognised accessibility standards |
 | Storybook / Figma | 🔴 | Contact SA government for access details |
+
+### [Canada - Alberta](https://design.alberta.ca/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/GovAlta/ui-components) | Active development | Government of Alberta (GoA) Design System - shared components, examples, tokens and templates for building Government of Alberta services. Brings consistency across GoA websites and web applications |
+| Underpinning Technology | Web Components (multi-framework) | Native web components supporting React and Angular. Published to npm as `@abgov/web-components`, `@abgov/react-components`, and `@abgov/angular-components` |
+| Web Components | 🟢 | Native web components plus React and Angular component libraries |
+| 508 Compliant | 🟢 | Accessible, brand-compliant components and templates |
+| Storybook / Figma | 🟡 | Component documentation, examples and design tokens at design.alberta.ca |
 
 ### [Brazil - Mato Grosso do Sul](https://www.designsystem.ms.gov.br/)
 | **Feature** | **Status** | **Other Info** |
