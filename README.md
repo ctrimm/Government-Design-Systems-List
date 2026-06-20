@@ -29,13 +29,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Hong Kong](#hong-kong) | [United States - Massachusetts](#united-states---massachusetts) |  |
 | [Iceland](#iceland) | [United States - Michigan](#united-states---michigan) |  |
 | [India](#india) | [United States - Minnesota](#united-states---minnesota) |  |
-| [Ireland](#ireland-pdf) | [United States - Nebraska](#united-states---nebraska) |  |
-| [Israel](#israel) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Italy](#italy) | [United States - New York](#united-states---new-york) |  |
-| [Japan](#japan) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Kenya](#kenya) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Malaysia](#malaysia) | [United States - Vermont](#united-states---vermont) |  |
-| [Mexico](#mexico) | [United States - Virginia](#united-states---virginia) |  |
+| [Indonesia](#indonesia) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Ireland](#ireland-pdf) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Israel](#israel) | [United States - New York](#united-states---new-york) |  |
+| [Italy](#italy) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Japan](#japan) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Kenya](#kenya) | [United States - Vermont](#united-states---vermont) |  |
+| [Malaysia](#malaysia) | [United States - Virginia](#united-states---virginia) |  |
+| [Mexico](#mexico) |  |  |
+| [Mongolia](#mongolia) |  |  |
 | [Netherlands](#netherlands) |  |  |
 | [New Zealand](#new-zealand) |  |  |
 | [Nigeria](#nigeria) |  |  |
@@ -52,6 +54,8 @@ Click on a table entry below to be taken to more information about it's Design S
 | [South Korea](#south-korea) |  |  |
 | [Switzerland](#switzerland) |  |  |
 | [Taiwan](#taiwan) |  |  |
+| [Thailand](#thailand) |  |  |
+| [Tonga](#tonga) |  |  |
 | [Tunisia](#tunisia) |  |  |
 | [Ukraine](#ukraine) |  |  |
 | [United Arab Emirates](#united-arab-emirates) |  |  |
@@ -284,6 +288,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Compliance with international WCAG standards, focuses on core UX principles including typography, color theory, and layout design |
 | Storybook / Figma | 🟡 | Support team conducts regular awareness workshops, [UX4G Handbook](https://www.ux4g.gov.in/assets/img/pdf/UX4G-Handbook.pdf) available |
 
+### [Indonesia](https://www.indonesia.go.id/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code (Official) | **INA Digital (GovTech) - Launched May 27, 2024** | INA Digital launched at the SPBE Summit 2024, operated by PERURI as GovTech Indonesia. Integrates ~27,000 government applications into a single citizen-centric public services portal via APIs. An unofficial community design system, [garuda-ds](https://github.com/imsus/garuda-ds), also exists |
+| Underpinning Technology | API-integrated platform (SPBE) | Priority services (education, health, social assistance, digital payments, digital ID, driver's licenses) merged into one portal. Built by 400 local digital talents |
+| Web Components | 🟡 | National portal integration; official component library specifics not publicly documented |
+| 508 Compliant | 🟡 | Citizen-centric service design; specific accessibility standards not publicly detailed |
+| Storybook / Figma | 🔴 | SPBE framework documentation; unofficial garuda-ds community resource on GitHub |
+
 ### [Ireland](https://www.ops.gov.ie/app/uploads/2022/10/Design-iPrinciples-for-government-in-Ireland-web.pdf) [PDF]
 *Documentation Coming Soon*
 
@@ -340,6 +353,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Figma design system available, reusable tools and guides |
 | 508 Compliant | 🟡 | Digital service standard with governance framework for quality control |
 | Storybook / Figma | 🟢 | [Figma community resource](https://www.figma.com/community/file/1070417323010388812/gob-mx) - Sistema de diseño GOB.MX |
+
+### [Mongolia](https://e-mongolia.mn/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **E-Mongolia 5.0 - Launched September 2025** | E-Mongolia digital platform launched October 2020. As of 2025 offers 1,278 services from 86 government agencies, ~2 million users (~88% of adults). Accessed 7M+ times from outside the country. UN Joint Programme (DEMOSC) concluded June 2025 |
+| Underpinning Technology | Web & mobile platform | Secure login via digital signature or mobile banking, AI-powered form filling and service discovery, physical kiosks in rural areas |
+| Web Components | 🟡 | Unified citizen portal across agencies; component library not publicly documented |
+| 508 Compliant | 🟢 | E-Mongolia 3.0 (May 2023) increased accessibility for persons with disabilities. Open Government Partnership accessibility commitment. Standard MNS 6984:2022 |
+| Storybook / Figma | 🔴 | Platform documentation; digital service delivery standards |
 
 ### [Netherlands](https://nldesignsystem.nl/)
 | **Feature** | **Status** | **Other Info** |
@@ -484,6 +506,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Digital government services platform, component library availability unclear |
 | 508 Compliant | 🟡 | Focus on inclusive digital services, specific accessibility standards not publicly detailed |
 | Storybook / Figma | 🔴 | MODA digital government platform and PDIS design thinking resources |
+
+### [Thailand](https://standard.dga.or.th/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code (DGA-Thailand)](https://github.com/DGA-Thailand) | Active - Government Website Standard v3.0 (2023) | Digital Government Development Agency (DGA) develops standards, guidelines and criteria for digital government. Government Website Standard v3.0 and Government Mobile Application Standard v1.0 published |
+| Underpinning Technology | Web standards / guidelines | Standards portal at standard.dga.or.th; agencies apply standards alongside WCAG 2.1 |
+| Web Components | 🟡 | Website and mobile application standards; component specifics in Thai-language documentation |
+| 508 Compliant | 🟢 | Standards reference WCAG 2.1 for website accessibility improvements |
+| Storybook / Figma | 🔴 | Standards documentation at standard.dga.or.th; GitHub organization DGA-Thailand |
+
+### [Tonga](https://gov.to/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **TongaPass / e-Government Portal - Launched May 29, 2025** | Government of Tonga launched a new e-government portal, the TongaPass digital ID, and an API integration platform. Built on the Modular Open-Source Identity Platform (MOSIP). Part of the World Bank-supported Tonga Digital Government Support Project |
+| Underpinning Technology | MOSIP-based | Secure, interoperable digital identity enabling access to healthcare, social benefits, and e-governance applications |
+| Web Components | 🟡 | e-Government portal and API platform; component library not publicly documented |
+| 508 Compliant | 🟡 | Human-centred design emphasis; specific accessibility standards not publicly detailed |
+| Storybook / Figma | 🔴 | Digital public infrastructure documentation |
 
 ### [Tunisia](https://www.tunisie.gov.tn/)
 | **Feature** | **Status** | **Other Info** |
