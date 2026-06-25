@@ -570,7 +570,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Emphasis on citizen-centric services and user experience. Specific WCAG compliance standards not publicly detailed |
 | Storybook / Figma | 🔴 | E-Houwiya digital identity platform and national digital transformation roadmap |
 
-### [Ukraine](https://diia.fedoriv.com/)
+### [Ukraine](https://opensource.diia.gov.ua/en.html)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
 | [Source Code](https://github.com/diia-open-source) | Active - Open Source | Diia - app with access to citizen's digital documents and government services. [Official open source site](https://opensource.diia.gov.ua/en.html). iOS, Android, and Backend repos available. Design by Fedoriv received RedDot international award |
@@ -645,7 +645,7 @@ Click on a table entry below to be taken to more information about it's Design S
 ### [United Kingdom - Ministry of Defence](https://design-system.service.mod.gov.uk/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| [Source Code](https://github.com/defencedigital/mod-uk-design-system) | Active development | MOD.UK Design System - guidance and tools for building high-quality services within the UK Ministry of Defence that meet the Defence Digital service standards. Open source |
+| [Source Code](https://github.com/defencedigital/moduk-frontend) | Active development | MOD.UK Design System - guidance and tools for building high-quality services within the UK Ministry of Defence that meet the Defence Digital service standards. Open source |
 | Underpinning Technology | React / Web Components | Open source, built to Defence Digital service standards |
 | Web Components | 🟢 | Component library available on GitHub |
 | 508 Compliant | 🟢 | Built to meet accessibility service standards |
@@ -789,11 +789,11 @@ Click on a table entry below to be taken to more information about it's Design S
 ### [United States - NASA](https://nasa.github.io/nasawds-site/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| [Source Code](https://github.com/nasa/nasawds-site) | Active - replaces deprecated `nasawds-old` | NASA Web Design System (NASAWDS) - design system for fast, accessible, mobile-friendly NASA websites backed by user research. Theme files apply NASA-specific changes to USWDS |
+| [Source Code](https://github.com/bruffridge/nasawds) | v4.0.70 - Active community-maintained development (June 2025) | NASA Web Design System (NASAWDS) - design system for fast, accessible, mobile-friendly NASA websites. Applies NASA theming (colors, typography, meatball favicon) on top of USWDS. Automated GitHub Actions workflow updates to latest USWDS every 15 days. Note: the original `nasa/nasawds-site` docs repo was archived Feb 2020; active development continues at `bruffridge/nasawds` |
 | Underpinning Technology | USWDS-based | NASA theme on top of USWDS |
 | Web Components | 🟢 | UI components based on USWDS with NASA theming |
 | 508 Compliant | 🟢 | Section 508 compliant via the USWDS foundation |
-| Storybook / Figma | 🔴 | Documentation at nasa.github.io/nasawds-site |
+| Storybook / Figma | 🔴 | Documentation at nasa.github.io/nasawds-site (legacy docs site, still accessible) |
 
 ---
 
@@ -806,7 +806,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | Underpinning Technology | HTML/CSS/React | Available via npm Package Manager or JSDelivr CDN. UI kits in Figma, HTML, and React |
 | Web Components | 🟢 | Reusable design, HTML and CSS UI components |
 | 508 Compliant | 🟢 | Consistent, user-focused customer experiences with accessibility built-in |
-| Storybook / Figma | 🟢 | [Figma UI kits](https://www.figma.com/community/file/1326994583954765832) available, documented components |
+| Storybook / Figma | 🟢 | [Figma UI kits](https://designsystem.nsw.gov.au/docs/content/design/figma-ui-kit.html) available via NSW Design System documentation, documented components |
 
 ### [Australia - Queensland](https://www.designsystem.qld.gov.au/)
 | **Feature** | **Status** | **Other Info** |
@@ -1015,7 +1015,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Accessibility built into component library. DoIT 2025 IT Master Plan (FY 2026-2028) reshapes how state builds, manages and delivers technology services. Focus on cohesive, secure, accessible online interactions |
 | Storybook / Figma | 🔴 | Maryland Digital Playbook documentation. Department of Information Technology oversees system development |
 
-### [United States - Massachusetts](http://mayflower.digital.mass.gov/core)
+### [United States - Massachusetts](https://mayflower.digital.mass.gov/core)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
 | [Source Code](https://github.com/massgov/mayflower) | v12.6.0 - Released June 29, 2023 | Mayflower is the enterprise design system for the state government of Massachusetts. |
