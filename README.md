@@ -712,7 +712,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | Underpinning Technology | HTML/CSS/JavaScript | Design components including colors, buttons, forms, tables, grid, typography, navigation tested in live services |
 | Web Components | 🟡 | [USWDS Elements](https://github.com/uswds/uswds-elements) - Web Component-based version available |
 | 508 Compliant | 🟢 | Meets WCAG 2.0 AA and Section 508 standards. Tries to meet WCAG 2.1 requirements. Accessibility issues prioritized. One of five core design principles is "Embrace accessibility" |
-| Storybook / Figma | 🔴 | Comprehensive documentation at designsystem.digital.gov |
+| Storybook / Figma | 🟢 | [USWDS Storybook](https://federalist-3b6ba08e-0df4-44c9-ac73-6fc193b0e19c.sites.pages.cloud.gov/preview/uswds/uswds/develop/) (develop preview) available; comprehensive documentation at designsystem.digital.gov |
 
 ### [Uruguay](https://www.gub.uy/uruguay-digital/en)
 | **Feature** | **Status** | **Other Info** |
@@ -952,14 +952,14 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | **WCAG 2.1 Level AA standards required**. Universal Website Accessibility Policy enforces Level AA compliance as primary guideline for all state websites |
 | Storybook / Figma | 🔴 | IT Strategic Plan 2025 for digital government services. Design system guidelines for headings, lists, and consistent structure |
 
-### [United States - Delaware](https://gic.delaware.gov/)
+### [United States - Delaware](https://lighthouse.delaware.gov/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| No Public Source Code Found | **Lighthouse Design System - Launched January 2025** | Lighthouse is Delaware's state government website design system offering accessibility compliance, research-driven UI improvements, and easier editing process for state agency WordPress websites. Government Information Center (GIC) creates websites and digital branding assets specifically tailored for State of Delaware entities |
-| Underpinning Technology | WordPress-based | New branding debuted with first Lighthouse website January 2025. As agencies adopt Lighthouse for websites, they acquire new standardized branding. GIC delivers clear, accessible solutions making online services easy and seamless for First State citizens |
-| Web Components | 🟢 | Lighthouse design system provides standardized components for WordPress. Go DE platform features 100+ digital services with integrated payment processing (Pay with Go DE) and resident portal secured by myDelaware identity system |
-| 508 Compliant | 🟢 | Accessibility compliance built into Lighthouse design system. State aims to make 80% of government services available online with all websites inclusive and accessible. GEAR report 2025 outlines scaling digital government services |
-| Storybook / Figma | 🔴 | GIC provides comprehensive website and digital branding services. Go DE portal preparing to deploy chatbots and AI tools, with digital signature workflows and document upload capabilities |
+| Source Code Freely Available (via [Storybook](https://lighthouse.delaware.gov/)) | **Lighthouse Design System - Launched January 2025** | Lighthouse is Delaware's state government website design system - a collection of reusable, accessibility-tested web components and templates (accordions, buttons, lists, form inputs, curated color palettes) with research-driven design and content guidance. Source code is freely available for anyone to use. Maintained by the Government Information Center (GIC) |
+| Underpinning Technology | WordPress + HTML/CSS/JS | Integrates within WordPress and supports third-party implementations through available code files and documentation. New standardized branding debuted with the first Lighthouse website in January 2025 |
+| Web Components | 🟢 | Reusable, accessibility-tested components and templates for consistent layouts across platforms. Go DE platform features 100+ digital services with integrated payment processing (Pay with Go DE) and resident portal secured by myDelaware identity system |
+| 508 Compliant | 🟢 | All Lighthouse elements and components meet or exceed WCAG 2.1 AA. Color palettes selected to avoid contrast and other visual accessibility issues |
+| Storybook / Figma | 🟢 | Full Lighthouse documentation available on the [Storybook page](https://lighthouse.delaware.gov/), with HTML shared through Storybook |
 
 ### [United States - Georgia](https://dhs.georgia.gov/organization/about-gta/orchard)
 | **Feature** | **Status** | **Other Info** |
