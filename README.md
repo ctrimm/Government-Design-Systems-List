@@ -1051,14 +1051,14 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | **WCAG 2.1 Level AA required**. Minnesota State Digital Accessibility Standard effective July 1, 2024. Federal ADA Title II requirements: entities 50,000+ comply by April 26, 2026; under 50,000 by April 26, 2027 |
 | Storybook / Figma | 🔴 | MnDOT design system documentation. Minnesota IT Services (MNIT) manages accessibility standards and policies |
 
-### [United States - New Jersey](https://innovation.nj.gov/app/njwds/)
+### [United States - New Jersey](https://grove.nj.gov)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| [Source Code](https://github.com/newjersey/njwds) | v1.0.0 - Active development | NJ Web Design System (NJWDS) - extension of U.S. Web Design System with specific theme and components for State of New Jersey digital properties and services. Goal to produce standardized, recognizable web presence throughout Executive Branch complying with 21st Century Integrated Digital Experience Act |
-| Underpinning Technology | USWDS-based | Based on federal U.S. Web Design System. Modernization follows Office of Information Technology (OIT) Web Presence and Web Content Guidelines. Creates uniform presence so agencies present consistent visual identity for NJ residents |
-| Web Components | 🟢 | Extension of USWDS components with New Jersey-specific theme. Available on GitHub with documentation at innovation.nj.gov |
-| 508 Compliant | 🟢 | Built on USWDS accessibility foundation. Compliance with federal 21st Century IDEA requirements. Office of Innovation leads digital services design and development |
-| Storybook / Figma | 🔴 | Documentation available at NJWDS components detail page. Director of Communications and Digital Services sets standards for state web presence |
+| [Source Code](https://github.com/newjersey/njwds) | Active development | Grove (New Jersey Design System) - extension of the U.S. Web Design System with a New Jersey-specific theme and components for State of New Jersey digital properties and services. Documentation at [grove.nj.gov](https://grove.nj.gov). Goal to produce a standardized, recognizable web presence throughout the Executive Branch complying with the 21st Century Integrated Digital Experience Act |
+| Underpinning Technology | USWDS-based | Based on the federal U.S. Web Design System. Maintained by the NJ Office of Innovation. Creates a uniform presence so agencies present a consistent visual identity for NJ residents |
+| Web Components | 🟢 | Extension of USWDS components with a New Jersey-specific theme. Available on GitHub with documentation at grove.nj.gov |
+| 508 Compliant | 🟢 | Built on the USWDS accessibility foundation. Compliance with federal 21st Century IDEA requirements. Office of Innovation leads digital services design and development |
+| Storybook / Figma | 🟢 | [Storybook](https://storybook.grove.nj.gov) available; [Figma community file](https://www.figma.com/community/file/1409316805539440855/nj-web-design-system) published |
 
 ### [United States - Nebraska](https://www.nebraska.gov/)
 | **Feature** | **Status** | **Other Info** |
