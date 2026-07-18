@@ -943,14 +943,14 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Accessibility first - includes inclusive design, plain language, responsiveness, and functional accessibility. Data and people's real needs drive design |
 | Storybook / Figma | 🔴 | Digital guidelines documentation, emphasis on simple and clear design |
 
-### [United States - Connecticut](https://portal.ct.gov/)
+### [United States - Connecticut](https://portal.ct.gov/sitecore-center?language=en_US)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| No Public Source Code Found | Active - CT.gov Design System | CT.gov branding and design system carefully designed to be flexible and supportive of broad range of uses and applications. State earned 'A-' rating in 2024 Digital State Survey, placing Connecticut among top performing digital states |
-| Underpinning Technology | Web-based | Template & Component Library provides building blocks for State of Connecticut websites. DoIT delivers common components and design elements. Three site templates fully responsive with security and accessibility compliance built-in |
-| Web Components | 🟢 | Common components and design elements available. Standard page layout and navigation throughout websites. Component library for consistent structure |
-| 508 Compliant | 🟢 | **WCAG 2.1 Level AA standards required**. Universal Website Accessibility Policy enforces Level AA compliance as primary guideline for all state websites |
-| Storybook / Figma | 🔴 | IT Strategic Plan 2025 for digital government services. Design system guidelines for headings, lists, and consistent structure |
+| No Public Source Code Found (Sitecore CMS) | Active - CT.gov Design System | The [CT.gov Digital Training Center](https://portal.ct.gov/sitecore-center) is the resource for the official CT.gov design system & standards, content standards, accessibility standards, and training. Branding and design system carefully designed to be flexible and supportive of a broad number of uses while remaining true to the spirit of the state. State earned an 'A-' in the 2024 Digital State Survey |
+| Underpinning Technology | Sitecore CMS | Enterprise content management system (Sitecore). [Components](https://portal.ct.gov/sitecore-center/components) are custom-built building blocks (Story, List, Multistep, Tile, Image, Video, Header, Link List) with code snippets; ready-to-use [page templates](https://portal.ct.gov/sitecore-center/templates) built for efficiency by cloning and populating with content |
+| Web Components | 🟢 | Component library tested for ease-of-use and accessibility, working across desktop, tablet, and mobile. [Vendor development resources](https://portal.ct.gov/sitecore-center/vendors) available |
+| 508 Compliant | 🟢 | **WCAG 2.1 Level AA standards required**. Universal Website Accessibility Policy enforces Level AA compliance as primary guideline for all state websites. Dedicated [accessibility standards](https://portal.ct.gov/sitecore-center) in the Digital Training Center |
+| Storybook / Figma | 🔴 | Sitecore component gallery and templates in the Digital Training Center; no Storybook or Figma library published |
 
 ### [United States - Delaware](https://lighthouse.delaware.gov/)
 | **Feature** | **Status** | **Other Info** |
