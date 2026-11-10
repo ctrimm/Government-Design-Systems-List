@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Browse the Atlas site first
+    url: https://ctrimm.github.io/Government-Design-Systems-List/
+    about: Search the live atlas to check whether the system is already listed before suggesting it.
