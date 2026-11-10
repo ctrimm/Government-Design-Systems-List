@@ -83,6 +83,14 @@
   .standfirst{
     margin:0;max-width:56ch;color:var(--ink-soft);font-size:14.5px;
   }
+  .cta-row{margin:16px 0 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+  .cta{
+    display:inline-block;background:var(--accent);color:#fff;text-decoration:none;
+    font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;
+    padding:11px 18px;border:1px solid var(--accent);
+  }
+  .cta:hover{background:var(--accent-deep);border-color:var(--accent-deep)}
+  .cta-note{color:var(--ink-soft);font-size:12.5px}
   .stats{
     display:flex;flex-wrap:wrap;border:1px solid var(--line);background:var(--card);
   }
@@ -328,6 +336,10 @@
     <p class="standfirst">Every national, regional and municipal design system we could verify &mdash;
       its source code, its technology, its accessibility standing &mdash; charted on one map.
       Click a country to read its entry in the gazetteer.</p>
+    <p class="cta-row">
+      <a class="cta" href="https://github.com/ctrimm/Government-Design-Systems-List/issues/new?template=add-design-system.yml" target="_blank" rel="noopener">Add a design system</a>
+      <span class="cta-note">Know one we&rsquo;re missing? Suggest it &mdash; two minutes, straight into the list&rsquo;s inbox.</span>
+    </p>
   </div>
   <div class="stats" id="stats" aria-label="Headline statistics">
     <div class="stat"><b id="statTotal">&ndash;</b><span>Systems catalogued</span></div>
@@ -394,7 +406,8 @@
     its source code, its technology, its accessibility standing &mdash; charted on one map and
     listed in one gazetteer. The atlas is maintained as the
     <a href="https://github.com/ctrimm/Government-Design-Systems-List" target="_blank" rel="noopener">Government Design Systems List</a>
-    on GitHub; corrections and additions are welcome there.</p>
+    on GitHub; corrections and additions are welcome there &mdash; or
+    <a href="https://github.com/ctrimm/Government-Design-Systems-List/issues/new?template=add-design-system.yml" target="_blank" rel="noopener">suggest a design system</a> directly.</p>
   <div class="foot-line">
     <span>Data generated from the list&rsquo;s README &middot; Natural Earth map data &middot; No tracking</span>
     <span class="dot-key" aria-label="Marker key">
@@ -807,6 +820,13 @@
       b.type = "button"; b.className = "clear-btn"; b.textContent = "Clear filters";
       b.addEventListener("click", resetFilters);
       d.appendChild(p); d.appendChild(b);
+      var s = document.createElement("p");
+      var a = document.createElement("a");
+      a.href = "https://github.com/ctrimm/Government-Design-Systems-List/issues/new?template=add-design-system.yml";
+      a.target = "_blank"; a.rel = "noopener";
+      a.textContent = "Know this system? Suggest it as a new entry";
+      s.appendChild(a);
+      d.appendChild(s);
       resultsEl.appendChild(d);
       return;
     }

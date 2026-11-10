@@ -1,0 +1,98 @@
+name: Add a design system
+description: Suggest a government design system that is missing from the list (and the Atlas site).
+title: "Add: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an addition. The list only includes **official government design systems** — a live documentation site, component library, or published guidelines from a government body. Before you submit:
+
+        - Search the [Atlas site](https://ctrimm.github.io/Government-Design-Systems-List/) or the README to check it is not already listed.
+        - The link must be an official source: a government domain, an official GitHub organisation, or an official Figma community file. Vendor portfolios and brand-only logos don't qualify.
+  - type: input
+    id: system_name
+    attributes:
+      label: System name
+      description: As it should appear in the list, e.g. "Spain - Aragón (DESY)" or "United States - Census Bureau".
+      placeholder: "Country / Region - System name"
+    validations:
+      required: true
+  - type: input
+    id: ds_url
+    attributes:
+      label: Official design system URL
+      description: The documentation site, Storybook, or guidelines document.
+      placeholder: "https://design.example.gov/"
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      description: Which tier of government runs it?
+      options:
+        - Federal / Country
+        - State / Regional
+        - Local / Municipal
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source code URL
+      description: Public repository, if any. Leave blank if there is none.
+      placeholder: "https://github.com/example/design-system"
+    validations:
+      required: false
+  - type: input
+    id: technology
+    attributes:
+      label: Underpinning technology
+      description: What is it built with, or published as? Leave blank if unknown.
+      placeholder: "React, USWDS, Web Components (Lit), guidelines PDF…"
+    validations:
+      required: false
+  - type: dropdown
+    id: web_components
+    attributes:
+      label: Component library
+      description: How much of a component library exists?
+      options:
+        - Full component library (published code)
+        - Partial — documented patterns or templates, no full library
+        - None — guidelines only
+        - Not sure
+    validations:
+      required: false
+  - type: textarea
+    id: accessibility
+    attributes:
+      label: Accessibility claim
+      description: Any WCAG / Section 508 (or local equivalent) claim the system itself makes, and where it says it. Quote it if you can; leave blank if it makes none.
+      placeholder: "\"Meets WCAG 2.1 AA\" — stated on its About page"
+    validations:
+      required: false
+  - type: input
+    id: tooling
+    attributes:
+      label: Storybook / Figma
+      description: Link to a public Storybook or Figma library, if one exists.
+      placeholder: "https://…"
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How did you verify this is official?
+      description: The strongest signal you found — e.g. linked from the agency's main website, published under the government's GitHub organisation, announced in an official press release.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked the list (Atlas site or README) — this system is not already in it.
+          required: true
+        - label: The URL above is an official government source, not a vendor or fan page.
+          required: true
