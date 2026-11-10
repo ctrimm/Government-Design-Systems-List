@@ -6,60 +6,74 @@ Click on a table entry below to be taken to more information about it's Design S
 
 | Federal / Country | State / Regional | Local / Municipal |
 | ----------------- | ---------------- | ----------------- |
-| [Argentina](#argentina) | [Australia - New South Wales](#australia---new-south-wales) | [Córdoba, Argentina](#córdoba-argentina) |
-| [Australia](#australia) | [Australia - Queensland](#australia---queensland) | [United Kingdom - Bristol City Council](#bristol-city-council) |
-| [Australia - CivicTheme](#australia---civictheme) | [Australia - South Australia](#australia---south-australia) | [United Kingdom - Camden](#camden) |
-| [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Australia - Victoria](#australia---victoria) | [United Kingdom - Croydon](#croydon) |
-| [Australia - Department of Health](#australia---department-of-health) | [Belgium/Flanders](#belgiumflanders) | [United Kingdom - Hackney](#hackney) |
-| [Austria](#austria) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [United Kingdom - Redbridge](#redbridge) |
-| [Bahrain](#bahrain) | [Canada - Alberta](#canada---alberta) | [United Kingdom - Southwark](#southwark) |
-| [Bangladesh](#bangladesh) | [Canada - British Columbia](#canada---british-columbia) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
-| [Belgium/Flanders](#belgiumflanders) | [Canada - New Brunswick](#canada---new-brunswick) | [United States - Austin, Texas](#austin-texas) |
-| [Botswana](#botswana) | [Canada - Nova Scotia](#canada---nova-scotia) | [United States - Bloomington, Indiana](#bloomington-indiana) |
-| [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [United States - Boston, Massachusetts](#boston-massachusetts) |
-| [Canada](#canada) | [Canada - Québec](#canada---québec) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Canada - Service Canada](#canada---service-canada) | [Canada - Yukon](#canada---yukon) | [United States - El Paso, Texas](#el-paso-texas) |
-| [Chile](#chile) | [Germany - KERN](#germany---kern) | [United States - Hennepin County, Minnesota](#hennepin-county-minnesota) |
-| [Colombia](#colombia) | [Spain - Aragón](#spain---aragón) | [United States - Los Angeles, California](#los-angeles-california) |
-| [Costa Rica](#costa-rica) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - New York City](#new-york-city) |
-| [Cyprus](#cyprus) | [United Kingdom - Northern Ireland](#united-kingdom---northern-ireland) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Czech Republic](#czech-republic) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Portland, Oregon](#portland-oregon) |
-| [Denmark](#denmark) | [United Kingdom - Wales](#united-kingdom---wales) | [United States - San Francisco, California](#san-francisco-california) |
-| [Dominican Republic](#dominican-republic) | [United States - California](#united-states---california) | [United States - St. Louis, Missouri](#st-louis-missouri) |
-| [Estonia](#estonia) | [United States - Colorado](#united-states---colorado) |  |
-| [Estonia - TEDI](#estonia---tedi) | [United States - Connecticut](#united-states---connecticut) |  |
-| [European Commission (ECL)](#european-commission-ecl) | [United States - Delaware](#united-states---delaware) |  |
-| [Finland](#finland) | [United States - Georgia](#united-states---georgia) |  |
-| [France](#france) | [United States - Hawaii](#united-states---hawaii) |  |
-| [Germany](#germany) | [United States - Illinois](#united-states---illinois) |  |
-| [Greece](#greece) | [United States - Iowa](#united-states---iowa) |  |
-| [Hong Kong](#hong-kong) | [United States - Kentucky](#united-states---kentucky) |  |
-| [Iceland](#iceland) | [United States - Louisiana](#united-states---louisiana) |  |
-| [India](#india) | [United States - Maryland](#united-states---maryland) |  |
-| [Indonesia](#indonesia) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [Ireland](#ireland) | [United States - Michigan](#united-states---michigan) |  |
-| [Israel](#israel) | [United States - Minnesota](#united-states---minnesota) |  |
-| [Italy](#italy) | [United States - Nebraska](#united-states---nebraska) |  |
-| [Japan](#japan) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Kenya](#kenya) | [United States - New York](#united-states---new-york) |  |
-| [Malaysia](#malaysia) | [United States - North Carolina](#united-states---north-carolina) |  |
-| [Mexico](#mexico) | [United States - Ohio](#united-states---ohio) |  |
-| [Moldova](#moldova) | [United States - Oklahoma](#united-states---oklahoma) |  |
-| [Mongolia](#mongolia) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Netherlands](#netherlands) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [New Zealand](#new-zealand) | [United States - Texas](#united-states---texas) |  |
-| [Nigeria](#nigeria) | [United States - Utah](#united-states---utah) |  |
-| [Norway](#norway) | [United States - Vermont](#united-states---vermont) |  |
-| [Norway - NAV](#norway---nav) | [United States - Virginia](#united-states---virginia) |  |
-| [Pakistan - Digital Design Nizam](#pakistan---digital-design-nizam) |  |  |
-| [Peru](#peru) |  |  |
-| [Philippines](#philippines) |  |  |
-| [Poland](#poland) |  |  |
-| [Portugal](#portugal) |  |  |
+| [Argentina](#argentina) | [Australia - Australian Capital Territory](#australia---australian-capital-territory) | [Amsterdam, Netherlands](#amsterdam-netherlands) |
+| [Armenia](#armenia) | [Australia - New South Wales](#australia---new-south-wales) | [Buenos Aires, Argentina](#buenos-aires-argentina) |
+| [Australia](#australia) | [Australia - Queensland](#australia---queensland) | [Córdoba, Argentina](#córdoba-argentina) |
+| [Australia - CivicTheme](#australia---civictheme) | [Australia - South Australia](#australia---south-australia) | [Helsingborg, Sweden](#helsingborg-sweden) |
+| [Australia - Department of Agriculture](#australia---department-of-agriculture) | [Australia - Victoria](#australia---victoria) | [Helsinki, Finland](#helsinki-finland) |
+| [Australia - Department of Health](#australia---department-of-health) | [Belgium/Flanders](#belgiumflanders) | [Mexico City, Mexico](#mexico-city-mexico) |
+| [Austria](#austria) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [Oslo, Norway](#oslo-norway) |
+| [Bahrain](#bahrain) | [Canada - Alberta](#canada---alberta) | [Rotterdam, Netherlands](#rotterdam-netherlands) |
+| [Bangladesh](#bangladesh) | [Canada - British Columbia](#canada---british-columbia) | [The Hague, Netherlands](#the-hague-netherlands) |
+| [Belgium/Flanders](#belgiumflanders) | [Canada - New Brunswick](#canada---new-brunswick) | [Tilburg, Netherlands](#tilburg-netherlands) |
+| [Botswana](#botswana) | [Canada - Nova Scotia](#canada---nova-scotia) | [Utrecht, Netherlands](#utrecht-netherlands) |
+| [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [Winnipeg, Canada](#winnipeg-canada) |
+| [Canada](#canada) | [Canada - Québec](#canada---québec) | [United Kingdom - Bristol City Council](#bristol-city-council) |
+| [Canada - Service Canada](#canada---service-canada) | [Canada - Yukon](#canada---yukon) | [United Kingdom - Camden](#camden) |
+| [Chile](#chile) | [Germany - Baden-Württemberg](#germany---baden-württemberg) | [United Kingdom - Croydon](#croydon) |
+| [Colombia](#colombia) | [Germany - Berlin](#germany---berlin) | [United Kingdom - Hackney](#hackney) |
+| [Costa Rica](#costa-rica) | [Germany - KERN](#germany---kern) | [United Kingdom - Redbridge](#redbridge) |
+| [Cyprus](#cyprus) | [Germany - Brandenburg](#germany---brandenburg) | [United Kingdom - Southwark](#southwark) |
+| [Czech Republic](#czech-republic) | [Germany - Saxony](#germany---saxony) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
+| [Denmark](#denmark) | [Switzerland - Basel-Stadt](#switzerland---basel-stadt) | [United States - Austin, Texas](#austin-texas) |
+| [Dominican Republic](#dominican-republic) | [Japan - Tokyo](#japan---tokyo) | [United States - Baltimore, Maryland](#baltimore-maryland) |
+| [Estonia](#estonia) | [Spain - Andalucía](#spain---andalucía) | [United States - Bloomington, Indiana](#bloomington-indiana) |
+| [Estonia - TEDI](#estonia---tedi) | [Spain - Aragón](#spain---aragón) | [United States - Boston, Massachusetts](#boston-massachusetts) |
+| [European Commission (ECL)](#european-commission-ecl) | [Spain - Catalonia (AOC)](#spain---catalonia-aoc) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [Finland](#finland) | [Portugal - Azores](#portugal---azores) | [United States - Denver, Colorado](#denver-colorado) |
+| [France](#france) | [Italy - Puglia](#italy---puglia) | [United States - El Paso, Texas](#el-paso-texas) |
+| [Germany](#germany) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Hennepin County, Minnesota](#hennepin-county-minnesota) |
+| [Greece](#greece) | [United Kingdom - Northern Ireland](#united-kingdom---northern-ireland) | [United States - Houston, Texas](#houston-texas) |
+| [Hong Kong](#hong-kong) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Los Angeles, California](#los-angeles-california) |
+| [Iceland](#iceland) | [United Kingdom - Wales](#united-kingdom---wales) | [United States - Minneapolis, Minnesota](#minneapolis-minnesota) |
+| [India](#india) | [United States - Alaska](#united-states---alaska) | [United States - New York City](#new-york-city) |
+| [India - Digital Brand Identity Manual (DBIM)](#india---digital-brand-identity-manual-dbim) | [United States - California](#united-states---california) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [Indonesia](#indonesia) | [United States - Colorado](#united-states---colorado) | [United States - Portland, Oregon](#portland-oregon) |
+| [Ireland](#ireland) | [United States - Connecticut](#united-states---connecticut) | [United States - San Diego, California](#san-diego-california) |
+| [Israel](#israel) | [United States - Delaware](#united-states---delaware) | [United States - San Francisco, California](#san-francisco-california) |
+| [Italy](#italy) | [United States - Georgia](#united-states---georgia) | [United States - Seattle, Washington](#seattle-washington) |
+| [Italy - INPS (Sirio)](#italy---inps-sirio) | [United States - Hawaii](#united-states---hawaii) | [United States - St. Louis, Missouri](#st-louis-missouri) |
+| [Japan](#japan) | [United States - Illinois](#united-states---illinois) |  |
+| [Jordan](#jordan) | [United States - Iowa](#united-states---iowa) |  |
+| [Kenya](#kenya) | [United States - Kentucky](#united-states---kentucky) |  |
+| [Lebanon](#lebanon) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Luxembourg](#luxembourg) | [United States - Maryland](#united-states---maryland) |  |
+| [Malaysia](#malaysia) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [Maldives](#maldives) | [United States - Michigan](#united-states---michigan) |  |
+| [Mauritius](#mauritius) | [United States - Minnesota](#united-states---minnesota) |  |
+| [Mexico](#mexico) | [United States - Missouri](#united-states---missouri) |  |
+| [Moldova](#moldova) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Mongolia](#mongolia) | [United States - Nevada](#united-states---nevada) |  |
+| [Netherlands](#netherlands) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Netherlands - Logius (LUX)](#netherlands---logius-lux) | [United States - New York](#united-states---new-york) |  |
+| [Netherlands - RVO](#netherlands---rvo) | [United States - North Carolina](#united-states---north-carolina) |  |
+| [New Zealand](#new-zealand) | [United States - Ohio](#united-states---ohio) |  |
+| [Nigeria](#nigeria) | [United States - Oregon](#united-states---oregon) |  |
+| [Norway](#norway) | [United States - Oklahoma](#united-states---oklahoma) |  |
+| [Norway - NAV](#norway---nav) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Oman](#oman) | [United States - Puerto Rico](#united-states---puerto-rico) |  |
+| [Pakistan - Digital Design Nizam](#pakistan---digital-design-nizam) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Peru](#peru) | [United States - South Dakota](#united-states---south-dakota) |  |
+| [Philippines](#philippines) | [United States - Texas](#united-states---texas) |  |
+| [Philippines - Kapwa Design System](#philippines---kapwa-design-system) | [United States - Utah](#united-states---utah) |  |
+| [Poland](#poland) | [United States - Vermont](#united-states---vermont) |  |
+| [Portugal](#portugal) | [United States - Virginia](#united-states---virginia) |  |
+| [Qatar](#qatar) | [United States - Wisconsin](#united-states---wisconsin) |  |
 | [Rwanda](#rwanda) |  |  |
 | [Saudi Arabia](#saudi-arabia) |  |  |
 | [Scotland](#scotland) |  |  |
 | [Singapore](#singapore) |  |  |
+| [Singapore - Open Government Products](#singapore---open-government-products) |  |  |
 | [Slovakia](#slovakia) |  |  |
 | [South Africa](#south-africa) |  |  |
 | [South Korea](#south-korea) |  |  |
@@ -67,6 +81,7 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Sweden - Arbetsförmedlingen](#sweden---arbetsförmedlingen) |  |  |
 | [Switzerland](#switzerland) |  |  |
 | [Taiwan](#taiwan) |  |  |
+| [Taiwan - National Institute of Cyber Security](#taiwan---national-institute-of-cyber-security) |  |  |
 | [Thailand](#thailand) |  |  |
 | [Tonga](#tonga) |  |  |
 | [Tunisia](#tunisia) |  |  |
@@ -85,6 +100,9 @@ Click on a table entry below to be taken to more information about it's Design S
 | [United Kingdom - Office for National Statistics](#united-kingdom---office-for-national-statistics) |  |  |
 | [United Kingdom - Royal Navy](#united-kingdom---royal-navy) |  |  |
 | [United Kingdom - The National Archives](#united-kingdom---the-national-archives) |  |  |
+| [United Nations Development Programme (UNDP)](#united-nations-development-programme-undp) |  |  |
+| [United Nations - Web Guidelines](#united-nations---web-guidelines) |  |  |
+| [United Nations - World Food Programme](#united-nations---world-food-programme) |  |  |
 | [United States of America](#united-states-of-america) |  |  |
 | [United States - Census Bureau](#united-states---census-bureau) |  |  |
 | [United States - Centers for Medicare & Medicaid Services](#united-states---centers-for-medicare--medicaid-services) |  |  |
@@ -92,9 +110,17 @@ Click on a table entry below to be taken to more information about it's Design S
 | [United States - Department of Homeland Security](#united-states---department-of-homeland-security) |  |  |
 | [United States - Department of Veterans Affairs](#united-states---department-of-veterans-affairs) |  |  |
 | [United States - Environmental Protection Agency](#united-states---environmental-protection-agency) |  |  |
+| [United States - FPAC Design System](#united-states---fpac-design-system) |  |  |
+| [United States - Federal Communications Commission](#united-states---federal-communications-commission) |  |  |
+| [United States - Federal Election Commission](#united-states---federal-election-commission) |  |  |
 | [United States - Indian Affairs](#united-states---indian-affairs) |  |  |
 | [United States - Internal Revenue Service](#united-states---internal-revenue-service) |  |  |
+| [United States - Login.gov](#united-states---logingov) |  |  |
 | [United States - NASA](#united-states---nasa) |  |  |
+| [United States - NASA Jet Propulsion Laboratory](#united-states---nasa-jet-propulsion-laboratory) |  |  |
+| [United States - National Cancer Institute](#united-states---national-cancer-institute) |  |  |
+| [United States - Postal Service](#united-states---postal-service) |  |  |
+| [United States - SAM Design System](#united-states---sam-design-system) |  |  |
 | [Uruguay](#uruguay) |  |  |
 | [Vietnam](#vietnam) |  |  |
 ---
@@ -110,6 +136,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🔴 | No web components found |
 | 508 Compliant | 🟢 | Explicitly calls out Accessibility on Homepage |
 | Storybook / Figma | 🔴 | No usage of Storybook or Figma |
+
+### [Armenia](https://www.figma.com/community/file/1257654638425705295/henaket-design-system-v-1-1-1)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Henaket, mandatory for citizen-facing services | Henaket is the official design system of the Information Systems Agency of Armenia (ISAA). Use is mandatory for citizen-facing state services under Armenia's Digital Service Standards (Standard 6 of the Ministry of High-Tech Industry's Digitalization Guide, standards.hightech.gov.am) and the 2026 state-website requirements (Government Decision N 153-N). Its public form is a Figma UI kit: government header and footer, components, fonts, colours, and a "Service Window" service pattern (start page, step-by-step data collection, check-your-answers page, confirmation page) |
+| Underpinning Technology | Figma UI kit + templates | Design components and predefined templates/patterns; no public code implementation is documented |
+| Web Components | 🔴 | Design components in Figma only; not W3C web components |
+| 508 Compliant | 🟢 | The surrounding Digital Service Standards require services to follow and meet at least the AA level of WCAG 2.1, with accessibility testing and an accessibility statement (a standards requirement, not a certification of Henaket itself) |
+| Storybook / Figma | 🟢 | Public Figma Community file (Henaket - Design System, by the ISAA Design Team); no Storybook found |
 
 ### [Australia](https://gold.designsystemau.org/)
 | **Feature** | **Status** | **Other Info** |
@@ -372,6 +407,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Compliance with international WCAG standards, focuses on core UX principles including typography, color theory, and layout design |
 | Storybook / Figma | 🟡 | Support team conducts regular awareness workshops, [UX4G Handbook](https://www.ux4g.gov.in/assets/img/pdf/UX4G-Handbook.pdf) available |
 
+### [India - Digital Brand Identity Manual (DBIM)](https://dbimtoolkit.digifootprint.gov.in/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - launched 18 February 2025 | The Digital Brand Identity Manual (DBIM), from the Ministry of Electronics and Information Technology (MeitY) and the National Informatics Centre (NIC) - a brand/component-level companion to the UX4G entry above. Its toolkit (linked here) provides the actual UI components (colour schemes, typography, navigation patterns), an icon repository, templates and layouts for government websites, with a separate STQC certification distinct from GIGW compliance (per UX4G's own FAQ and the official PIB launch release, PRID 2104686). The toolkit site is a JavaScript application whose content could not be text-verified here; the claims above are as documented by NIC/UX4G |
+| Underpinning Technology | Web templates and components | Component and template toolkit for government websites and applications |
+| Web Components | 🟡 | UI components and templates provided through the toolkit; delivery format not code-verified |
+| 508 Compliant | 🟡 | STQC certification applies; no specific WCAG level stated in the sources read |
+| Storybook / Figma | 🔴 | None found |
+
 ### [Indonesia](https://www.indonesia.go.id/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -408,6 +452,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Strong accessibility focus with 'accessibility by design' integrated into every process. Components undergo accessibility verification for consistency |
 | Storybook / Figma | 🟢 | Full Figma UI components available for prototyping |
 
+### [Italy - INPS (Sirio)](https://www.inps.design)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/INPS-it/sirio-design-token) | Active - Sirio | Sirio is the design system of INPS, Italy's national social-security institute - separate from the national Designers Italia system above. The site lists a Foundation Library (9.1.0), a Web Component Library (10.0.0), and an App Component Library (11.1.0) |
+| Underpinning Technology | Web Components + native app components | Design tokens managed with Amazon Style Dictionary |
+| Web Components | 🟢 | Dedicated web component library |
+| 508 Compliant | 🟡 | Accessibility emphasis stated, but no specific WCAG level verified on the site itself (INPS services are subject to Italian/EU public-sector accessibility law) |
+| Storybook / Figma | 🟢 | Figma design kit with the Figma Tokens plugin |
+
 ### [Japan](https://design.digital.go.jp/dads/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -416,6 +469,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Sample components in React, design tokens available |
 | 508 Compliant | 🟡 | Design language with guidelines for usability and accessibility |
 | Storybook / Figma | 🔴 | Dedicated design system beta site launched May 2024 |
+
+### [Jordan](https://www.modee.gov.jo/ebv4.0/root_storage/en/eb_list_page/gws_checklist_2019-modee-v5.0-en.pdf)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Standards/guidelines only - official checklist PDF** | Jordan Government Websites Standards and Guidelines, from the Ministry of Digital Economy and Entrepreneurship (MoDEE). The current edition is the 2022 V2.0 (43 guidelines across Accessibility; Usability and Design; Content and Site Architecture; Responsive Web Design; Website Security); the document officially hosted on modee.gov.jo is the predecessor 2019 checklist (V5.0), linked here. MoDEE rule JO-113 also references a Government Website Design Kit (GWDK 2022), which is not publicly posted |
+| Underpinning Technology | N/A | Standards and guidelines regime with a compliance checklist; no component library or code |
+| Web Components | 🔴 | None |
+| 508 Compliant | 🟡 | The standards are described as covering WCAG 2.1; no conformance claim for a system itself |
+| Storybook / Figma | 🔴 | No usage of Storybook or Figma stated |
 
 ### [Kenya](https://www.Kenya.go.ke/)
 | **Feature** | **Status** | **Other Info** |
@@ -426,6 +488,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | **KS 2952-1:2022 - First African ICT accessibility standard** for persons with disabilities. Aligned with international WCAG standards |
 | Storybook / Figma | 🔴 | E-Citizen platform documentation and service portal |
 
+### [Lebanon](https://omsar.gov.lb/en/digital-transformation/digital-enablers-and-automation/website-portal/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - OMSAR website standardization | The Office of the Minister of State for Administrative Reform (OMSAR) runs Lebanon's national website standardization. A dedicated standards site (webstandards.omsar.gov.lb) publishes a Policy Document, Standards and Guidelines Specifications, and a Webmasters Design Toolkit across Identifiers, Design, Accessibility, Development, Hosting, Content & Services, Privacy & Copyright, Promotion, and Maintenance, with a formal compliance/exemption regime. Current implementation is a global WordPress-based template with reusable components and shared content standards, progressively adopted by government entities |
+| Underpinning Technology | WordPress-based template | Shared template with reusable components rolled out across ministry websites |
+| Web Components | 🟡 | Reusable template components; no public component library |
+| 508 Compliant | 🟡 | OMSAR states standardized templates are built to meet international web accessibility guidelines; no specific WCAG level named |
+| Storybook / Figma | 🔴 | No usage of Storybook or Figma stated |
+
+### [Luxembourg](https://zeroheight.com/4354d0cc2)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Design System de l'État luxembourgeois | The design system of the Luxembourg State, run by the CTIE (Government IT Centre) alongside the Renow web-quality framework; it specifies the design of state sites including Guichet.lu and MyGuichet.lu. Documentation is published on zeroheight (linked here); no public source code |
+| Underpinning Technology | Web guidelines + component documentation | Component and pattern specifications for state websites |
+| Web Components | 🟡 | Components documented; no public code implementation |
+| 508 Compliant | 🟡 | No WCAG claim on the design-system pages themselves (state sites built under the Renow framework are assessed by CTIE against EN 301 549 / RAWeb 1.1) |
+| Storybook / Figma | 🔴 | Documentation on zeroheight; neither Storybook nor Figma |
+
 ### [Malaysia](https://design.digital.gov.my/en)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -434,6 +514,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Component library MYDS for React available |
 | 508 Compliant | 🟢 | Out-of-the-box adherence to WCAG and best accessibility practices |
 | Storybook / Figma | 🟡 | Final Stakeholder Consultation completed March 2025 with local tech community and public sector officers |
+
+### [Maldives](https://govmv-content-guide.services.gov.mv/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Documentation-tier only** | The gov.mv platform's design system is named Veli. It is documented only inside the official gov.mv Ministry Website Content Guide (linked here): "gov.mv branding and the Veli design system supply the fonts, layouts, components and navigation - identical for every ministry", and the platform CMS page builder composes custom pages from Veli components beyond the standard templates. No standalone design-system site exists |
+| Underpinning Technology | Platform CMS | Fixed templates and navigation with a page builder; bilingual Dhivehi/English output with right-to-left support is provided by the platform |
+| Web Components | 🟡 | Components supplied by the platform; not exposed as a public library |
+| 508 Compliant | 🟡 | The guide states the platform brings accessibility; no WCAG version or level is named anywhere in the guide |
+| Storybook / Figma | 🔴 | None found |
+
+### [Mauritius](https://mitci.govmu.org/mitci/wp-content/uploads/2026/08/Digital-Service-Framework.pdf)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Framework/guidelines PDF only** | Digital Service Framework (DSF) v1.0 "First Release" (August 2026), from the Ministry of Information Technology, Communication and Innovation, authored by the Central Informatics Bureau. The DSF is the central policy-enforcement mechanism for Mauritian government digital services - compliance is a prerequisite for project approval, funding, and acceptance. Section 5 sets Digital Service Design Standards (Accessibility; Mobile-First & Responsive Design; Service Status & Tracking) plus a mandatory design checklist (Section 5.5); no component library exists yet |
+| Underpinning Technology | N/A | Policy framework document (97 pp.); Section 6.4 commits government to provide design checklists for UI/UX compliance, templates, and sample code |
+| Web Components | 🔴 | None yet |
+| 508 Compliant | 🟢 | "All digital services must comply with WCAG 2.1, Level AA or higher" (Section 5.2) |
+| Storybook / Figma | 🔴 | None |
 
 ### [Mexico](https://www.gob.mx/)
 | **Feature** | **Status** | **Other Info** |
@@ -471,6 +569,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Strong accessibility focus. "Hall of Fame" components guaranteed to meet accessibility requirements and tested in production. Do's/don'ts, WCAG criteria explanations, tips beyond WCAG |
 | Storybook / Figma | 🟢 | Comprehensive documentation, shared insights on accessibility |
 
+### [Netherlands - Logius (LUX)](https://nl-design-system.github.io/lux/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nl-design-system/lux) | Active development - EUPL-1.2 | LUX (Logius UX) is the design system of Logius, the Dutch government digital-services agency (Ministry of the Interior and Kingdom Relations), used Logius-wide. Built on the NL Design System community architecture |
+| Underpinning Technology | React + Web Components | Design tokens defined in Figma, exported as JSON and built to CSS |
+| Web Components | 🟢 | Web components alongside React components |
+| 508 Compliant | 🟢 | NL Design System architecture - shared components are developed and tested against WCAG 2.1 AA (Dutch government standard EN 301 549) |
+| Storybook / Figma | 🟢 | Storybook documentation; Figma is the design-token source |
+
+### [Netherlands - RVO](https://nl-design-system.github.io/rvo/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nl-design-system/rvo) | Active development - EUPL-1.2 (docs CC0), carries a "Work in Progress" banner | The design system of the Netherlands Enterprise Agency (Rijksdienst voor Ondernemend Nederland, rvo.nl), built on the NL Design System community architecture |
+| Underpinning Technology | CSS component library + design tokens | @nl-rvo/design-tokens and @nl-rvo/component-library-css published on npm; Docusaurus documentation |
+| Web Components | 🟡 | CSS component library; no framework web-component library stated |
+| 508 Compliant | 🟢 | NL Design System architecture - shared components are developed and tested against WCAG 2.1 AA (Dutch government standard EN 301 549) |
+| Storybook / Figma | 🟢 | Storybook published alongside the documentation |
+
 ### [New Zealand](https://design-system-alpha.digital.govt.nz/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -507,6 +623,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Accessibility guidance is a core part of Aksel; no specific WCAG level stated on the homepage |
 | Storybook / Figma | 🔴 | No Storybook or Figma usage stated on the official site |
 
+### [Oman](https://storybook.service.gov.om)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/Gov-om/design-system) | Active development | The Gov.om Component Library - a framework-agnostic web component library for Oman government digital services, from the unified gov.om services platform. (An earlier third-party claim of an Oman design system was unverifiable in previous passes; this entry rests on the official repo and the live Storybook on a .gov.om domain, created February 2026) |
+| Underpinning Technology | Lit + PostCSS, TypeScript | Published as npm packages @govom/components, @govom/react, @govom/angular, @govom/tokens, and @govom/icons; components use a gup- element prefix |
+| Web Components | 🟢 | Full Lit web-component library - 105 story groups in the live Storybook, including patterns (Address Form, Credit Card Payment) and service templates |
+| 508 Compliant | 🟡 | No accessibility claim stated - no WCAG claim in the repo or the Storybook (it ships Screenreader-text and Skip-link components, which is not a conformance claim) |
+| Storybook / Figma | 🟢 | The DS site is itself the Storybook; a companion wiki is linked from the repo at design-system.service.gov.om; no Figma found |
+
 ### [Pakistan - Digital Design Nizam](https://nizam.codeforpakistan.org/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -534,6 +659,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | **Accessibility for persons with disabilities, senior citizens, and those in remote areas**. Alternate channels for people with limited internet access. Services more transparent and accessible |
 | Storybook / Figma | 🔴 | ICT Planning Standards framework, E-Governance Act regulatory structure, eGov PH platform |
 
+### [Philippines - Kapwa Design System](https://github.com/bettergovph/kapwa)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/bettergovph/kapwa) | Active - v1.4.1, CC0-1.0 | The Kapwa Design System from BetterGovPH, a volunteer civic-tech network - the design system for the Gov.PH portal, which the Department of Information and Communications Technology (DICT) announced in 2026 will be co-developed with BetterGovPH with its code opened. Civic-tech origin, comparable to the CivicTheme and Digital Design Nizam entries in this list. A component registry/docs site is published at design-system.bettergov.ph (its DNS did not resolve at last check on 2026-11-09, via both direct and Firecrawl lookups); this heading links the source repo |
+| Underpinning Technology | React + shadcn/ui | Component registry in the shadcn style; design tokens via @bettergov/kapwa/kapwa.css |
+| Web Components | 🟡 | React components distributed as a registry, not W3C web components |
+| 508 Compliant | 🟢 | WCAG 2.1 AA per the design-system documentation; "Accessibility is Democracy" is Kapwa's first design value |
+| Storybook / Figma | 🟢 | Figma library per the project documentation; no Storybook found |
+
 ### [Poland](https://www.gov.pl/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -551,6 +685,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Components available in Storybook |
 | 508 Compliant | 🟢 | Focus on common, simple, and accessible experience for all citizens and businesses |
 | Storybook / Figma | 🟢 | Storybook available for ReactJS. Figma repository with all designed components (restricted access - priority to Central Administration entities per Decree-Law No. 49/2024, followed by Municipalities and Parishes) |
+
+### [Qatar](https://www.mcit.gov.qa/wp-content/uploads/sites/4/2024/06/f001_websiteeservices_v2.0.1_en_v1-2_3.pdf)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Guidelines PDF only** | Government Website and e-Services Framework v2.0.1 (April 2016, Ref F001), Ministry of Communications and Information Technology (MCIT). Standards and best-practice guidelines for the design of government websites and e-Services: Chapter 5 (Government Website Layout and Elements Standards) and Chapter 6 (E-Services Standards) are mandatory; Chapter 7 (Government Website Design Guidelines) is optional. A document regime only - no component library, code, Storybook, or Figma |
+| Underpinning Technology | N/A | PDF framework hosted on mcit.gov.qa |
+| Web Components | 🔴 | None |
+| 508 Compliant | 🟡 | Not specified in the framework itself; accessibility is handled by the separate Qatar eAccessibility Policy (2011), which references WCAG 2.0 Level AA |
+| Storybook / Figma | 🔴 | None |
 
 ### [Rwanda](https://irembo.gov.rw/)
 | **Feature** | **Status** | **Other Info** |
@@ -588,6 +731,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Components are perceivable, operable, understandable, and robust. Comply with WCAG standards out-of-the-box |
 | Storybook / Figma | 🔴 | Developer portal and documentation available |
 
+### [Singapore - Open Government Products](https://design.open.gov.sg)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/opengovsg/camp-design-system) | Active development | The Open Government Products (OGP) Design System. OGP is a product division of GovTech Singapore; this is its own product-team design system, distinct from the whole-of-government SGDS entry above |
+| Underpinning Technology | React | @opengovsg/design-system-react, from a pnpm monorepo |
+| Web Components | 🟡 | React component library; not W3C web components |
+| 508 Compliant | 🟡 | The repo states the components follow the design and accessibility guidelines in the OGP design system; no specific WCAG level captured |
+| Storybook / Figma | 🟢 | Storybook used for documentation/development; Figma not verified |
+
 ### [Slovakia](https://idsk.gov.sk/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -606,14 +758,14 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Digital transformation emphasis on accessibility, specific compliance standards not publicly detailed |
 | Storybook / Figma | 🔴 | MyMzansi platform documentation and gov.za service portal |
 
-### [South Korea](https://www.gov.kr/)
+### [South Korea](https://www.krds.go.kr)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| No Public Source Code Found | Active - KRDS (Korea Republic Design System) | Korea Republic Design System for all government websites. Built-in accessibility meeting KWCAG 2.1 (Korean Web Content Accessibility Guidelines 2.1). Fines up to ₩30 million for non-compliance. Government24 platform provides 1,500+ services with 90.6% usage rate |
-| Underpinning Technology | Web-based | Standardized design system ensuring consistency across all government digital services. Government24 centralizes citizen services |
-| Web Components | 🟡 | KRDS components for government websites, public source code availability unclear |
+| [Source Code](https://github.com/KRDS-uiux/krds-uiux) | Active - KRDS (Korea Republic Design System) | Korea Republic Design System for all government websites. The official KRDS site is now krds.go.kr (pan-government service launched by the Ministry of the Interior and Safety in January 2025), with full style/component guides, an official HTML Component Kit (also published on npm as krds-uiux), and a Figma Library v1.0.0. Built-in accessibility meeting KWCAG 2.1 (Korean Web Content Accessibility Guidelines 2.1). Fines up to ₩30 million for non-compliance. Government24 platform provides 1,500+ services with 90.6% usage rate |
+| Underpinning Technology | HTML/CSS/JavaScript | Official HTML Component Kit; standardized design system ensuring consistency across all government digital services. Government24 centralizes citizen services |
+| Web Components | 🟡 | KRDS HTML components for government websites |
 | 508 Compliant | 🟢 | **KWCAG 2.1 (Korean Web Content Accessibility Guidelines 2.1) required** for all government websites. Accessibility Improvement Act enforced with penalties for non-compliance |
-| Storybook / Figma | 🔴 | Government24 platform and KRDS guidelines for government agencies |
+| Storybook / Figma | 🟢 | Figma Library v1.0.0 provided alongside the HTML Component Kit v1.0.1 |
 
 ### [Sri Lanka](https://mode.gov.lk/notices/notice4.pdf)
 | **Feature** | **Status** | **Other Info** |
@@ -650,6 +802,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Digital government services platform, component library availability unclear |
 | 508 Compliant | 🟡 | Focus on inclusive digital services, specific accessibility standards not publicly detailed |
 | Storybook / Figma | 🔴 | MODA digital government platform and PDIS design thinking resources |
+
+### [Taiwan - National Institute of Cyber Security](https://guide.nics.nat.gov.tw)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nics-tw/guide) | Active | Government Website Design Principles with a published design-system component set, from the National Institute of Cyber Security (NICS) under the Ministry of Digital Affairs - a component-level companion to the Taiwan (MODA) entry above. Sections cover shared components, front-end technology principles, and visual design |
+| Underpinning Technology | Native web standards / standard HTML elements | Deliberately built on standard HTML elements to maximise compatibility and reduce third-party framework dependence; component specifications explicitly reference the GOV.UK Design System |
+| Web Components | 🟡 | Standard HTML element-based components; not a web-component library |
+| 508 Compliant | 🟡 | Accessibility/inclusivity is a stated design goal of the component set; no specific WCAG version stated |
+| Storybook / Figma | 🔴 | None found |
 
 ### [Thailand](https://standard.dga.or.th/)
 | **Feature** | **Status** | **Other Info** |
@@ -813,6 +974,33 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Accessible components to keep services consistent with The National Archives |
 | Storybook / Figma | 🔴 | Documentation at design-system.nationalarchives.gov.uk |
 
+### [United Nations Development Programme (UNDP)](https://design.undp.org)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/undp/design-system) | Active | The UNDP Design System - its documentation site is itself a Storybook instance (82 components). Published on npm as @undp/design-system, with a separate React implementation at react.design.undp.org (@undp/design-system-react, built on ShadCN UI + Tailwind, React 19) |
+| Underpinning Technology | SCSS on a Foundation grid (core); React 19 + Tailwind (React implementation) | Vanilla JS/SCSS core plus a React port |
+| Web Components | 🟡 | Framework components (SCSS/JS and React), not W3C web components |
+| 508 Compliant | 🟡 | No explicit WCAG level claim on the design-system site itself - its Storybook A11y addon tests WCAG compliance and the npm readme describes the system as "accessible in nature". UNDP procurement specifications separately require WCAG 2.1 AA for sites built with it |
+| Storybook / Figma | 🟢 | The documentation site is a Storybook instance; no public Figma library verified |
+
+### [United Nations - Web Guidelines](https://www.un.org/en/webguidelines)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Guidelines only** | The United Nations Secretariat's web guidelines for un.org and UN-system websites - branding, design, and technical requirements for official UN web presences. Guidance only; no component library or code |
+| Underpinning Technology | N/A | Web guidelines documentation |
+| Web Components | 🔴 | None |
+| 508 Compliant | 🟡 | The guidelines set WCAG 2.0 as the accessibility objective |
+| Storybook / Figma | 🔴 | None |
+
+### [United Nations - World Food Programme](https://uikit.wfp.org)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/wfp/designsystem) | Active - lightly maintained, Apache-2.0 | The WFP UI Kit - the design system of the UN World Food Programme (maintained by the WFP Communications Division): a living style guide/Storybook with 72 components. The repo was last pushed in April 2024 and its npm record updated in May 2025 |
+| Underpinning Technology | React + SCSS | @wfp/ui and @wfp/icons on npm; explicitly based on IBM Carbon Components and USWDS |
+| Web Components | 🟡 | React component library; not W3C web components |
+| 508 Compliant | 🟡 | The project states its components and patterns follow industry-standard accessibility guidelines and exist to ensure WFP-branded projects are accessible; no specific WCAG level captured |
+| Storybook / Figma | 🟢 | Storybook at uikit.wfp.org (also in the official Storybook showcase), plus an official Figma Community file, "WFP UI Kit Components" |
+
 ### [United States of America](https://designsystem.digital.gov/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -894,6 +1082,33 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Applications must follow EPA Web Standards and meet Section 508 requirements; USWDS use is required under the 21st Century IDEA |
 | Storybook / Figma | 🟡 | Pattern Lab style guide rather than Storybook; no Figma usage stated |
 
+### [United States - FPAC Design System](https://usda-fsa.github.io/fsa-design-system/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/USDA-FSA/fsa-design-system) | Active - Open Source | The FPAC Design System - "an open source design resource, documentation, and guidelines" for the USDA Farm Production and Conservation (FPAC) mission area (Farm Service Agency) |
+| Underpinning Technology | SCSS/CSS | Jekyll documentation site covering components, patterns, visual style, and utilities; CSS implementation in the companion [fsa-style](https://github.com/USDA-FSA/fsa-style) repo |
+| Web Components | 🟡 | CSS component library; no framework web components |
+| 508 Compliant | 🟢 | Federal system - Section 508 applies |
+| Storybook / Figma | 🔴 | None found |
+
+### [United States - Federal Communications Commission](https://fcc.github.io/design-standards)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/FCC/design-standards) | Active - legacy stack | FCC Design Standards - design patterns and a Bootstrap theme for FCC maps and applications; the site instructs builders to meet Section 508 |
+| Underpinning Technology | Bootstrap 3.3.5 + jQuery | Mapbox/Leaflet for mapping applications |
+| Web Components | 🟡 | Bootstrap-based components and theme |
+| 508 Compliant | 🟢 | Explicit "meet Section 508" instruction on the site |
+| Storybook / Figma | 🔴 | None found |
+
+### [United States - Federal Election Commission](https://fec-pattern-library.app.cloud.gov)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/fecgov/fec-pattern-library) | Active development | The FEC Pattern Library - "a collection of styles and design patterns that capture the design language and practices that make FEC.gov": foundations (typography, colors, grid, icons) and components with usage guidance (when/where/why/how). FEC.gov itself runs a USWDS-based custom design |
+| Underpinning Technology | HTML/CSS/JS | Static pattern-library site documenting the FEC.gov design language |
+| Web Components | 🟡 | Pattern components documented with guidance; no framework library |
+| 508 Compliant | 🟡 | No explicit WCAG/Section 508 claim found on the library's own pages |
+| Storybook / Figma | 🔴 | None found |
+
 ### [United States - Indian Affairs](https://www.bia.gov/webstandards)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -912,6 +1127,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | USWDS accessibility foundation (Section 508) |
 | Storybook / Figma | 🔴 | Component library on GitHub |
 
+### [United States - Login.gov](https://github.com/18F/identity-design-system)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/18F/identity-design-system) | Active - CC0-1.0 | The Login.gov Design System (General Services Administration / 18F, for the Login.gov identity service). Its official public home is the GitHub repo linked here - comparable to the IRS repo entry in this list. Published on npm as @18f/identity-design-system |
+| Underpinning Technology | Sass (Dart Sass) | An extension of the U.S. Web Design System, designed as a drop-in USWDS replacement for Login.gov brand consistency |
+| Web Components | 🟡 | USWDS-based CSS components; not W3C web components |
+| 508 Compliant | 🟢 | Inherits USWDS accessibility (Section 508); no separate WCAG claim stated |
+| Storybook / Figma | 🔴 | None stated in the repo |
+
 ### [United States - NASA](https://nasa.github.io/nasawds-site/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -923,7 +1147,52 @@ Click on a table entry below to be taken to more information about it's Design S
 
 ---
 
+### [United States - NASA Jet Propulsion Laboratory](https://nasa-jpl.github.io/explorer-1/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nasa-jpl/explorer-1) | Active development - MIT | Explorer 1 - the design system of NASA's Jet Propulsion Laboratory (a NASA center), a sub-system distinct from the agency-wide NASWDS entry above. Its documentation is a Storybook with 45 components |
+| Underpinning Technology | Vue 3 + Tailwind | Monorepo packages @explorer-1/vue and @explorer-1/common (legacy package @nasa-jpl/explorer-1) |
+| Web Components | 🟡 | Vue component library; not W3C web components |
+| 508 Compliant | 🟢 | Federal system - Section 508 applies (no explicit claim captured in the repo) |
+| Storybook / Figma | 🟢 | Storybook is the DS site (also in the official Storybook showcase); Figma not found |
+
+### [United States - National Cancer Institute](https://designsystem.cancer.gov)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/NCIOCPL/ncids) | Active development | NCIDS - the NCI Design System (National Cancer Institute, NIH): a USWDS adaptation for cancer.gov properties, published as @nciocpl npm packages |
+| Underpinning Technology | Sass/JS/Twig (USWDS adaptation) | Component library maintained by NCI's OCPL team |
+| Web Components | 🟡 | USWDS-based components; not W3C web components |
+| 508 Compliant | 🟢 | Explicit Section 508 statement on the system's About page |
+| Storybook / Figma | 🟢 | Official Figma Community file; no public Storybook confirmed |
+
+### [United States - Postal Service](https://www.usps.com/styleguide/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - guidelines/component-spec tier | The USPS Digital Style Guide for usps.com properties: branding, color, typography, iconography, imagery, and spacing, plus component specifications |
+| Underpinning Technology | Web guidelines + component specs | Guidance site on usps.com |
+| Web Components | 🟡 | Component specifications documented; no public library |
+| 508 Compliant | 🟢 | USPS's launch announcement states the guide includes resources for complying with federal accessibility law (Section 508) |
+| Storybook / Figma | 🔴 | None found |
+
+### [United States - SAM Design System](https://gsa.github.io/sam-design-system/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/GSA/sam-design-system) | Active development | The SAM Design System (SDS) from the General Services Administration's Integrated Award Environment (IAE), for SAM.gov. Its documentation site is a Storybook deployment |
+| Underpinning Technology | Angular | Component libraries published as @gsa-sam/* npm packages; Vitest/Playwright testing |
+| Web Components | 🟡 | Angular component libraries; not W3C web components |
+| 508 Compliant | 🟢 | Federal system - Section 508 applies |
+| Storybook / Figma | 🟢 | Storybook documentation site |
+
 ## State / Regional
+
+### [Australia - Australian Capital Territory](https://github.com/ACTGov-Design-System/ACT-Website-Design-System)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/ACTGov-Design-System/ACT-Website-Design-System) | Repo-hosted; last updated May 2023 | The ACT Government Website Design System. The official GitHub org ("ACT Government Design System") is its public home - no separate hosted public site was found (the built Storybook is moved to hosting manually). Storybook-powered documentation with design tokens, components, patterns, and directorate page previews |
+| Underpinning Technology | JavaScript/SCSS + Storybook | Design tokens, components, and patterns in the repo's src |
+| Web Components | 🟡 | Component library documented in Storybook; framework specifics not stated |
+| 508 Compliant | 🟡 | Not verified |
+| Storybook / Figma | 🟢 | Storybook-powered documentation |
 
 ### [Australia - New South Wales](https://designsystem.nsw.gov.au/)
 | **Feature** | **Status** | **Other Info** |
@@ -1033,6 +1302,24 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Consistent user experience is part of the digital service standards |
 | Storybook / Figma | 🔴 | Documentation at guide.yukon.ca |
 
+### [Germany - Baden-Württemberg](https://design.landbw.de/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - design portal live since October 2024 | The Land Baden-Württemberg design portal (Staatsministerium). Its Digitales Designsystem covers foundations (colours with semantic tokens, BaWue Serif/Sans typography, spacing, borders/elevation), with components maintained in a Figma Web Library - the portal changelog records component updates (Text Field, Radio Button, Select, Slider, Megamenu) through January 2026 |
+| Underpinning Technology | Figma Web Library | Foundations documented on the portal; components live in Figma |
+| Web Components | 🔴 | No code implementation published |
+| 508 Compliant | 🟡 | "Barrierefreie Inhaltsvermittlung" (accessible content delivery) stated; no WCAG level quoted - do not infer one |
+| Storybook / Figma | 🟢 | Figma Web Library; no Storybook |
+
+### [Germany - Berlin](https://support.berlin.de/designsystem/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - mandatory for Berlin administration websites | Land Berlin's design system for berlin.de. Berlin.de's corporate-design pages confirm a binding design system for all internet presences and online applications of the Berlin administration, with an online styleguide and a base layout with "Verticals", implemented via the Imperia CMS. Public documentation sits in the berlin.de support wiki (linked here); the full styleguide is distributed to administration projects via the Landesredaktion |
+| Underpinning Technology | Imperia CMS | External builders take markup/CSS classes from the online styleguide or consume Imperia layout includes (header/footer) directly |
+| Web Components | 🟡 | Base layout and elements specified; no public component code |
+| 508 Compliant | 🟡 | Berlin sites must meet the Berlin accessibility act (BIKTG Bln) with a published accessibility statement; the styleguide itself carries no WCAG badge |
+| Storybook / Figma | 🔴 | Neither found |
+
 ### [Germany - KERN](https://www.kern-ux.de/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1042,6 +1329,51 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Accessibility "by design" following WCAG, EN 301 549 and BITV 2.0 |
 | Storybook / Figma | 🟢 | Pattern library and Figma resources; nationwide community platform |
 
+### [Germany - Brandenburg](https://style.brandenburg.de/de/components/lists)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - binding rulebook | Styleguide Brandenburg (Landesregierung Brandenburg) - a binding ("verbindlich") rulebook for all *.brandenburg.de sites: design principles, page structure, a Components section, and a 12-column responsive grid, with accessibility rules specified for every structural element. HTML successor to the PDF styleguide lineage (v2.0 2016 to v2.4 2019) |
+| Underpinning Technology | HTML styleguide site | Rules and component specifications published as web documentation |
+| Web Components | 🟡 | Components specified in the rulebook; no public code |
+| 508 Compliant | 🟡 | No WCAG level quoted; references the BbgBITV (Brandenburg accessibility ordinance) |
+| Storybook / Figma | 🔴 | None |
+
+### [Germany - Saxony](https://www.styleguide.sachsen.de/hinweise-zur-nutzung-4826.html)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - release notes at v2.26.4 (August 2026) | Styleguide 2.0 sachsen.de (Freistaat Sachsen, Sächsische Staatskanzlei) - a full component styleguide (toolbar, buttons, tabs, pagination, themes) for sachsen.de. The codebase can be embedded directly from styleguide.sachsen.de or is supplied as an archive on request to the Staatskanzlei; there is no public repo |
+| Underpinning Technology | Versioned CSS/JS dist themes | Embeddable component code served from the styleguide |
+| Web Components | 🟡 | Embeddable component code; no public repo or framework library |
+| 508 Compliant | 🟡 | No level quoted; the release notes log recurring accessibility (Barrierefreiheit) fixes |
+| Storybook / Figma | 🔴 | None |
+
+### [Switzerland - Basel-Stadt](https://kanton-basel-stadt.github.io/storybook/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/kanton-basel-stadt/designsystem) | Active development - GPL-3.0 | The Canton of Basel-Stadt's Digital Design System (DDS / BS.ch Design System, for bs.ch and WebBS): CSS and icons with markup taken from its Storybook - deliberately framework-agnostic. Published on npm as @kanton-basel-stadt/designsystem |
+| Underpinning Technology | Tailwind + PostCSS via an unplugin | Adapters for Vite/Webpack/Rollup/esbuild/Nuxt/Astro; Figma is the canton's single source of truth for design |
+| Web Components | 🟡 | CSS + icon system with Storybook markup patterns, rather than framework components |
+| 508 Compliant | 🟡 | The only level found is from the vendor (Liip) build account - "we strived for WCAG 2.1 AA and eCH-0059 Version 3.0 certifications" - a vendor statement, not an official bs.ch claim. The Storybook ships an axe-core accessibility plugin |
+| Storybook / Figma | 🟢 | Storybook is the DS site; Figma is the design source of truth |
+
+### [Japan - Tokyo](https://www.digitalservice.metro.tokyo.lg.jp/business/digital-guideline)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - guidelines suite | The Tokyo Metropolitan Government (Bureau of Digital Services) Service Design Guidelines, within the TMG Digital Service Code of Conduct. A guidelines suite rather than a component library: Service Design Guidelines v3.0.0 plus a casebook, a UI Design Practice Guide v1.0.0, input-form guidance v1.1, a service canvas guide, user-testing procedures, and a dashboard design guidebook with design templates (Power BI .pbit) - all published as PDFs from the hub linked here |
+| Underpinning Technology | Framework-agnostic (PDF guidance) | No web components |
+| Web Components | 🔴 | None |
+| 508 Compliant | 🟡 | No explicit WCAG version stated; inclusivity ("leave no one behind") is Code-of-Conduct principle #3 |
+| Storybook / Figma | 🔴 | None found |
+
+### [Spain - Andalucía](https://desarrollo.juntadeandalucia.es/areas/interfaz-usuario-ui/diseno-construccion-interfaces/recursos)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Sistema de Diseño de la Junta de Andalucía (via the Agencia Digital de Andalucía), formally approved under Decreto 218/2020 (Manual de Diseño Gráfico, 21 Dec 2020) as part of the Modelo de Servicios Digitales. Design principles, reusable components, and page templates; implementation is distributed as a Bootstrap theme plus application/site archetypes on the Junta's own platform. The developer-portal resources page (linked here) is the public entry point |
+| Underpinning Technology | Bootstrap theme (CSS/JS) | A catalogue of reusable web components documented in a Storybook; design libraries for Figma and Penpot |
+| Web Components | 🟡 | Component catalogue documented; code distributed as a theme and archetypes rather than a public library |
+| 508 Compliant | 🟡 | Accessibility is one of the system's stated design principles; the Spanish public-sector standard (EN 301 549 / WCAG 2.1 AA) applies |
+| Storybook / Figma | 🟢 | Storybook for the web-component catalogue; Figma and Penpot libraries |
+
 ### [Spain - Aragón](https://desy.aragon.es/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1050,6 +1382,33 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Multi-framework component libraries |
 | 508 Compliant | 🟢 | AA accessibility standards are mandatory for users of the system |
 | Storybook / Figma | 🟢 | Figma Community library (DESY en Figma) linked from the site |
+
+### [Spain - Catalonia (AOC)](https://www.aoc.cat/en/sistema-de-disseny/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Figma-based | The design system of the Consorci Administració Oberta de Catalunya (AOC Consortium), the shared digital-services consortium for Catalan public administrations. It comprises two design systems - one citizen-facing, one for public employees (EACAT) - covering principles, components, and content/writing guidance. The citizen-facing system is published openly on Figma so any Catalan administration can reuse it; HTML code integration via Zeroheight was announced as the next phase. Guidelines/Figma tier - weaker than Aragón's DESY, which ships code |
+| Underpinning Technology | Figma | Core principles are simplicity, collaboration, and accessibility; components are designed to accessibility principles |
+| Web Components | 🔴 | No code implementation yet |
+| 508 Compliant | 🟡 | Accessibility is a stated core principle; no specific WCAG level stated |
+| Storybook / Figma | 🟢 | Public Figma publication; no Storybook |
+
+### [Portugal - Azores](https://gradesign.servicos.azores.gov.pt/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | The GRA Design System (Governo Regional dos Açores) - "to guarantee the consistency of the Regional Government of the Azores' digital products": foundations (including iconography) and documented components with states and copy-paste HTML/CSS code snippets (e.g. gra-switch classes) |
+| Underpinning Technology | Plain HTML/CSS class library | Static documentation site; code is inline snippets, no repo |
+| Web Components | 🟡 | Components documented with inline code; not a framework library |
+| 508 Compliant | 🟡 | No level quoted on the DS pages; official GRA procurement text requires interfaces to respect the GRA DS "garantindo consistência visual, acessibilidade e usabilidade" |
+| Storybook / Figma | 🔴 | None found |
+
+### [Italy - Puglia](https://designsystem.ect.regione.puglia.it/index.html)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - Design System v8.0 | DMS Puglia | Webkit - Regione Puglia's design system, serving the region's tourism/culture digital ecosystem (DMS), with ready-to-use code per component. A companion guidelines-tier artefact, the Manuale d'identità web / UI Kit (component manual v2.2; full manual v3.8, January 2026), explicitly adapts the national AGID/Designers Italia guidelines |
+| Underpinning Technology | Bootstrap v4.5 | Component documentation with ready-to-use code on the docs site |
+| Web Components | 🟡 | Component code published inline on the docs site; no public repo |
+| 508 Compliant | 🟡 | No WCAG level quoted ("accessibili / in linea con la normativa vigente" only) |
+| Storybook / Figma | 🔴 | None public |
 
 ### [United Kingdom - Essex](https://www.essex.gov.uk/essex-county-councils-design-and-patterns-library)
 | **Feature** | **Status** | **Other Info** |
@@ -1086,6 +1445,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Component guidance published; no standalone public component library site |
 | 508 Compliant | 🟢 | "Make it accessible to all" is a GOV.WALES design principle, and accessibility is described as at the core of GOV.WALES |
 | Storybook / Figma | 🟡 | Sketch design library, moving to Figma; a Storybook / React library is reported in development |
+
+### [United States - Alaska](https://alaska.gov/LookAndFeel/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - mandated; policy v1.0.5 (Sep 2016), CSS guide 2014 | State of Alaska Look and Feel Standards, set by the Internet Services Functional Work Group under a Governor's Office mandate, with the companion Alaska.Gov Style Guide. Implementation is state-issued hosted CSS (alaskaGov.min.css / statewide.css) with downloadable template resources: 960px page width, navy #072f49 / yellow #edbd03 global header, and standard components (statewide nav, agency header, search box, breadcrumb, footers, skip-nav, responsive rules). Mandated and live, though not recently revised |
+| Underpinning Technology | Shared CSS + HTML templates | State-issued stylesheets and templates for agency sites |
+| Web Components | 🟡 | Standard template components specified; code is hosted CSS |
+| 508 Compliant | 🟢 | "All SOA web pages must meet accessibility standards... Titles I, II, and III of the Americans with Disabilities Act, Section 504 and Section 508..., and the W3C's Web Content Accessibility Guidelines (WCAG)" (no level pinned) |
+| Storybook / Figma | 🔴 | None |
 
 ### [United States - California](https://designsystem.webstandards.ca.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -1213,6 +1581,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | **WCAG 2.1 Level AA required**. Minnesota State Digital Accessibility Standard effective July 1, 2024. Federal ADA Title II requirements: entities 50,000+ comply by April 26, 2026; under 50,000 by April 26, 2027 |
 | Storybook / Figma | 🔴 | MnDOT design system documentation. Minnesota IT Services (MNIT) manages accessibility standards and policies |
 
+### [United States - Nevada](https://www.ada.nv.gov/siteassets/adanew.nv.gov/content/resources/2019-05-01_WebStyleGuidelines.pdf)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Guidelines PDF only** | Nevada Web Style Standard (State Web Style Standards, Control No. 4.01, Rev. 1.1, effective 10 February 2019; Governor's Technology Office / State Webmaster) - a presentation standard for all executive-branch sites: required homepage elements, state seal, portal strategy. "Web Style Standards" is a standing footer link across nv.gov (the standard's original capitolpolice.nv.gov copy is gone; this is its current official home on ada.nv.gov) |
+| Underpinning Technology | N/A | Policy/standard document |
+| Web Components | 🔴 | None |
+| 508 Compliant | 🟡 | The standard requires sites to "meet or exceed Priority I requirements of the Web Content Accessibility Guidelines conformance level A of WCAG 2.0 and paragraph 1194.22 of Section 508"; the state's current Digital Accessibility Statement (ada.nv.gov) targets WCAG 2.1 Levels A & AA |
+| Storybook / Figma | 🔴 | None |
+
 ### [United States - New Jersey](https://grove.nj.gov)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1221,6 +1598,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Extension of USWDS components with a New Jersey-specific theme. Available on GitHub with documentation at grove.nj.gov |
 | 508 Compliant | 🟢 | Built on the USWDS accessibility foundation. Compliance with federal 21st Century IDEA requirements. Office of Innovation leads digital services design and development |
 | Storybook / Figma | 🟢 | [Storybook](https://storybook.grove.nj.gov) available; [Figma community file](https://www.figma.com/community/file/1409316805539440855/nj-web-design-system) published |
+
+### [United States - Missouri](https://assets.mo.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - iterated through Bootstrap v3/v4/v5 variants | Missouri Web Assets / "New Blue" - the State of Missouri's (Office of Administration, ITSD/Web Development) agency website template system: a live component library (accordions, typography, navs/tabs, breadcrumbs, panels, dialogs, news ticker, spacing helpers; library at assets.mo.gov/samples/bootstrap.html) plus a style guide PDF specifying the blue palette (#1E3A62 etc.) and fonts (Century Gothic, Francois One, Tahoma, Merriweather). CSS/JS assets and sample layouts are served directly from assets.mo.gov; newer variants run at /mov4 and /mov5 |
+| Underpinning Technology | Customized Bootstrap (3.4.1 library; v4 and v5 versions also published) | Served CSS/JS asset library with sample layouts |
+| Web Components | 🟡 | Bootstrap component library; not W3C web components |
+| 508 Compliant | 🟡 | No accessibility claim stated on the assets site itself (Missouri's separate Section 508/WCAG 2.1-based state standard is not claimed there) |
+| Storybook / Figma | 🔴 | None |
 
 ### [United States - Nebraska](https://www.nebraska.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -1258,6 +1644,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Focus on consistent, accessible user experiences across Ohio agency sites |
 | Storybook / Figma | 🔴 | InnovateOhio Platform documentation |
 
+### [United States - Oregon](https://www.oregon.gov/das/OSCIO/Pages/E-Governance-Guidance.aspx)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - guidelines + starter template | Oregon's E-Governance guidance (E-Governance Board / Enterprise Information Services), linked here: the Oregon State Website Style Guidelines (April 2023) and an Oregon Design Guide whose v4.x Starter Template documents web parts for agency sites - mobile-first templates provided to agencies by the website contractor since 2013 (Oregon.gov runs on SharePoint) |
+| Underpinning Technology | Starter Template (SharePoint web parts) | Documented web parts and templates; no public code |
+| Web Components | 🟡 | Documented web parts/templates; no public component code |
+| 508 Compliant | 🟢 | The Design Guide's compliance table states "Section 508 - Full; WCAG 2 - AA"; the state's current accessibility page states Oregon follows WCAG 2.1 Level AA |
+| Storybook / Figma | 🔴 | None |
+
 ### [United States - Oklahoma](https://aem-prod.oklahoma.gov/content/dam/ok/en/omes/documents/oklahoma-ui-ux-standard-UA.pdf)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1276,6 +1671,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Designed to help build accessible digital services |
 | Storybook / Figma | 🔴 | Full component documentation and foundations (typography, design tokens) available on site |
 
+### [United States - Puerto Rico](https://www.prits.pr.gov/innovacion)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - mandatory standard since April 2021 | GUIDI (Guías de Interfaz y Diseño) - the Puerto Rico Innovation and Technology Service's (PRITS) mandatory interface and design standard for all pr.gov agency portals: "es el estándar oficial adoptado por el Gobierno de Puerto Rico para el diseño, estructura y accesibilidad de los portales gubernamentales." Per PRITS's FY2024-2025 progress report, agency portals are implemented on the Webflow platform applying GUIDI's visual architecture, UX, content structure, and reusable components |
+| Underpinning Technology | Guidelines document (PDF) defining reusable content modules/blocks | Downloadable from the linked PRITS page (docs.pr.gov); implementation on Webflow |
+| Web Components | 🟡 | Reusable modules defined in guidance; no public code library |
+| 508 Compliant | 🟢 | GUIDI was designed following the accessibility guidelines of Puerto Rico's Ley 229 (contrast ratios, font sizes, legibility, screen-reader compatibility), and PRITS requires agency portals to pass an accessibility evaluation before publishing; no explicit WCAG version is claimed in GUIDI materials |
+| Storybook / Figma | 🔴 | None found |
+
 ### [United States - Rhode Island](https://www.ri.gov/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1284,6 +1688,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Design system provides standardized components across 100+ agencies. Digital Government Summit 2025 unites public and private sector leadership on leveraging technology and data |
 | 508 Compliant | 🟢 | Focus on accessibility and user experience. AI Task Force and Center of Excellence for AI and Data established under Executive Order 24-06. Data Center of Excellence within ETSS |
 | Storybook / Figma | 🔴 | Office of Digital Excellence manages design system implementation. Work recognized for exceptional citizen-centered digital services |
+
+### [United States - South Dakota](https://bit.sd.gov/bit?id=bit_standards_web)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - guidelines tier | South Dakota BIT Web Standards (Bureau of Information and Telecommunications, Agency & Application Support) - the state government web development standards, linked as the current standards from BIT's official accessibility policy on sd.gov |
+| Underpinning Technology | Web standards documentation (ServiceNow portal) | External CSS3 only (print-ready CSS, no inline styles), HTML5/Ajax for animation, no Flash |
+| Web Components | 🔴 | None |
+| 508 Compliant | 🟡 | The standards page itself carries no WCAG claim (only a screen-reader formatting note); the companion BIT accessibility policy states BIT follows "the W3C recommendations and the federal government's Section 508 Standards" |
+| Storybook / Figma | 🔴 | None |
 
 ### [United States - Virginia](https://www.developer.virginia.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -1323,6 +1736,15 @@ Click on a table entry below to be taken to more information about it's Design S
 
 ---
 
+### [United States - Wisconsin](https://webmasters.wi.gov/Pages/AgencyTemplates/Overview.aspx)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Wisconsin Agency Templates - the State of Wisconsin eGovernment Program's statewide agency website templates (delivered by Tyler Wisconsin): Simple Design, Tile Design, and Next Design, each with its own Style Guide; downloadable Design Packages (fonts, images, style guide) via the Webmasters portal |
+| Underpinning Technology | Microsoft SharePoint (2016 / Subscription Edition) | Bootstrap 3 (Simple/Tile), Bootstrap 5 (Next Design) |
+| Web Components | 🟡 | Statewide template system with per-template style guides; no public component code |
+| 508 Compliant | 🟢 | "Tyler Wisconsin templates are scanned for 508 compliance, passing WCAG AA standards using several industry tools. Any errors are addressed and rescanned until compliance is met before being launched to production" |
+| Storybook / Figma | 🔴 | None - SharePoint style-guide pages/PDFs per template |
+
 ## Local / Municipal
 
 ### United States
@@ -1334,6 +1756,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🔴 | Project archived |
 | 508 Compliant | 🟡 | Accessibility information not detailed |
 | Storybook / Figma | 🔴 | Archived repository |
+
+#### [Baltimore, Maryland](https://bromo-design-system.fly.dev/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code (@city-of-baltimore/bromo on npm)](https://www.npmjs.com/package/@city-of-baltimore/bromo) | Active - v1.4.4, MIT | Bromo - the Baltimore Design System (Mayor's Office of Performance and Innovation), one of OPI's three "civic foundations": design tokens, theme, app shell, and accessible components. Caveats: its Storybook docs are hosted on fly.dev (the npm package's homepage), and the repo under the official city-of-baltimore GitHub org did not resolve publicly at check time - the public record is the npm scope, jsDelivr, and the live Storybook |
+| Underpinning Technology | React + MUI (Material UI), TypeScript | Design tokens, theme, and app shell |
+| Web Components | 🟡 | React component library; not W3C web components |
+| 508 Compliant | 🟡 | OPI describes "tokens, theme, shell, accessible components"; no WCAG level stated |
+| Storybook / Figma | 🟢 | Storybook docs (linked here); Figma none found |
 
 #### [Bloomington, Indiana](https://bloomington.in.gov/utilities/review/design/manual)
 | **Feature** | **Status** | **Other Info** |
@@ -1362,6 +1793,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Digital Services Team champions accessibility across City digital products in partnership with Mayor's Office for People with Disabilities |
 | Storybook / Figma | 🔴 | Pattern library and methods documentation at design.chicago.gov |
 
+#### [Denver, Colorado](https://www.denvergov.org/denverstyleguide/index.html)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - guidelines tier | The City and County of Denver's Web UX/UI Style Guide (Web UX/UI team / Citywide Marketing Office) - a customized Bootstrap UI kit (buttons, navbars, tabs, accordions, forms, alerts, modals, grid); the guide itself contains copyable HTML/CSS/JS examples |
+| Underpinning Technology | Bootstrap (customized UI kit) | HelveticaNeueLT-Roman; Glyphicons + Font Awesome |
+| Web Components | 🟡 | UI-kit patterns documented with copyable examples |
+| 508 Compliant | 🟡 | The guide defers to its "Usability & Accessibility" section to ensure color use meets accessibility guidelines; no WCAG level stated on the homepage |
+| Storybook / Figma | 🔴 | None |
+
 #### [El Paso, Texas](https://design.elpasotexas.gov/city-website/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1380,6 +1820,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | Each component page helps front-end developers meet county standards and ensure compliance with Section 508 |
 | Storybook / Figma | 🟢 | Components in the design system have Figma counterparts, with a Figma tutorial linked |
 
+#### [Houston, Texas](https://www.houstontx.gov/styleguide.html)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - guidelines tier (legacy page) | The City of Houston Website Style Guide - a live style-guide page demonstrating the site's own HTML/CSS template classes, with a per-background color palette with hex values and Font Awesome iconography. Undated and WCAG 2.0-era, but live on the official domain |
+| Underpinning Technology | HTML/CSS template classes | Style guide demonstrates the production site's own classes |
+| Web Components | 🟡 | Template classes demonstrated; no component library |
+| 508 Compliant | 🟢 | "Using Web Content Accessibility Guidelines (WCAG) 2.0, though AA contrasts are preferred, we are using AAA contrast ratios of 7:1 for normal text and 4.5:1 for large(r) text"; plus "Our website is required to be in compliance with Section 508" |
+| Storybook / Figma | 🔴 | None |
+
 #### [Los Angeles, California](https://styleguide.lacity.gov/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1388,6 +1837,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Web components documented in style guide. Frameworks, typography, and component patterns standardized across City of Los Angeles websites |
 | 508 Compliant | 🟢 | **WCAG 2.0 Level A & AA compliance required**. All City of Los Angeles websites required to follow WCAG 2.0 standards with no errors in either Level A or AA |
 | Storybook / Figma | 🔴 | Comprehensive style guide at styleguide.lacity.gov. Information Technology Agency provides documentation and best practices |
+
+#### [Minneapolis, Minnesota](https://www.minneapolismn.gov/about/web-style-guide/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - guidelines tier | The City of Minneapolis's web guides (Enterprise Web Team / Digital Services Team): an A-Z Web Style Guide plus Content Creation Guidelines, Content Best Practices, and an Audience & Brand Voice Guide for minneapolismn.gov (the site launched June 2020). Distinct from the Hennepin County entry above - editorial/design guidance rather than components |
+| Underpinning Technology | Editorial/design guidance site | Guides hub at minneapolismn.gov/about/ |
+| Web Components | 🔴 | None |
+| 508 Compliant | 🟢 | "State and local governments must follow Web Content Accessibility Guidelines (WCAG) 2.1 AA" and "The City of Minneapolis is working to follow this rule" |
+| Storybook / Figma | 🔴 | None |
 
 #### [New York City](https://designsystem.nyc.gov/)
 | **Feature** | **Status** | **Other Info** |
@@ -1416,6 +1874,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟢 | "Accessible by default" - components include a keyboard SkipNav and accessible Modal, Dropdown and RadioButtons |
 | Storybook / Figma | 🟢 | Full documentation in Storybook; design tokens come from Figma |
 
+#### [San Diego, California](https://patternlibrary.sandiego.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | The City of San Diego Pattern Library - Patterns / Templates / Guidelines, distributed as downloadable sand.min.css + sand.js with copy-paste code examples per pattern |
+| Underpinning Technology | HTML/CSS/SCSS | Foundation XY Grid (12-column); Merriweather (headlines) + Open Sans (body); Icomoon + Linearicons |
+| Web Components | 🟡 | Pattern library distributed as CSS/JS files, not framework components |
+| 508 Compliant | 🟢 | "City of San Diego websites and web applications must comply with WCAG 2.1 Level AA" |
+| Storybook / Figma | 🔴 | None |
+
 #### [San Francisco, California](https://design-system.sf.gov/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
@@ -1424,6 +1891,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟢 | Maya design system provides components for visually compelling, responsive interfaces. Making it easier for agencies to develop accessible websites and applications with consistent City & County of San Francisco visual identity |
 | 508 Compliant | 🟢 | **Federal accessibility and readability standards met**. ADA and Section 508 compliance for people with disabilities. Equitable design requirements enforced since November 2021. All vital information translated by humans |
 | Storybook / Figma | 🔴 | Design system documentation at design-system.sf.gov. Digital Services resources at digitalservices.sfgov.org. Government Technology recognized SF.gov redesign for accessibility and flexibility |
+
+#### [Seattle, Washington](https://styleguide.seattle.gov/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - guidelines tier | The City of Seattle Digital Style Guide (Seattle Information Technology, Digital Engagement/UX team): Foundations, Styles, Web Patterns, and Seattle.gov CMS components, published on the UXPin design-system platform (styleguide.seattle.gov resolves to it). Its requirements apply to all City of Seattle public-facing websites, web applications, and mobile applications |
+| Underpinning Technology | UXPin-hosted design-system documentation | Guide maintained by Seattle IT's Digital Engagement team |
+| Web Components | 🟡 | Web patterns and CMS components documented; no public code |
+| 508 Compliant | 🟢 | Guide principle: "Design for, and test designs with, users with different abilities to ensure access for all"; the city standard requires web apps/content to comply with WCAG 2.1 A and AA by April 24, 2026 |
+| Storybook / Figma | 🟡 | UXPin design-system platform (neither Storybook nor Figma) |
 
 #### [St. Louis, Missouri](https://www.stlouis-mo.gov/government/departments/information-technology/web-development/style/index.cfm)
 | **Feature** | **Status** | **Other Info** |
@@ -1500,7 +1976,106 @@ Click on a table entry below to be taken to more information about it's Design S
 | Storybook / Figma | 🔴 | Sketch-based design; documentation at designsystem.tfwm.org.uk |
 
 ### Other Local / Municipalities
+#### [Amsterdam, Netherlands](https://designsystem.amsterdam)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/Amsterdam/design-system) | Active - EUPL-1.2 (docs CC0-1.0) | The Amsterdam Design System (Gemeente Amsterdam). Its documentation site is itself a Storybook portal. Part of the NL Design System community initiative; the repo is also mirrored at code.overheid.nl, and the system ships an MCP server for AI coding assistants |
+| Underpinning Technology | Design tokens + CSS + React | @amsterdam/design-system-tokens, -css, and -react packages; aims to support Figma, CSS, React, React Native, Mendix, and Drupal |
+| Web Components | 🟡 | React/CSS packages; no W3C web-component library |
+| 508 Compliant | 🟢 | "We build and test every component against WCAG 2.2 Level AA"; automated accessibility tests run in Chromatic per pull request, plus manual checks (screen readers, forced colours) in the definition of done |
+| Storybook / Figma | 🟢 | The documentation site is a Storybook; Figma library linked from the repo |
+
+#### [Buenos Aires, Argentina](https://gcba.github.io/Obelisco-V2/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/gcba/obelisco) | Active - MIT | Obelisco, the component-based design system of the Government of the City of Buenos Aires (maintained by the Dirección General de Experiencia Digital), mandated by a resolution published in the Boletín Oficial on 17 May 2023; it replaced BAstrap. Distributed via npm as @gcba/obelisco and via CDN. V1 documentation remains at gcba.github.io/Obelisco/ |
+| Underpinning Technology | Bootstrap 4 (Sass/CSS + JS) | Nunito + Open Sans typography; Boxicons + Material Icons iconography |
+| Web Components | 🟡 | Bootstrap-based components; not W3C web components |
+| 508 Compliant | 🟢 | V2 foundations and components are built on WCAG 2.2 criteria, and every component documents its applied WCAG success criteria in a dedicated accessibility tab; GCBA states V2 targets WCAG AAA standards, citing Ley 26.653 compliance |
+| Storybook / Figma | 🟢 | Storybook documentation; V2 Figma library split into Core Components and Foundations |
+
 #### [Córdoba, Argentina](https://github.com/ModernizacionMuniCBA/guia-estilos-y-web)
 *Last updated in January 2018*
 
 *Note: Alberta, Canada (Corporate Identity Manual) has moved to [Canada - Alberta](#canada---alberta) under State / Regional, which now documents the Government of Alberta Design System.*
+
+#### [Helsingborg, Sweden](https://github.com/helsingborg-stad/styleguide)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/helsingborg-stad/styleguide) | Active - MIT | The City of Helsingborg's styleguide: a component-based CSS framework for the city's open-source Municipio website platform. Distributed via Composer and GitHub releases (Packagist: helsingborg-stad/styleguide), with a companion React library (helsingborg-stad/municipio-react-ui). The GitHub repo is the canonical hub; built CSS is served from styleguide.getmunicipio.com |
+| Underpinning Technology | CSS framework (SCSS) | Built on the BEM standard and Atomic Design principles; design tokens are the single source of truth (source/data/design-tokens.json), with per-component component.json token declarations |
+| Web Components | 🟡 | CSS components; not W3C web components |
+| 508 Compliant | 🟡 | No explicit WCAG claim for the styleguide itself; the companion React library is described as a library of accessible, reusable React UI components |
+| Storybook / Figma | 🔴 | Neither confirmed |
+
+#### [Helsinki, Finland](https://hds.hel.fi/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/City-of-Helsinki/helsinki-design-system) | Active - v6.0.2 | The Helsinki Design System (HDS) of the City of Helsinki - an open-source design system with React and Core (CSS) packages |
+| Underpinning Technology | React + CSS | hds-core, hds-react, and hds-design-tokens packages (Lerna monorepo; React 19, Storybook 8) |
+| Web Components | 🟡 | React/CSS component packages; not W3C web components |
+| 508 Compliant | 🟢 | "Accessibility baked-in" - components are designed accessible from the ground up and pass a third-party accessibility audit before release |
+| Storybook / Figma | 🟢 | Storybook for both React and Core packages; Figma integration (automated icon-library sync from Figma) |
+
+#### [Mexico City, Mexico](https://jefaturadegobierno.cdmx.gob.mx/storage/app/uploads/public/69e/a52/e82/69ea52e8270f9839787048.pdf)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active - mandatory manual, 2024-2030 | The Government of Mexico City's Manual de Identidad Gráfica Institucional 2024-2030 - mandatory for all CDMX dependencies - contains a chapter literally titled "Sistema de diseño" (p. 61) with web design-system guidelines and component specifications, plus a linked Figma prototype. Verification note: the manual was read in full via a browser fetch (its table of contents, the Sistema de diseño chapter, and the mandatory-status clauses); the cdmx.gob.mx hosts do not answer scripted checks (curl/Firecrawl) from every network |
+| Underpinning Technology | Guidelines (PDF manual) | Grid and component specifications documented in the manual |
+| Web Components | 🟡 | Component specifications in the manual; no code library |
+| 508 Compliant | 🟡 | No accessibility claim in the manual |
+| Storybook / Figma | 🟡 | Figma prototype linked from the manual; no Storybook |
+
+#### [Oslo, Norway](https://punkt.oslo.kommune.no)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code (npm packages)](https://www.npmjs.com/package/@oslokommune/punkt-css) | Active - Punkt 18 | Punkt, the design system of the City of Oslo (Oslo kommune), built by its Origo digital team - a complete design system working across frontend frameworks, based on the city's design manual. Its packages are public on npm (the GitHub repo named in the npm metadata is not publicly accessible) |
+| Underpinning Technology | Monorepo (Lerna): SCSS/CSS + React + Vue + Web Components | @oslokommune/punkt-css (SCSS/CSS framework, BEM), punkt-react, punkt-vue (Vue 3), punkt-elements, punkt-assets, and punkt-cli |
+| Web Components | 🟢 | punkt-elements web-component package |
+| 508 Compliant | 🟡 | The site carries universal design (Universell Utforming) guidance content; no specific WCAG level stated |
+| Storybook / Figma | 🟡 | Figma design-system file confirmed (login-gated); no public Storybook found - the docs site itself carries the component documentation |
+
+#### [Rotterdam, Netherlands](https://nl-design-system.github.io/rotterdam/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nl-design-system/rotterdam) | Active development - EUPL-1.2, alpha / work in progress | The Rotterdam Design System (RODS) of the Municipality of Rotterdam, an NL Design System community member. The city's brand portal (rotterdam.nl/huisstijl) links the RODS Figma file and Storybook; use of the Rotterdam Digital Design System is described as mandatory for all creators, internal and external |
+| Underpinning Technology | Design tokens + CSS/React/Stencil/Wicket | @gemeente-rotterdam/design-tokens; CSS components, React components, Stencil web components + React wrappers, and Wicket/Java components published to Maven Central; themes applied via a rods-theme class, building on NL Design System community components |
+| Web Components | 🟢 | Stencil web components |
+| 508 Compliant | 🟢 | Described in EU city reporting as a "WCAG compliant cross-departmental guideline"; NL Design System architecture targets WCAG 2.1 AA / EN 301 549 |
+| Storybook / Figma | 🟢 | Storybook; Figma file linked from rotterdam.nl/huisstijl |
+
+#### [The Hague, Netherlands](https://nl-design-system.github.io/denhaag/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nl-design-system/denhaag) | Active development - EUPL-1.2, self-described "Work in Progress" | The Den Haag Design System of the Municipality of The Hague (Gemeente Den Haag), an NL Design System community member. The linked site is its Storybook deployment. Used in production on denhaag.nl (WordPress/Open Web Concept), Open Formulieren e-forms, and the MijnDenHaag portal, at a scale of roughly 150+ components |
+| Underpinning Technology | React + CSS + design tokens | @gemeente-denhaag/components-react and @gemeente-denhaag/design-tokens-* packages on npm; theming via design tokens so other government organisations can re-skin |
+| Web Components | 🟡 | React component library; no W3C web-component library |
+| 508 Compliant | 🟢 | NL Design System architecture - WCAG 2.1 AA / EN 301 549 (no Den Haag-specific claim captured) |
+| Storybook / Figma | 🟢 | Storybook (Chromatic builds; stories live in-repo); Figma files referenced in NL Design System community discussions |
+
+#### [Tilburg, Netherlands](https://nl-design-system.github.io/tilburg/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nl-design-system/tilburg) | Active development - EUPL-1.2; components at v0.x, in development | The Tilburg Design System of the Municipality of Tilburg (Gemeente Tilburg), an NL Design System community member built on Utrecht components |
+| Underpinning Technology | CSS + React + Angular + design tokens | @gemeente-tilburg/design-tokens on npm; CSS, React (18/19), and Angular (20-22) components; experimental Stencil web components |
+| Web Components | 🟡 | Experimental Stencil web components; the HTML/CSS layer leads |
+| 508 Compliant | 🟢 | NL Design System architecture - WCAG 2.1 AA / EN 301 549 |
+| Storybook / Figma | 🟢 | React and Angular Storybooks published to GitHub Pages on each push to main |
+
+#### [Utrecht, Netherlands](https://nl-design-system.github.io/utrecht/storybook/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/nl-design-system/utrecht) | Active - EUPL-1.2 | The Utrecht Design System of the Municipality of Utrecht (Gemeente Utrecht), an NL Design System community member. Note: the repo states that applying Utrecht's design elements is restricted to organisations that are part of the Municipality of Utrecht - the code is open, the brand is not |
+| Underpinning Technology | Multi-framework: CSS, React, Vue, Angular, Stencil | @utrecht/* packages for CSS, React, Vue, and Angular, a Stencil web-component library (@utrecht/web-component-library-stencil), and @utrecht/design-tokens; documentation via Docusaurus + Storybook |
+| Web Components | 🟢 | Stencil web-component library |
+| 508 Compliant | 🟢 | Follows NL Design System guidelines - WCAG 2.1 AA / EN 301 549 (no Utrecht-specific claim captured) |
+| Storybook / Figma | 🟢 | Storybook (linked here); Figma referenced in NL Design System community discussions |
+
+#### [Winnipeg, Canada](https://legacy.winnipeg.ca/designsystem/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | Active | Confluence - "The City of Winnipeg's design system". The site describes it as the city's digital visual language presented as accessible UI components combined with UX and accessibility guidelines, enabling the reuse of modular components to deliver a unified customer experience across City-owned and produced digital properties. (The name collides with Atlassian's product, but it is the system's actual name) |
+| Underpinning Technology | Documentation/guidelines site with component guidance | Brand typeface Source Sans Pro (400/400i/600/600i/700), Arial fallback |
+| Web Components | 🟡 | Component guidance documented; no public component code |
+| 508 Compliant | 🟡 | Components are explicitly presented as accessible, with UX and accessibility guidelines throughout; no specific WCAG level stated |
+| Storybook / Figma | 🔴 | None found |
