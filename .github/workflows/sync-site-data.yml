@@ -1,0 +1,40 @@
+name: Sync site data
+
+# The Atlas site (docs/) reads docs/data.js, which is generated from
+# README.md by scripts/build_data.py. This workflow regenerates it whenever
+# the list changes on main, so the site never drifts from the README.
+# If branch protection ever blocks the bot's push, run the script locally
+# and commit docs/data.js by hand instead.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/build_data.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Regenerate docs/data.js from README.md
+        run: python3 scripts/build_data.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- docs/data.js; then
+            echo "data.js already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data.js
+          git commit -m "chore: regenerate site data from README"
+          git push
