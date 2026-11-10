@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas of Government Design Systems</title>
+<meta name="description" content="A field guide to the world's government design systems — every national, regional and municipal system we could verify, charted on one map with its source code, technology and accessibility standing.">
+<meta property="og:title" content="Atlas of Government Design Systems">
+<meta property="og:description" content="Every national, regional and municipal design system we could verify — its source code, its technology, its accessibility standing — charted on one map.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23002fa7'/%3E%3Ccircle cx='8' cy='8' r='3.5' fill='%23faf5ea'/%3E%3C/svg%3E">
+<style>
+  :root{
+    --paper:#faf5ea;
+    --paper-2:#f2ead8;
+    --card:#fffdf6;
+    --ink:#16233f;
+    --ink-soft:#3c4a68;
+    --muted:#585d51;
+    --line:#ddd3ba;
+    --accent:#002fa7;          /* International Klein Blue */
+    --accent-deep:#00227a;
+    --bin0:#e9e5da;
+    --bin1:#bccdf3;
+    --bin2:#7f9be6;
+    --bin3:#4068d8;
+    --bin4:#002fa7;
+    --dot-green:#1e9e57;
+    --dot-amber:#dfa00a;
+    --dot-red:#d2483c;
+    --dot-none:#cfc9b8;
+    --serif:Georgia,"Times New Roman",Times,serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:14px;
+    line-height:1.45;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  .sr-only{
+    position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+    overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;
+  }
+  .skip-link{
+    position:absolute;left:12px;top:-60px;z-index:50;
+    background:var(--ink);color:var(--paper);
+    padding:10px 16px;font-weight:700;font-size:13px;
+    transition:top .15s ease;
+  }
+  .skip-link:focus{top:12px;color:var(--paper);text-decoration:none}
+
+  /* ---------- Header band ---------- */
+  header{
+    border-bottom:3px double var(--ink);
+    padding:26px 40px 20px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px 48px;
+    align-items:flex-end;
+  }
+  .masthead{flex:1 1 520px;min-width:280px}
+  .kicker{
+    font-size:11px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--accent);margin:0 0 10px;
+  }
+  h1{
+    font-family:var(--serif);
+    font-weight:400;
+    font-size:46px;
+    line-height:1.04;
+    margin:0 0 10px;
+    letter-spacing:.01em;
+  }
+  h1 em{font-style:italic;color:var(--accent-deep)}
+  .standfirst{
+    margin:0;max-width:56ch;color:var(--ink-soft);font-size:14.5px;
+  }
+  .stats{
+    display:flex;flex-wrap:wrap;border:1px solid var(--line);background:var(--card);
+  }
+  .stat{
+    padding:12px 20px 10px;text-align:left;min-width:104px;
+  }
+  .stat + .stat{border-left:1px solid var(--line)}
+  .stat b{
+    display:block;font-family:var(--serif);font-weight:400;
+    font-size:32px;line-height:1;color:var(--ink);
+  }
+  .stat span{
+    display:block;margin-top:5px;font-size:10px;font-weight:700;
+    letter-spacing:.16em;text-transform:uppercase;color:var(--muted);
+  }
+
+  /* ---------- Layout ---------- */
+  main{
+    display:grid;
+    grid-template-columns:55fr 45fr;
+    gap:30px;
+    padding:26px 40px 34px;
+    align-items:start;
+  }
+  main > section{min-width:0}
+  .map-card,.map-wrap,.controls,.results{min-width:0}
+  .pane-title{
+    font-size:11px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--ink);margin:0 0 12px;display:flex;align-items:baseline;gap:10px;
+  }
+  .pane-title::after{content:"";flex:1;border-top:1px solid var(--line)}
+
+  /* ---------- Map ---------- */
+  .map-card{
+    background:var(--card);
+    border:1px solid var(--line);
+    padding:14px 14px 8px;
+    position:relative;
+  }
+  .map-wrap{position:relative}
+  svg#map{display:block;width:100%;height:auto}
+  .country{stroke:#fdfbf4;stroke-width:.4}
+  .country.clickable{cursor:pointer}
+  .country.clickable:hover{stroke:var(--ink);stroke-width:1.1}
+  .country.selected{stroke:var(--ink);stroke-width:1.4}
+  .graticule{fill:none;stroke:rgba(22,35,63,.07);stroke-width:.5}
+  .sphere{fill:#f6f1e3;stroke:var(--line)}
+  #tooltip{
+    position:absolute;pointer-events:none;z-index:5;
+    background:var(--ink);color:#f7f2e4;
+    font-size:12px;line-height:1.35;
+    padding:6px 10px;border-radius:2px;
+    opacity:0;transition:opacity .12s ease;
+    white-space:nowrap;
+    box-shadow:0 2px 10px rgba(22,35,63,.25);
+  }
+  #tooltip .t-country{font-family:var(--serif);font-size:13.5px}
+  #tooltip .t-count{color:#b9c8f2}
+  .map-fallback{
+    border:1px dashed var(--line);background:var(--paper-2);
+    color:var(--ink-soft);padding:26px 18px;text-align:center;
+    font-family:var(--serif);font-style:italic;font-size:15px;
+  }
+  .legend{
+    display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;
+    padding:10px 4px 8px;font-size:11px;color:var(--ink-soft);
+  }
+  .legend .lg-label{
+    font-weight:700;letter-spacing:.16em;text-transform:uppercase;
+    font-size:10px;color:var(--muted);margin-right:2px;
+  }
+  .legend .sw{
+    display:inline-block;width:14px;height:10px;margin-right:5px;
+    border:1px solid rgba(22,35,63,.25);vertical-align:-1px;
+  }
+  .map-note{font-size:11.5px;color:var(--muted);margin:2px 4px 10px;font-style:italic;font-family:var(--serif)}
+  .country-banner{
+    display:none;align-items:center;gap:10px;
+    border:1px solid var(--accent);background:#eef2fd;color:var(--ink);
+    padding:9px 12px;margin:4px 0 12px;font-size:13px;
+  }
+  .country-banner.show{display:flex}
+  .country-banner b{font-family:var(--serif);font-weight:400;font-size:15px}
+  .country-banner button{
+    margin-left:auto;background:var(--accent);color:#fff;border:0;
+    font:inherit;font-size:12px;padding:6px 12px;cursor:pointer;border-radius:2px;
+    min-height:32px;
+  }
+  .country-banner button:hover{background:var(--accent-deep)}
+
+  /* ---------- Controls + list ---------- */
+  .controls{position:sticky;top:0;background:var(--paper);padding-bottom:10px;z-index:3}
+  .search{
+    width:100%;font:inherit;font-size:15px;color:var(--ink);
+    background:var(--card);border:1px solid var(--ink);
+    padding:10px 12px;border-radius:0;outline:none;min-height:44px;
+  }
+  .search:focus{box-shadow:0 0 0 2px var(--bin1)}
+  .search::placeholder{color:var(--muted);font-style:italic;font-family:var(--serif)}
+  .chip-row{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;align-items:center}
+  .row-label{
+    font-size:10px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--muted);align-self:center;margin-right:2px;min-width:52px;
+  }
+  .chip{
+    font:inherit;font-size:12px;cursor:pointer;
+    background:var(--card);color:var(--ink);
+    border:1px solid var(--ink);border-radius:999px;
+    padding:4px 12px;min-height:28px;
+  }
+  .chip:hover{background:var(--paper-2)}
+  .chip[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+  .chip.toggle[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+  .select{
+    font:inherit;font-size:13px;color:var(--ink);
+    background:var(--card);border:1px solid var(--ink);border-radius:0;
+    padding:8px 10px;min-height:44px;max-width:100%;
+  }
+  .select:focus{box-shadow:0 0 0 2px var(--bin1);outline:none}
+  .count-line{
+    display:flex;align-items:baseline;gap:10px;
+    margin:14px 0 4px;font-size:12.5px;color:var(--ink-soft);
+  }
+  .count-line b{font-family:var(--serif);font-size:17px;font-weight:400;color:var(--ink)}
+  .count-line::after{content:"";flex:1;border-top:1px solid var(--line)}
+  .results{
+    overflow-y:auto;
+    max-height:calc(100vh - 330px);
+    min-height:220px;
+    border-top:2px solid var(--ink);
+    scrollbar-width:thin;scrollbar-color:var(--line) transparent;
+  }
+  .row{border-bottom:1px solid var(--line);display:block}
+  .row-head{
+    display:block;width:100%;text-align:left;cursor:pointer;
+    background:none;border:0;margin:0;
+    padding:11px 8px 10px;font:inherit;color:inherit;
+  }
+  .row-head:hover{background:var(--card)}
+  .row-top{display:flex;align-items:baseline;gap:8px}
+  .row-name{
+    font-family:var(--serif);font-size:16.5px;line-height:1.2;color:var(--ink);
+  }
+  .dots{margin-left:auto;display:flex;gap:5px;flex:none;padding-top:2px}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;flex:none}
+  .dot.g{background:var(--dot-green)}
+  .dot.a{background:var(--dot-amber)}
+  .dot.r{background:var(--dot-red)}
+  .dot.n{background:var(--dot-none)}
+  .chev{
+    flex:none;font-size:11px;color:var(--accent);line-height:1;
+    transition:transform .15s ease;align-self:center;
+  }
+  .row-head[aria-expanded="true"] .chev{transform:rotate(90deg)}
+  .row-meta{
+    margin-top:3px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--muted);font-weight:600;
+  }
+  .row-status{margin-top:3px;font-size:12.5px;color:var(--ink-soft)}
+
+  /* ---------- Detail panel ---------- */
+  .detail{
+    padding:2px 8px 14px;
+    border-top:1px dashed var(--line);
+    background:var(--card);
+  }
+  .detail[hidden]{display:none}
+  .d-row{
+    display:grid;grid-template-columns:128px 1fr;gap:2px 14px;
+    padding:5px 0;border-bottom:1px dotted var(--line);
+    font-size:13px;
+  }
+  .d-row:last-of-type{border-bottom:0}
+  .d-label{
+    font-size:10px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--muted);padding-top:3px;
+  }
+  .d-value{color:var(--ink-soft)}
+  .d-value .dot{margin-right:6px;vertical-align:0}
+  .d-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+  .d-link{
+    display:inline-block;border:1px solid var(--accent);color:var(--accent);
+    padding:6px 14px;font-size:12.5px;font-weight:600;background:var(--card);
+  }
+  .d-link:hover{background:var(--accent);color:#fff;text-decoration:none}
+  .d-link.primary{background:var(--accent);color:#fff}
+  .d-link.primary:hover{background:var(--accent-deep)}
+
+  .empty{padding:30px 12px;text-align:center}
+  .empty p{
+    color:var(--muted);font-family:var(--serif);font-style:italic;
+    font-size:15px;margin:0 0 14px;
+  }
+  .clear-btn{
+    background:var(--accent);color:#fff;border:0;cursor:pointer;
+    font:inherit;font-size:13px;padding:8px 16px;border-radius:2px;min-height:36px;
+  }
+  .clear-btn:hover{background:var(--accent-deep)}
+
+  /* ---------- Footer ---------- */
+  footer{
+    border-top:1px solid var(--line);
+    padding:16px 40px 24px;color:var(--muted);font-size:12px;
+  }
+  footer .about{max-width:78ch;margin:0 0 10px;color:var(--ink-soft);font-size:13px}
+  .foot-line{display:flex;flex-wrap:wrap;gap:6px 22px;font-size:11.5px}
+  footer .f-k{letter-spacing:.16em;text-transform:uppercase;font-weight:700;font-size:10px}
+  .dot-key{display:inline-flex;gap:12px;flex-wrap:wrap}
+  .dot-key span{display:inline-flex;align-items:center;gap:5px}
+
+  /* ---------- Responsive ---------- */
+  @media (max-width:900px){
+    main{grid-template-columns:1fr;padding:20px}
+    header{padding:22px 20px 16px}
+    footer{padding:16px 20px 22px}
+    .controls{position:static}
+    .results{max-height:none}
+    .chip{min-height:40px;padding:8px 14px;font-size:12.5px}
+    .country-banner button{min-height:40px;padding:8px 14px}
+    .clear-btn{min-height:40px}
+    .d-link{min-height:40px;padding:9px 14px}
+    .row-head{padding:13px 8px 12px}
+    .stat{flex:1 1 118px;min-width:0}
+    .stat + .stat{border-left:1px solid var(--line)}
+  }
+  @media (max-width:620px){
+    h1{font-size:33px}
+    .masthead{min-width:0;flex-basis:100%}
+    .d-row{grid-template-columns:1fr;gap:0}
+    .d-label{padding-top:0}
+    .stats{width:100%}
+  }
+</style>
+</head>
+<body>
+
+<a class="skip-link" href="#gazetteer">Skip to the gazetteer</a>
+
+<header>
+  <div class="masthead">
+    <p class="kicker">A Field Guide to Government Design Systems</p>
+    <h1>Mapping the world&rsquo;s<br><em>government design systems</em></h1>
+    <p class="standfirst">Every national, regional and municipal design system we could verify &mdash;
+      its source code, its technology, its accessibility standing &mdash; charted on one map.
+      Click a country to read its entry in the gazetteer.</p>
+  </div>
+  <div class="stats" id="stats" aria-label="Headline statistics">
+    <div class="stat"><b id="statTotal">&ndash;</b><span>Systems catalogued</span></div>
+    <div class="stat"><b id="statCountries">&ndash;</b><span>Countries charted</span></div>
+    <div class="stat"><b id="statSource">&ndash;</b><span>Open source</span></div>
+    <div class="stat"><b id="statWcag">&ndash;</b><span>Accessibility: strong</span></div>
+  </div>
+</header>
+
+<main>
+  <!-- ============ MAP ============ -->
+  <section aria-label="World map">
+    <h2 class="pane-title">The Chart</h2>
+    <div class="country-banner" id="countryBanner">
+      <span>Now charting <b id="bannerCountry"></b> <span id="bannerCount"></span></span>
+      <button type="button" id="bannerClear">Clear filter</button>
+    </div>
+    <div class="map-card">
+      <div class="map-wrap" id="mapWrap">
+        <svg id="map" viewBox="0 0 820 470" role="img" aria-label="World choropleth map of government design systems per country"></svg>
+        <div id="tooltip" aria-hidden="true"></div>
+        <div class="map-fallback" id="mapFallback" hidden>
+          The chart could not be drawn &mdash; the gazetteer to the right carries the full list regardless.
+        </div>
+      </div>
+      <div class="legend" id="legend" aria-label="Map legend, systems per country"></div>
+    </div>
+    <p class="map-note">Countries are shaded by the number of verified systems catalogued for them.
+      Small island states and territories may carry systems that a map at this scale cannot shade.</p>
+  </section>
+
+  <!-- ============ LIST ============ -->
+  <section aria-label="Gazetteer" id="gazetteer">
+    <h2 class="pane-title">The Gazetteer</h2>
+    <div class="controls">
+      <label class="sr-only" for="search">Search design systems</label>
+      <input class="search" id="search" type="search" placeholder="Search systems, places, technologies&hellip;" autocomplete="off">
+      <div class="chip-row" id="levelChips" role="group" aria-label="Filter by level">
+        <span class="row-label" aria-hidden="true">Level</span>
+      </div>
+      <div class="chip-row" id="flagChips" role="group" aria-label="Filter by attributes">
+        <span class="row-label" aria-hidden="true">Marks</span>
+      </div>
+      <div class="chip-row">
+        <label class="row-label" for="countrySel">Country</label>
+        <select class="select" id="countrySel"></select>
+      </div>
+      <div class="chip-row">
+        <label class="row-label" for="sortSel">Sort</label>
+        <select class="select" id="sortSel">
+          <option value="name">Name A&ndash;Z</option>
+          <option value="country">Country A&ndash;Z</option>
+          <option value="level">Level</option>
+        </select>
+      </div>
+    </div>
+    <div class="count-line"><b id="countText"></b><span id="countSub"></span></div>
+    <div class="results" id="results"></div>
+  </section>
+</main>
+
+<footer>
+  <p class="about">Every national, regional and municipal design system we could verify &mdash;
+    its source code, its technology, its accessibility standing &mdash; charted on one map and
+    listed in one gazetteer. The atlas is maintained as the
+    <a href="https://github.com/ctrimm/Government-Design-Systems-List" target="_blank" rel="noopener">Government Design Systems List</a>
+    on GitHub; corrections and additions are welcome there.</p>
+  <div class="foot-line">
+    <span>Data generated from the list&rsquo;s README &middot; Natural Earth map data &middot; No tracking</span>
+    <span class="dot-key" aria-label="Marker key">
+      <span><i class="dot g" aria-hidden="true"></i> Strong</span>
+      <span><i class="dot a" aria-hidden="true"></i> Partial</span>
+      <span><i class="dot r" aria-hidden="true"></i> Absent</span>
+      <span><i class="dot n" aria-hidden="true"></i> Not stated</span>
+    </span>
+    <span>Markers read, left to right: web components &middot; accessibility &middot; Storybook / Figma.</span>
+    <span><span class="f-k">Colophon</span>&nbsp; Set in Georgia and your system sans. Chart drawn with D3 and Natural Earth data.</span>
+  </div>
+</footer>
+
+<script src="data.js"></script>
+<script src="vendor/d3.min.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script>
+(function(){
+  "use strict";
+
+  var DATA = (typeof window.DS_DATA !== "undefined" && Array.isArray(window.DS_DATA)) ? window.DS_DATA : [];
+  var STATS = (typeof window.DS_STATS !== "undefined" && window.DS_STATS) ? window.DS_STATS : {};
+
+  /* ---------- country canonicalisation (catalogue label -> chart country) ---------- */
+  var US_STATES = ["Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut",
+    "Delaware","District of Columbia","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana",
+    "Iowa","Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan",
+    "Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada","New Hampshire",
+    "New Jersey","New Mexico","New York","North Carolina","North Dakota","Ohio","Oklahoma",
+    "Oregon","Pennsylvania","Rhode Island","South Carolina","South Dakota","Tennessee","Texas",
+    "Utah","Vermont","Virginia","Washington","West Virginia","Wisconsin","Wyoming"];
+  var OURS_ALIAS = {
+    "United States of America": "United States",
+    "Belgium/Flanders": "Belgium",
+    "Scotland": "United Kingdom"
+  };
+  US_STATES.forEach(function(s){ OURS_ALIAS[s] = "United States"; });
+
+  var NE_ALIAS = {  // Natural Earth properties.name -> canonical
+    "United States of America": "United States",
+    "Czechia": "Czech Republic",
+    "Dominican Rep.": "Dominican Republic",
+    "Bosnia and Herz.": "Bosnia and Herzegovina"
+  };
+  var NON_GEO = {  // catalogued bodies that are not countries on the chart
+    "European Commission (ECL)": true,
+    "United Nations": true,
+    "United Nations Development Programme (UNDP)": true
+  };
+
+  function canon(label){ return OURS_ALIAS[label] || label; }
+
+  DATA.forEach(function(e, i){
+    e._idx = i;
+    e._canon = canon(e.country || "");
+  });
+
+  var counts = {};   // canonical country -> systems
+  DATA.forEach(function(e){ counts[e._canon] = (counts[e._canon] || 0) + 1; });
+  var geoCountryCount = Object.keys(counts).filter(function(k){ return !NON_GEO[k]; }).length;
+
+  /* ---------- state + URL hash ---------- */
+  var LEVELS = [
+    {id: "all",     label: "All levels"},
+    {id: "federal", label: "Federal / Country"},
+    {id: "state",   label: "State / Regional"},
+    {id: "local",   label: "Local / Municipal"}
+  ];
+  var LEVEL_LABEL = {federal: "Federal / Country", state: "State / Regional", local: "Local / Municipal"};
+  var LEVEL_ORDER = {"Federal / Country": 0, "State / Regional": 1, "Local / Municipal": 2};
+  var SORTS = ["name", "country", "level"];
+
+  var state = {
+    q: "", level: "all",
+    src: false, wcag: false, tools: false,
+    country: null, sort: "name",
+    open: null
+  };
+
+  function readHash(){
+    var raw = "";
+    try { raw = window.location.hash.replace(/^#/, ""); } catch (e) { return; }
+    if (!raw) return;
+    var p;
+    try { p = new URLSearchParams(raw); } catch (e) { return; }
+    var q = p.get("q");
+    if (q !== null) state.q = q.slice(0, 200);
+    var level = p.get("level");
+    if (level && LEVEL_LABEL[level]) state.level = level;
+    if (p.get("src") === "1") state.src = true;
+    if (p.get("wcag") === "1") state.wcag = true;
+    if (p.get("tools") === "1") state.tools = true;
+    var country = p.get("country");
+    if (country && counts.hasOwnProperty(country) && !NON_GEO[country]) state.country = country;
+    var sort = p.get("sort");
+    if (sort && SORTS.indexOf(sort) !== -1) state.sort = sort;
+  }
+
+  function writeHash(){
+    var p = new URLSearchParams();
+    if (state.q.trim()) p.set("q", state.q.trim());
+    if (state.country) p.set("country", state.country);
+    if (state.level !== "all") p.set("level", state.level);
+    if (state.src) p.set("src", "1");
+    if (state.wcag) p.set("wcag", "1");
+    if (state.tools) p.set("tools", "1");
+    if (state.sort !== "name") p.set("sort", state.sort);
+    var s = p.toString();
+    try {
+      window.history.replaceState(null, "", s ? "#" + s : window.location.pathname + window.location.search);
+    } catch (e) { /* hash is a nicety, never fatal */ }
+  }
+
+  /* ---------- header stats ---------- */
+  function setText(id, v){ var el = document.getElementById(id); if (el) el.textContent = v; }
+  setText("statTotal", STATS.total != null ? STATS.total : DATA.length);
+  setText("statCountries", geoCountryCount);
+  setText("statSource", STATS.withSource != null ? STATS.withSource : DATA.filter(function(e){ return e.source; }).length);
+  setText("statWcag", STATS.wcagGreen != null ? STATS.wcagGreen : DATA.filter(function(e){ return e.wcag === "🟢"; }).length);
+
+  /* ---------- controls ---------- */
+  var searchEl = document.getElementById("search");
+  var countrySel = document.getElementById("countrySel");
+  var sortSel = document.getElementById("sortSel");
+  var levelBtns = {}, flagBtns = {};
+
+  var levelChipsEl = document.getElementById("levelChips");
+  LEVELS.forEach(function(lv){
+    var b = document.createElement("button");
+    b.type = "button"; b.className = "chip"; b.textContent = lv.label;
+    b.setAttribute("aria-pressed", "false");
+    b.addEventListener("click", function(){
+      state.level = lv.id;
+      syncControls(); writeHash(); render();
+    });
+    levelBtns[lv.id] = b;
+    levelChipsEl.appendChild(b);
+  });
+
+  var flagChipsEl = document.getElementById("flagChips");
+  [["src", "Open source"], ["wcag", "Accessibility ● strong"], ["tools", "Storybook / Figma ● strong"]]
+  .forEach(function(pair){
+    var key = pair[0];
+    var b = document.createElement("button");
+    b.type = "button"; b.className = "chip toggle"; b.textContent = pair[1];
+    b.setAttribute("aria-pressed", "false");
+    b.addEventListener("click", function(){
+      state[key] = !state[key];
+      syncControls(); writeHash(); render();
+    });
+    flagBtns[key] = b;
+    flagChipsEl.appendChild(b);
+  });
+
+  // Country select: every canonical country on the chart, with its count.
+  var allOpt = document.createElement("option");
+  allOpt.value = ""; allOpt.textContent = "All countries";
+  countrySel.appendChild(allOpt);
+  Object.keys(counts).filter(function(k){ return !NON_GEO[k]; }).sort()
+  .forEach(function(c){
+    var o = document.createElement("option");
+    o.value = c; o.textContent = c + " (" + counts[c] + ")";
+    countrySel.appendChild(o);
+  });
+  countrySel.addEventListener("change", function(){
+    setCountry(countrySel.value || null);
+  });
+
+  sortSel.addEventListener("change", function(){
+    state.sort = sortSel.value;
+    writeHash(); render();
+  });
+
+  searchEl.addEventListener("input", function(){
+    state.q = searchEl.value;
+    writeHash(); render();
+  });
+
+  function syncControls(){
+    searchEl.value = state.q;
+    LEVELS.forEach(function(lv){
+      levelBtns[lv.id].setAttribute("aria-pressed", state.level === lv.id ? "true" : "false");
+    });
+    ["src", "wcag", "tools"].forEach(function(k){
+      flagBtns[k].setAttribute("aria-pressed", state[k] ? "true" : "false");
+    });
+    sortSel.value = state.sort;
+  }
+
+  /* ---------- country selection (map, select, banner stay in step) ---------- */
+  var banner = document.getElementById("countryBanner");
+  var mapHighlight = null;  // installed by the chart once drawn
+
+  function applyCountryUI(){
+    var c = state.country;
+    if (c){
+      document.getElementById("bannerCountry").textContent = c;
+      document.getElementById("bannerCount").textContent =
+        "— " + (counts[c] || 0) + ((counts[c] || 0) === 1 ? " system" : " systems");
+      banner.classList.add("show");
+    } else {
+      banner.classList.remove("show");
+    }
+    countrySel.value = c || "";
+    if (mapHighlight) mapHighlight(c);
+  }
+
+  function setCountry(c){
+    state.country = c;
+    applyCountryUI();
+    writeHash();
+    render();
+  }
+  document.getElementById("bannerClear").addEventListener("click", function(){ setCountry(null); });
+
+  function resetFilters(){
+    state.q = ""; state.level = "all";
+    state.src = false; state.wcag = false; state.tools = false;
+    state.country = null; state.open = null;
+    syncControls(); applyCountryUI(); writeHash(); render();
+  }
+
+  /* ---------- filtering, sorting, rendering ---------- */
+  function matches(e){
+    if (state.level !== "all" && e.level !== LEVEL_LABEL[state.level]) return false;
+    if (state.country && e._canon !== state.country) return false;
+    if (state.src && !e.source) return false;
+    if (state.wcag && e.wcag !== "🟢") return false;
+    if (state.tools && e.tools !== "🟢") return false;
+    var q = state.q.toLowerCase().trim();
+    if (q){
+      var hay = ((e.name || "") + " " + (e.country || "") + " " + e._canon + " " +
+                 (e.status || "") + " " + (e.tech || "") + " " + (e.techInfo || "") + " " +
+                 (e.info || "")).toLowerCase();
+      if (hay.indexOf(q) === -1) return false;
+    }
+    return true;
+  }
+
+  function sortList(list){
+    if (state.sort === "country"){
+      list.sort(function(a, b){
+        return a._canon.localeCompare(b._canon) || (a.name || "").localeCompare(b.name || "");
+      });
+    } else if (state.sort === "level"){
+      list.sort(function(a, b){
+        var d = (LEVEL_ORDER[a.level] != null ? LEVEL_ORDER[a.level] : 9) -
+                (LEVEL_ORDER[b.level] != null ? LEVEL_ORDER[b.level] : 9);
+        return d || (a.name || "").localeCompare(b.name || "");
+      });
+    } else {
+      list.sort(function(a, b){ return (a.name || "").localeCompare(b.name || ""); });
+    }
+  }
+
+  function dotClass(marker){ return marker === "🟢" ? "g" : marker === "🟡" ? "a" : marker === "🔴" ? "r" : "n"; }
+  function dotWord(marker){ return marker === "🟢" ? "Strong" : marker === "🟡" ? "Partial" : marker === "🔴" ? "Absent" : "Not stated"; }
+
+  var resultsEl = document.getElementById("results");
+  var countText = document.getElementById("countText");
+  var countSub = document.getElementById("countSub");
+  var openBtn = null, openPanel = null;
+
+  function closeOpen(){
+    if (openPanel) openPanel.hidden = true;
+    if (openBtn) openBtn.setAttribute("aria-expanded", "false");
+    openBtn = null; openPanel = null;
+  }
+
+  function markerValue(marker, note){
+    var span = document.createElement("span");
+    var d = document.createElement("i");
+    d.className = "dot " + dotClass(marker);
+    d.setAttribute("aria-hidden", "true");
+    span.appendChild(d);
+    span.appendChild(document.createTextNode(note || dotWord(marker)));
+    return span;
+  }
+
+  function detailRow(label, valueNode){
+    var row = document.createElement("div");
+    row.className = "d-row";
+    var l = document.createElement("div");
+    l.className = "d-label"; l.textContent = label;
+    var v = document.createElement("div");
+    v.className = "d-value";
+    if (typeof valueNode === "string") v.textContent = valueNode;
+    else v.appendChild(valueNode);
+    row.appendChild(l); row.appendChild(v);
+    return row;
+  }
+
+  function buildDetail(e){
+    var panel = document.createElement("div");
+    panel.className = "detail";
+    panel.id = "detail-" + e._idx;
+    panel.hidden = state.open !== e.name;
+
+    if (e.status) panel.appendChild(detailRow("Status", e.status));
+    if (e.info) panel.appendChild(detailRow("About", e.info));
+    var techText = [e.tech, e.techInfo].filter(Boolean).join(" — ");
+    if (techText) panel.appendChild(detailRow("Technology", techText));
+    panel.appendChild(detailRow("Web components", markerValue(e.webComponents, null)));
+    panel.appendChild(detailRow("Accessibility", markerValue(e.wcag, e.wcagInfo)));
+    panel.appendChild(detailRow("Storybook / Figma", markerValue(e.tools, e.toolsInfo)));
+
+    var links = document.createElement("div");
+    links.className = "d-links";
+    if (e.url){
+      var visit = document.createElement("a");
+      visit.className = "d-link primary";
+      visit.href = e.url; visit.target = "_blank"; visit.rel = "noopener";
+      visit.textContent = "Visit system ↗";
+      links.appendChild(visit);
+    }
+    if (e.source){
+      var src = document.createElement("a");
+      src.className = "d-link";
+      src.href = e.source; src.target = "_blank"; src.rel = "noopener";
+      src.textContent = "Source code ↗";
+      links.appendChild(src);
+    }
+    if (links.childNodes.length) panel.appendChild(links);
+    return panel;
+  }
+
+  function buildRow(e){
+    var row = document.createElement("article");
+    row.className = "row";
+
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "row-head";
+    var isOpen = state.open === e.name;
+    btn.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    btn.setAttribute("aria-controls", "detail-" + e._idx);
+
+    var top = document.createElement("div");
+    top.className = "row-top";
+    var name = document.createElement("span");
+    name.className = "row-name";
+    name.textContent = e.name || "Untitled system";
+    top.appendChild(name);
+
+    var dots = document.createElement("span");
+    dots.className = "dots";
+    dots.setAttribute("aria-hidden", "true");
+    [["Web components", e.webComponents], ["Accessibility", e.wcag], ["Storybook / Figma", e.tools]]
+    .forEach(function(pair){
+      var s = document.createElement("i");
+      s.className = "dot " + dotClass(pair[1]);
+      s.title = pair[0] + ": " + dotWord(pair[1]);
+      dots.appendChild(s);
+    });
+    top.appendChild(dots);
+
+    var chev = document.createElement("span");
+    chev.className = "chev";
+    chev.setAttribute("aria-hidden", "true");
+    chev.textContent = "▸";
+    top.appendChild(chev);
+    btn.appendChild(top);
+
+    var meta = document.createElement("div");
+    meta.className = "row-meta";
+    meta.textContent = (e.level || "") + "  ·  " + (e.country || "");
+    btn.appendChild(meta);
+
+    if (e.status){
+      var st = document.createElement("div");
+      st.className = "row-status";
+      st.textContent = e.status;
+      btn.appendChild(st);
+    }
+    row.appendChild(btn);
+
+    var panel = buildDetail(e);
+    if (isOpen){ openBtn = btn; openPanel = panel; }
+    row.appendChild(panel);
+
+    btn.addEventListener("click", function(){
+      if (state.open === e.name){
+        closeOpen();
+        state.open = null;
+      } else {
+        closeOpen();
+        panel.hidden = false;
+        btn.setAttribute("aria-expanded", "true");
+        openBtn = btn; openPanel = panel;
+        state.open = e.name;
+      }
+    });
+
+    return row;
+  }
+
+  function render(){
+    openBtn = null; openPanel = null;
+    var list = DATA.filter(matches);
+    sortList(list);
+    countText.textContent = "Showing " + list.length + " of " + DATA.length;
+    countSub.textContent = state.country ? "— " + state.country + " only" : "systems";
+    resultsEl.innerHTML = "";
+    if (!list.length){
+      var d = document.createElement("div");
+      d.className = "empty";
+      var p = document.createElement("p");
+      p.textContent = "No systems match — clear filters";
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "clear-btn"; b.textContent = "Clear filters";
+      b.addEventListener("click", resetFilters);
+      d.appendChild(p); d.appendChild(b);
+      resultsEl.appendChild(d);
+      return;
+    }
+    var frag = document.createDocumentFragment();
+    list.forEach(function(e){ frag.appendChild(buildRow(e)); });
+    resultsEl.appendChild(frag);
+  }
+
+  /* ---------- legend ---------- */
+  var BINS = [
+    {label: "0", color: "#e9e5da"},
+    {label: "1", color: "#bccdf3"},
+    {label: "2–4", color: "#7f9be6"},
+    {label: "5–9", color: "#4068d8"},
+    {label: "10+", color: "#002fa7"}
+  ];
+  function binColor(n){
+    if (!n) return BINS[0].color;
+    if (n === 1) return BINS[1].color;
+    if (n <= 4) return BINS[2].color;
+    if (n <= 9) return BINS[3].color;
+    return BINS[4].color;
+  }
+  var legendEl = document.getElementById("legend");
+  var lg = '<span class="lg-label">Systems per country</span>';
+  BINS.forEach(function(b){
+    lg += '<span><span class="sw" style="background:' + b.color + '"></span>' + b.label + '</span>';
+  });
+  legendEl.innerHTML = lg;
+
+  /* ---------- init from hash ---------- */
+  readHash();
+  syncControls();
+  applyCountryUI();
+  render();
+
+  window.addEventListener("hashchange", function(){
+    state.q = ""; state.level = "all";
+    state.src = false; state.wcag = false; state.tools = false;
+    state.country = null; state.sort = "name";
+    readHash();
+    syncControls();
+    applyCountryUI();
+    render();
+  });
+
+  /* ---------- the chart ---------- */
+  var fallback = document.getElementById("mapFallback");
+  var svgEl = document.getElementById("map");
+  function mapFail(){
+    fallback.hidden = false;
+    svgEl.style.display = "none";
+  }
+
+  if (typeof d3 === "undefined" || typeof topojson === "undefined"){
+    mapFail();
+  } else {
+    fetch("vendor/countries-110m.json")
+      .then(function(r){ if (!r.ok) throw new Error("topojson " + r.status); return r.json(); })
+      .then(function(world){
+        var fc = topojson.feature(world, world.objects.countries);
+        var svg = d3.select(svgEl);
+        var W = 820, H = 470;
+        var proj = d3.geoNaturalEarth1().fitExtent([[4, 8], [W - 4, H - 4]], fc);
+        var path = d3.geoPath(proj);
+        var tip = document.getElementById("tooltip");
+        var wrap = document.getElementById("mapWrap");
+
+        svg.append("path").attr("class", "sphere").attr("d", path({type: "Sphere"}));
+        svg.append("path").attr("class", "graticule").attr("d", path(d3.geoGraticule10()));
+
+        var charted = 0;
+        var paths = svg.selectAll("path.country")
+          .data(fc.features)
+          .enter().append("path")
+          .attr("class", "country")
+          .attr("d", path)
+          .attr("fill", function(d){
+            var c = NE_ALIAS[d.properties.name] || d.properties.name;
+            return binColor(counts[c] || 0);
+          });
+
+        paths.each(function(d){
+          var c = NE_ALIAS[d.properties.name] || d.properties.name;
+          var n = counts[c] || 0;
+          if (n > 0){ this.classList.add("clickable"); charted++; }
+          this._canon = c; this._n = n;
+        });
+
+        if (charted > 0){
+          setText("statCountries", charted);
+          svgEl.setAttribute("aria-label",
+            "World choropleth map: " + charted + " countries charted with at least one catalogued " +
+            "government design system. Use the country filter beside the gazetteer to list a country's systems.");
+        }
+
+        paths.on("mousemove", function(event){
+          var r = wrap.getBoundingClientRect();
+          var x = event.clientX - r.left, y = event.clientY - r.top;
+          tip.style.left = Math.min(x + 14, Math.max(0, r.width - 170)) + "px";
+          tip.style.top = (y + 14) + "px";
+          tip.innerHTML = "";
+          var cEl = document.createElement("div");
+          cEl.className = "t-country";
+          cEl.textContent = this._canon;
+          var nEl = document.createElement("div");
+          nEl.className = "t-count";
+          nEl.textContent = this._n > 0
+            ? this._n + (this._n === 1 ? " system catalogued" : " systems catalogued")
+            : "none catalogued yet";
+          tip.appendChild(cEl); tip.appendChild(nEl);
+          tip.style.opacity = "1";
+        });
+        paths.on("mouseleave", function(){ tip.style.opacity = "0"; });
+        paths.on("click", function(){
+          if (!this._n) return;
+          setCountry(state.country === this._canon ? null : this._canon);
+        });
+
+        mapHighlight = function(c){
+          paths.classed("selected", function(){ return !!c && this._canon === c; });
+        };
+        if (state.country) mapHighlight(state.country);
+      })
+      .catch(mapFail);
+  }
+})();
+</script>
+</body>
+</html>
