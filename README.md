@@ -18,61 +18,62 @@ Click on a table entry below to be taken to more information about it's Design S
 | [Australia - Department of Health](#australia---department-of-health) | [Belgium/Flanders](#belgiumflanders) | [Mexico City, Mexico](#mexico-city-mexico) |
 | [Austria](#austria) | [Brazil - Mato Grosso do Sul](#brazil---mato-grosso-do-sul) | [Oslo, Norway](#oslo-norway) |
 | [Bahrain](#bahrain) | [Canada - Alberta](#canada---alberta) | [Rotterdam, Netherlands](#rotterdam-netherlands) |
-| [Bangladesh](#bangladesh) | [Canada - British Columbia](#canada---british-columbia) | [The Hague, Netherlands](#the-hague-netherlands) |
-| [Belgium/Flanders](#belgiumflanders) | [Canada - New Brunswick](#canada---new-brunswick) | [Tilburg, Netherlands](#tilburg-netherlands) |
-| [Botswana](#botswana) | [Canada - Nova Scotia](#canada---nova-scotia) | [Utrecht, Netherlands](#utrecht-netherlands) |
-| [Brazil](#brazil) | [Canada - Ontario](#canada---ontario) | [Winnipeg, Canada](#winnipeg-canada) |
-| [Canada](#canada) | [Canada - Québec](#canada---québec) | [United Kingdom - Bristol City Council](#bristol-city-council) |
-| [Canada - Service Canada](#canada---service-canada) | [Canada - Yukon](#canada---yukon) | [United Kingdom - Camden](#camden) |
-| [Chile](#chile) | [Germany - Baden-Württemberg](#germany---baden-württemberg) | [United Kingdom - Croydon](#croydon) |
-| [Colombia](#colombia) | [Germany - Berlin](#germany---berlin) | [United Kingdom - Hackney](#hackney) |
-| [Costa Rica](#costa-rica) | [Germany - KERN](#germany---kern) | [United Kingdom - Redbridge](#redbridge) |
-| [Cyprus](#cyprus) | [Germany - Brandenburg](#germany---brandenburg) | [United Kingdom - Southwark](#southwark) |
-| [Czech Republic](#czech-republic) | [Germany - Saxony](#germany---saxony) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
-| [Denmark](#denmark) | [Switzerland - Basel-Stadt](#switzerland---basel-stadt) | [United States - Austin, Texas](#austin-texas) |
-| [Dominican Republic](#dominican-republic) | [Japan - Tokyo](#japan---tokyo) | [United States - Baltimore, Maryland](#baltimore-maryland) |
-| [Estonia](#estonia) | [Spain - Andalucía](#spain---andalucía) | [United States - Bloomington, Indiana](#bloomington-indiana) |
-| [Estonia - TEDI](#estonia---tedi) | [Spain - Aragón](#spain---aragón) | [United States - Boston, Massachusetts](#boston-massachusetts) |
-| [European Commission (ECL)](#european-commission-ecl) | [Spain - Catalonia (AOC)](#spain---catalonia-aoc) | [United States - Chicago, Illinois](#chicago-illinois) |
-| [Finland](#finland) | [Portugal - Azores](#portugal---azores) | [United States - Denver, Colorado](#denver-colorado) |
-| [France](#france) | [Italy - Puglia](#italy---puglia) | [United States - El Paso, Texas](#el-paso-texas) |
-| [Germany](#germany) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Hennepin County, Minnesota](#hennepin-county-minnesota) |
-| [Greece](#greece) | [United Kingdom - Northern Ireland](#united-kingdom---northern-ireland) | [United States - Houston, Texas](#houston-texas) |
-| [Hong Kong](#hong-kong) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Los Angeles, California](#los-angeles-california) |
-| [Iceland](#iceland) | [United Kingdom - Wales](#united-kingdom---wales) | [United States - Minneapolis, Minnesota](#minneapolis-minnesota) |
-| [India](#india) | [United States - Alaska](#united-states---alaska) | [United States - New York City](#new-york-city) |
-| [India - Digital Brand Identity Manual (DBIM)](#india---digital-brand-identity-manual-dbim) | [United States - California](#united-states---california) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [Indonesia](#indonesia) | [United States - Colorado](#united-states---colorado) | [United States - Portland, Oregon](#portland-oregon) |
-| [Ireland](#ireland) | [United States - Connecticut](#united-states---connecticut) | [United States - San Diego, California](#san-diego-california) |
-| [Israel](#israel) | [United States - Delaware](#united-states---delaware) | [United States - San Francisco, California](#san-francisco-california) |
-| [Italy](#italy) | [United States - Georgia](#united-states---georgia) | [United States - Seattle, Washington](#seattle-washington) |
-| [Italy - INPS (Sirio)](#italy---inps-sirio) | [United States - Hawaii](#united-states---hawaii) | [United States - St. Louis, Missouri](#st-louis-missouri) |
-| [Japan](#japan) | [United States - Illinois](#united-states---illinois) |  |
-| [Jordan](#jordan) | [United States - Iowa](#united-states---iowa) |  |
-| [Kenya](#kenya) | [United States - Kentucky](#united-states---kentucky) |  |
-| [Lebanon](#lebanon) | [United States - Louisiana](#united-states---louisiana) |  |
-| [Luxembourg](#luxembourg) | [United States - Maryland](#united-states---maryland) |  |
-| [Malaysia](#malaysia) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [Maldives](#maldives) | [United States - Michigan](#united-states---michigan) |  |
-| [Mauritius](#mauritius) | [United States - Minnesota](#united-states---minnesota) |  |
-| [Mexico](#mexico) | [United States - Missouri](#united-states---missouri) |  |
-| [Moldova](#moldova) | [United States - Nebraska](#united-states---nebraska) |  |
-| [Mongolia](#mongolia) | [United States - Nevada](#united-states---nevada) |  |
-| [Netherlands](#netherlands) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Netherlands - Logius (LUX)](#netherlands---logius-lux) | [United States - New York](#united-states---new-york) |  |
-| [Netherlands - RVO](#netherlands---rvo) | [United States - North Carolina](#united-states---north-carolina) |  |
-| [New Zealand](#new-zealand) | [United States - Ohio](#united-states---ohio) |  |
-| [Nigeria](#nigeria) | [United States - Oregon](#united-states---oregon) |  |
-| [Norway](#norway) | [United States - Oklahoma](#united-states---oklahoma) |  |
-| [Norway - NAV](#norway---nav) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Oman](#oman) | [United States - Puerto Rico](#united-states---puerto-rico) |  |
-| [Pakistan - Digital Design Nizam](#pakistan---digital-design-nizam) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Peru](#peru) | [United States - South Dakota](#united-states---south-dakota) |  |
-| [Philippines](#philippines) | [United States - Texas](#united-states---texas) |  |
-| [Philippines - Kapwa Design System](#philippines---kapwa-design-system) | [United States - Utah](#united-states---utah) |  |
-| [Poland](#poland) | [United States - Vermont](#united-states---vermont) |  |
-| [Portugal](#portugal) | [United States - Virginia](#united-states---virginia) |  |
-| [Qatar](#qatar) | [United States - Wisconsin](#united-states---wisconsin) |  |
+| [Barbados](#barbados) | [Canada - British Columbia](#canada---british-columbia) | [The Hague, Netherlands](#the-hague-netherlands) |
+| [Bangladesh](#bangladesh) | [Canada - New Brunswick](#canada---new-brunswick) | [Tilburg, Netherlands](#tilburg-netherlands) |
+| [Belgium/Flanders](#belgiumflanders) | [Canada - Nova Scotia](#canada---nova-scotia) | [Utrecht, Netherlands](#utrecht-netherlands) |
+| [Botswana](#botswana) | [Canada - Ontario](#canada---ontario) | [Winnipeg, Canada](#winnipeg-canada) |
+| [Brazil](#brazil) | [Canada - Québec](#canada---québec) | [United Kingdom - Bristol City Council](#bristol-city-council) |
+| [Canada](#canada) | [Canada - Yukon](#canada---yukon) | [United Kingdom - Camden](#camden) |
+| [Canada - Service Canada](#canada---service-canada) | [Germany - Baden-Württemberg](#germany---baden-württemberg) | [United Kingdom - Croydon](#croydon) |
+| [Chile](#chile) | [Germany - Berlin](#germany---berlin) | [United Kingdom - Hackney](#hackney) |
+| [Colombia](#colombia) | [Germany - KERN](#germany---kern) | [United Kingdom - Redbridge](#redbridge) |
+| [Costa Rica](#costa-rica) | [Germany - Brandenburg](#germany---brandenburg) | [United Kingdom - Southwark](#southwark) |
+| [Cyprus](#cyprus) | [Germany - Saxony](#germany---saxony) | [United Kingdom - Transport for West Midlands](#transport-for-west-midlands) |
+| [Czech Republic](#czech-republic) | [Switzerland - Basel-Stadt](#switzerland---basel-stadt) | [United States - Austin, Texas](#austin-texas) |
+| [Denmark](#denmark) | [Japan - Tokyo](#japan---tokyo) | [United States - Baltimore, Maryland](#baltimore-maryland) |
+| [Dominican Republic](#dominican-republic) | [Spain - Andalucía](#spain---andalucía) | [United States - Bloomington, Indiana](#bloomington-indiana) |
+| [Estonia](#estonia) | [Spain - Aragón](#spain---aragón) | [United States - Boston, Massachusetts](#boston-massachusetts) |
+| [Estonia - TEDI](#estonia---tedi) | [Spain - Catalonia (AOC)](#spain---catalonia-aoc) | [United States - Chicago, Illinois](#chicago-illinois) |
+| [European Commission (ECL)](#european-commission-ecl) | [Portugal - Azores](#portugal---azores) | [United States - Denver, Colorado](#denver-colorado) |
+| [Finland](#finland) | [Italy - Puglia](#italy---puglia) | [United States - El Paso, Texas](#el-paso-texas) |
+| [France](#france) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Hennepin County, Minnesota](#hennepin-county-minnesota) |
+| [Germany](#germany) | [United Kingdom - Northern Ireland](#united-kingdom---northern-ireland) | [United States - Houston, Texas](#houston-texas) |
+| [Greece](#greece) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Los Angeles, California](#los-angeles-california) |
+| [Hong Kong](#hong-kong) | [United Kingdom - Wales](#united-kingdom---wales) | [United States - Minneapolis, Minnesota](#minneapolis-minnesota) |
+| [Iceland](#iceland) | [United States - Alaska](#united-states---alaska) | [United States - New York City](#new-york-city) |
+| [India](#india) | [United States - California](#united-states---california) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [India - Digital Brand Identity Manual (DBIM)](#india---digital-brand-identity-manual-dbim) | [United States - Colorado](#united-states---colorado) | [United States - Portland, Oregon](#portland-oregon) |
+| [Indonesia](#indonesia) | [United States - Connecticut](#united-states---connecticut) | [United States - San Diego, California](#san-diego-california) |
+| [Ireland](#ireland) | [United States - Delaware](#united-states---delaware) | [United States - San Francisco, California](#san-francisco-california) |
+| [Israel](#israel) | [United States - Georgia](#united-states---georgia) | [United States - Seattle, Washington](#seattle-washington) |
+| [Italy](#italy) | [United States - Hawaii](#united-states---hawaii) | [United States - St. Louis, Missouri](#st-louis-missouri) |
+| [Italy - INPS (Sirio)](#italy---inps-sirio) | [United States - Illinois](#united-states---illinois) |  |
+| [Japan](#japan) | [United States - Iowa](#united-states---iowa) |  |
+| [Jordan](#jordan) | [United States - Kentucky](#united-states---kentucky) |  |
+| [Kenya](#kenya) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Lebanon](#lebanon) | [United States - Maryland](#united-states---maryland) |  |
+| [Luxembourg](#luxembourg) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [Malaysia](#malaysia) | [United States - Michigan](#united-states---michigan) |  |
+| [Maldives](#maldives) | [United States - Minnesota](#united-states---minnesota) |  |
+| [Mauritius](#mauritius) | [United States - Missouri](#united-states---missouri) |  |
+| [Mexico](#mexico) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Moldova](#moldova) | [United States - Nevada](#united-states---nevada) |  |
+| [Mongolia](#mongolia) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Netherlands](#netherlands) | [United States - New York](#united-states---new-york) |  |
+| [Netherlands - Logius (LUX)](#netherlands---logius-lux) | [United States - North Carolina](#united-states---north-carolina) |  |
+| [Netherlands - RVO](#netherlands---rvo) | [United States - Ohio](#united-states---ohio) |  |
+| [New Zealand](#new-zealand) | [United States - Oregon](#united-states---oregon) |  |
+| [Nigeria](#nigeria) | [United States - Oklahoma](#united-states---oklahoma) |  |
+| [Norway](#norway) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Norway - NAV](#norway---nav) | [United States - Puerto Rico](#united-states---puerto-rico) |  |
+| [Oman](#oman) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Pakistan - Digital Design Nizam](#pakistan---digital-design-nizam) | [United States - South Dakota](#united-states---south-dakota) |  |
+| [Peru](#peru) | [United States - Texas](#united-states---texas) |  |
+| [Philippines](#philippines) | [United States - Utah](#united-states---utah) |  |
+| [Philippines - Kapwa Design System](#philippines---kapwa-design-system) | [United States - Vermont](#united-states---vermont) |  |
+| [Poland](#poland) | [United States - Virginia](#united-states---virginia) |  |
+| [Portugal](#portugal) | [United States - Wisconsin](#united-states---wisconsin) |  |
+| [Qatar](#qatar) |  |  |
 | [Rwanda](#rwanda) |  |  |
 | [Saudi Arabia](#saudi-arabia) |  |  |
 | [Scotland](#scotland) |  |  |
@@ -203,6 +204,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | 700+ digital services available. Component library and design system specifics not publicly documented |
 | 508 Compliant | 🟢 | Services designed around needs of all constituents including those with disabilities. Simplification of administrative procedures and service reengineering for efficiency |
 | Storybook / Figma | 🔴 | National Enterprise Architecture governance framework, digital transformation playbook with guidelines and best practices |
+
+### [Barbados](https://design-system.service.alpha.gov.bb/)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| [Source Code](https://github.com/govtech-bb/design-system) | Active development - pre-release (alpha) | GovBB Design System by GovTech Barbados. Monorepo (pnpm workspaces + Turborepo) with a React component package (@govtech-bb/react), a framework-agnostic frontend package (@govtech-bb/frontend), design tokens, the documentation site and a Storybook instance. Packages at 1.0.0-alpha.x; the repo warns the system is pre-release and may change frequently |
+| Underpinning Technology | React + TypeScript, Tailwind CSS | Design tokens and Tailwind configuration live in a dedicated design package; a separate HTML/CSS package serves server-rendered services; documentation modelled on the GOV.UK Design System |
+| Web Components | 🟢 | Full component library published as code — 20+ documented components (accordion, button, checkbox, combobox, date input, error summary, file upload, header, footer and more) with HTML and React examples |
+| 508 Compliant | 🟢 | The system's own accessibility standard requires services built with it to conform to WCAG 2.2 Level AA |
+| Storybook / Figma | 🟡 | Storybook lives in the source repo (visual testing and documentation of the React components); no public Storybook or Figma library is linked from the documentation site |
 
 ### [Bangladesh](https://a2i.gov.bd/)
 | **Feature** | **Status** | **Other Info** |
