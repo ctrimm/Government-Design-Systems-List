@@ -39,40 +39,41 @@ Click on a table entry below to be taken to more information about it's Design S
 | [France](#france) | [United Kingdom - Essex](#united-kingdom---essex) | [United States - Hennepin County, Minnesota](#hennepin-county-minnesota) |
 | [Germany](#germany) | [United Kingdom - Northern Ireland](#united-kingdom---northern-ireland) | [United States - Houston, Texas](#houston-texas) |
 | [Greece](#greece) | [United Kingdom - Oxfordshire County Council](#united-kingdom---oxfordshire-county-council) | [United States - Los Angeles, California](#los-angeles-california) |
-| [Hong Kong](#hong-kong) | [United Kingdom - Wales](#united-kingdom---wales) | [United States - Minneapolis, Minnesota](#minneapolis-minnesota) |
-| [Iceland](#iceland) | [United States - Alaska](#united-states---alaska) | [United States - New York City](#new-york-city) |
-| [India](#india) | [United States - California](#united-states---california) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
-| [India - Digital Brand Identity Manual (DBIM)](#india---digital-brand-identity-manual-dbim) | [United States - Colorado](#united-states---colorado) | [United States - Portland, Oregon](#portland-oregon) |
-| [Indonesia](#indonesia) | [United States - Connecticut](#united-states---connecticut) | [United States - San Diego, California](#san-diego-california) |
-| [Ireland](#ireland) | [United States - Delaware](#united-states---delaware) | [United States - San Francisco, California](#san-francisco-california) |
-| [Israel](#israel) | [United States - Georgia](#united-states---georgia) | [United States - Seattle, Washington](#seattle-washington) |
-| [Italy](#italy) | [United States - Hawaii](#united-states---hawaii) | [United States - St. Louis, Missouri](#st-louis-missouri) |
-| [Italy - INPS (Sirio)](#italy---inps-sirio) | [United States - Illinois](#united-states---illinois) |  |
-| [Japan](#japan) | [United States - Iowa](#united-states---iowa) |  |
-| [Jordan](#jordan) | [United States - Kentucky](#united-states---kentucky) |  |
-| [Kenya](#kenya) | [United States - Louisiana](#united-states---louisiana) |  |
-| [Lebanon](#lebanon) | [United States - Maryland](#united-states---maryland) |  |
-| [Luxembourg](#luxembourg) | [United States - Massachusetts](#united-states---massachusetts) |  |
-| [Malaysia](#malaysia) | [United States - Michigan](#united-states---michigan) |  |
-| [Maldives](#maldives) | [United States - Minnesota](#united-states---minnesota) |  |
-| [Mauritius](#mauritius) | [United States - Missouri](#united-states---missouri) |  |
-| [Mexico](#mexico) | [United States - Nebraska](#united-states---nebraska) |  |
-| [Moldova](#moldova) | [United States - Nevada](#united-states---nevada) |  |
-| [Mongolia](#mongolia) | [United States - New Jersey](#united-states---new-jersey) |  |
-| [Netherlands](#netherlands) | [United States - New York](#united-states---new-york) |  |
-| [Netherlands - Logius (LUX)](#netherlands---logius-lux) | [United States - North Carolina](#united-states---north-carolina) |  |
-| [Netherlands - RVO](#netherlands---rvo) | [United States - Ohio](#united-states---ohio) |  |
-| [New Zealand](#new-zealand) | [United States - Oregon](#united-states---oregon) |  |
-| [Nigeria](#nigeria) | [United States - Oklahoma](#united-states---oklahoma) |  |
-| [Norway](#norway) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
-| [Norway - NAV](#norway---nav) | [United States - Puerto Rico](#united-states---puerto-rico) |  |
-| [Oman](#oman) | [United States - Rhode Island](#united-states---rhode-island) |  |
-| [Pakistan - Digital Design Nizam](#pakistan---digital-design-nizam) | [United States - South Dakota](#united-states---south-dakota) |  |
-| [Peru](#peru) | [United States - Texas](#united-states---texas) |  |
-| [Philippines](#philippines) | [United States - Utah](#united-states---utah) |  |
-| [Philippines - Kapwa Design System](#philippines---kapwa-design-system) | [United States - Vermont](#united-states---vermont) |  |
-| [Poland](#poland) | [United States - Virginia](#united-states---virginia) |  |
-| [Portugal](#portugal) | [United States - Wisconsin](#united-states---wisconsin) |  |
+| [Greenland](#greenland) | [United Kingdom - Wales](#united-kingdom---wales) | [United States - Minneapolis, Minnesota](#minneapolis-minnesota) |
+| [Hong Kong](#hong-kong) | [United States - Alaska](#united-states---alaska) | [United States - New York City](#new-york-city) |
+| [Iceland](#iceland) | [United States - California](#united-states---california) | [United States - Philadelphia, Pennsylvania](#philadelphia-pennsylvania) |
+| [India](#india) | [United States - Colorado](#united-states---colorado) | [United States - Portland, Oregon](#portland-oregon) |
+| [India - Digital Brand Identity Manual (DBIM)](#india---digital-brand-identity-manual-dbim) | [United States - Connecticut](#united-states---connecticut) | [United States - San Diego, California](#san-diego-california) |
+| [Indonesia](#indonesia) | [United States - Delaware](#united-states---delaware) | [United States - San Francisco, California](#san-francisco-california) |
+| [Ireland](#ireland) | [United States - Georgia](#united-states---georgia) | [United States - Seattle, Washington](#seattle-washington) |
+| [Israel](#israel) | [United States - Hawaii](#united-states---hawaii) | [United States - St. Louis, Missouri](#st-louis-missouri) |
+| [Italy](#italy) | [United States - Illinois](#united-states---illinois) |  |
+| [Italy - INPS (Sirio)](#italy---inps-sirio) | [United States - Iowa](#united-states---iowa) |  |
+| [Japan](#japan) | [United States - Kentucky](#united-states---kentucky) |  |
+| [Jordan](#jordan) | [United States - Louisiana](#united-states---louisiana) |  |
+| [Kenya](#kenya) | [United States - Maryland](#united-states---maryland) |  |
+| [Lebanon](#lebanon) | [United States - Massachusetts](#united-states---massachusetts) |  |
+| [Luxembourg](#luxembourg) | [United States - Michigan](#united-states---michigan) |  |
+| [Malaysia](#malaysia) | [United States - Minnesota](#united-states---minnesota) |  |
+| [Maldives](#maldives) | [United States - Missouri](#united-states---missouri) |  |
+| [Mauritius](#mauritius) | [United States - Nebraska](#united-states---nebraska) |  |
+| [Mexico](#mexico) | [United States - Nevada](#united-states---nevada) |  |
+| [Moldova](#moldova) | [United States - New Jersey](#united-states---new-jersey) |  |
+| [Mongolia](#mongolia) | [United States - New York](#united-states---new-york) |  |
+| [Netherlands](#netherlands) | [United States - North Carolina](#united-states---north-carolina) |  |
+| [Netherlands - Logius (LUX)](#netherlands---logius-lux) | [United States - Ohio](#united-states---ohio) |  |
+| [Netherlands - RVO](#netherlands---rvo) | [United States - Oregon](#united-states---oregon) |  |
+| [New Zealand](#new-zealand) | [United States - Oklahoma](#united-states---oklahoma) |  |
+| [Nigeria](#nigeria) | [United States - Pennsylvania](#united-states---pennsylvania) |  |
+| [Norway](#norway) | [United States - Puerto Rico](#united-states---puerto-rico) |  |
+| [Norway - NAV](#norway---nav) | [United States - Rhode Island](#united-states---rhode-island) |  |
+| [Oman](#oman) | [United States - South Dakota](#united-states---south-dakota) |  |
+| [Pakistan - Digital Design Nizam](#pakistan---digital-design-nizam) | [United States - Texas](#united-states---texas) |  |
+| [Peru](#peru) | [United States - Utah](#united-states---utah) |  |
+| [Philippines](#philippines) | [United States - Vermont](#united-states---vermont) |  |
+| [Philippines - Kapwa Design System](#philippines---kapwa-design-system) | [United States - Virginia](#united-states---virginia) |  |
+| [Poland](#poland) | [United States - Wisconsin](#united-states---wisconsin) |  |
+| [Portugal](#portugal) |  |  |
 | [Qatar](#qatar) |  |  |
 | [Rwanda](#rwanda) |  |  |
 | [Saudi Arabia](#saudi-arabia) |  |  |
@@ -393,6 +394,15 @@ Click on a table entry below to be taken to more information about it's Design S
 | Web Components | 🟡 | Components available, source code availability unclear |
 | 508 Compliant | 🟢 | Must meet WCAG 2.1 Level AA per L. 4727/2020 and EU Directive 2016/2102. [Digital Accessibility Guide](https://digital-skills-jobs.europa.eu/en/inspiration/resources/digital-accessibility-guide-websites-and-mobile-applications-greek-public) published by Secretariat-General for Digital Governance |
 | Storybook / Figma | 🔴 | [Accessibility checklist](https://guide.services.gov.gr/docs/accessibility) and guidelines available |
+
+### [Greenland](https://www.sullissivik.gl/-/media/sullissivik/footerpage/markedsfoering-2022/designmanual-2022/designmanual_da.pdf)
+| **Feature** | **Status** | **Other Info** |
+| :---------- | :--------- | :------------- |
+| No Public Source Code Found | **Guidelines only - published design manual** | Sullissivik design guide by Digitaliseringsstyrelsen, Greenland's own Agency for Digitisation (institutionally separate from Denmark's agency). The agency's guide for integrated self-service solutions (updated Jul 2023) makes "sullissivik.gl's designguide" a mandatory requirement for authorities integrating services into the national portal |
+| Underpinning Technology | Not a code system - visual identity and templates | The Sullissivik Design Manual (2022, PDF; Danish and Greenlandic editions) specifies the portal's primary blue (Pantone 548c), logo rules, Helvetica typography, and announcement/PowerPoint templates. Authorities publishing on sullissivik.gl must use the agency's templates and follow its guidelines |
+| Web Components | 🔴 | No component library — the manual covers colours, logo, typography and templates only |
+| 508 Compliant | 🔴 | No accessibility standard is stated in the design manual or the self-service guide |
+| Storybook / Figma | 🔴 | None — published as PDF documents only |
 
 ### [Hong Kong](https://www.digitalpolicy.gov.hk/)
 | **Feature** | **Status** | **Other Info** |
