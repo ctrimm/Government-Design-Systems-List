@@ -1257,7 +1257,7 @@ Click on a table entry below to be taken to more information about it's Design S
 ### [Australia - Victoria](https://www.vic.gov.au/ripple-design-system)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| [Source Code](https://github.com/dpc-sdp/ripple-framework) | Ripple 2.0 - Active development (Apache 2.0) | Ripple Design System - digital design system of the Victorian Government, created 2018 for vic.gov.au and used on 50+ Victorian Government websites on the Single Digital Presence (SDP) platform. Maintained by the SDP team, Department of Government Services |
+| [Source Code](https://github.com/dpc-sdp/ripple) | Ripple 2.0 - Active development (Apache 2.0) | Ripple Design System - digital design system of the Victorian Government, created 2018 for vic.gov.au and used on 50+ Victorian Government websites on the Single Digital Presence (SDP) platform. Maintained by the SDP team, Department of Government Services |
 | Underpinning Technology | Nuxt / Vue.js | Frontend framework for the SDP platform; meets Brand Victoria guidelines |
 | Web Components | 🟢 | Component library built with Nuxt and Vue.js |
 | 508 Compliant | 🟢 | Built to high standards for accessibility, SEO, security and performance |
