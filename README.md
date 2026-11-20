@@ -1775,11 +1775,11 @@ Click on a table entry below to be taken to more information about it's Design S
 #### [Austin, Texas](https://github.com/cityofaustin/janis)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| [Source Code](https://github.com/cityofaustin/janis) | Archived - Last updated 2020 | Janis - Austin's service design platform. Repository archived and read-only |
-| Underpinning Technology | N/A | Service design platform |
-| Web Components | 🔴 | Project archived |
-| 508 Compliant | 🟡 | Accessibility information not detailed |
-| Storybook / Figma | 🔴 | Archived repository |
+| [Source Code](https://github.com/cityofaustin/janis) | Archived - Last updated Feb 2023 | Janis - the frontend for Alpha.austin.gov, the City of Austin's open-source municipal website, built 2019-2023 by the Office of Design and Delivery (ODD); its backend was "Joplin". Repository archived and read-only |
+| Underpinning Technology | React (static frontend) + Wagtail CMS (Django) | Static React frontend serving data from Joplin, a Wagtail (Django) CMS backend |
+| Web Components | 🟡 | React component library - 31 components under [src/components](https://github.com/cityofaustin/janis/tree/master/src/components); not W3C web components |
+| 508 Compliant | 🟡 | [Accessibility guidelines](https://github.com/cityofaustin/janis#accessibility-guidelines) published in the repo — reusable components built to keep proper attributes and ARIA labels; no WCAG conformance level claimed |
+| Storybook / Figma | 🔴 | None found |
 
 #### [Baltimore, Maryland](https://bromo-design-system.fly.dev/)
 | **Feature** | **Status** | **Other Info** |
