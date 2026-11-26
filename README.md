@@ -728,14 +728,14 @@ Click on a table entry below to be taken to more information about it's Design S
 | 508 Compliant | 🟡 | Focus on accessibility and user experience. Platform used by millions. Specific WCAG compliance not publicly detailed |
 | Storybook / Figma | 🔴 | Rwanda's digital platform model exported to Chad, Eswatini, Guinea, Kenya since 2018. 18+ cooperation agreements, 7,600+ officials from 70 countries hosted |
 
-### [Saudi Arabia](https://my.gov.sa/en)
+### [Saudi Arabia](https://design.dga.gov.sa/)
 | **Feature** | **Status** | **Other Info** |
 | :---------- | :--------- | :------------- |
-| No Public Source Code Found | **Digital Government Strategy 2025-2030 - Vision 2030** | Unified Design System at heart of digital transformation aligned with Vision 2030. Digital Government Authority (DGA) integrates accessibility into Unified Design System. 98% of public services digitized by end of 2022, remaining 2% targeted for 2025. Goal: Position Saudi Arabia among top 3 globally in digital government maturity |
-| Underpinning Technology | Unified Design System | Accessibility features include font size, color contrast for dyslexia and color blindness, standards for users with disabilities. National framework and DXMI score provide foundation for consistency and accessibility |
-| Web Components | 🟡 | Unified Design System provides consistent components across government services. Nafath and Absher platforms unify services across ministries. Technical implementation details not publicly available |
+| No Public Source Code Found | **Platforms Code (كود المنصات) - launched Nov 2024** | Platforms Code is Saudi Arabia's unified national design system from the Digital Government Authority (DGA); guidelines and design assets are published through the official portal (design.dga.gov.sa). No official public code repository found. An open-source community implementation, [NDS-vanilla](https://github.com/mazin-musleh/NDS-vanilla) (plain HTML/CSS/JS, MIT, [live site](https://mazin-musleh.github.io/NDS-vanilla/)), implements the system in framework-free code — a community project, not affiliated with the DGA |
+| Underpinning Technology | Platforms Code design system (Figma libraries; React per implementer guides) | Accessibility features include font size, color contrast for dyslexia and color blindness, standards for users with disabilities. National framework and DXMI score provide foundation for consistency and accessibility |
+| Web Components | 🟡 | Platforms Code provides a consistent component set across government services, published as a Figma component library; NDS-vanilla implements 110+ components in vanilla HTML/CSS/JS. Not W3C web components |
 | 508 Compliant | 🟢 | **Accessibility integrated into Unified Design System**. Addressing color contrast, font size, and disability standards. Services designed for seamless, citizen-centric, efficient digital experiences |
-| Storybook / Figma | 🔴 | Unified Design System saves 20% in UX effort. Digital transformation framework with standards for government digital services |
+| Storybook / Figma | 🟢 | [Public Figma files](https://www.figma.com/@sdga) published by the DGA — Foundations, Components Library, Mobile Components and Icons for Platforms Code, plus page templates (24 public resources). No public Storybook verified |
 
 ### [Scotland](https://designsystem.gov.scot/)
 | **Feature** | **Status** | **Other Info** |
